@@ -1,0 +1,4387 @@
+[
+    {
+        "id": "chunk0",
+        "chunk": "1 / 143 原发性肝癌诊疗指南（2024 年版） 一、概述 根据中国国家癌症中心发布的数据，2022 年全国原发性 肝癌发病人数36.77 万，位列各种癌症新发病人数第4 位（肺、 结直肠、甲状腺、肝），发病率位列第5 位（肺、女性乳腺、 甲状腺、结直肠、肝）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk1",
+        "chunk": "2022 年因原发性肝癌死亡人数31.65 万，死亡人数和死亡率均位列第2 位（肺、肝） [1-2]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk2",
+        "chunk": "原发性 肝癌主要包括肝细胞癌（hepatocellular carcinoma, HCC）、 肝内胆管癌（intrahepatic cholangiocarcinoma, ICC）和 混 合 型 肝 细 胞 癌 - 胆 管 癌 （ combined hepatocellular-cholangiocarcinoma, cHCC-CCA）3 种不同 病理学类型，三者在发病机制、生物学行为、病理组织学、 治疗方法以及预后等方面差异较大，其中HCC 占75%～85%、 ICC 占10%～15% [3-4]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk3",
+        "chunk": "为进一步规范我国肝癌诊疗行为，2017 年6 月原国家卫 生和计划生育委员会医政医管局主持制定并颁布了《原发性 肝癌诊疗规范（2017 年版）》，之后国家卫生健康委员会医政 医管局于2019 年12 月和2021 年12 月分别进行了2 次更新， 并最终修订颁布了《原发性肝癌诊疗规范（2019 年版）》和 《原发性肝癌诊疗指南（2022 年版）》",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk4",
+        "chunk": "《原发性肝癌诊疗指 2 / 143 南（2022 年版）》反映了当时我国肝癌诊断和多学科综合治 疗以及研究的状况，对规范肝癌的诊疗行为、改善肝癌患者 预后、保障医疗质量和医疗安全以及优化医疗资源发挥了重 要作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk5",
+        "chunk": "自《原发性肝癌诊疗指南（2022 年版）》发布后， 国内、外在肝癌的诊断、分期及治疗方面出现了许多符合循 证医学原则的高级别证据，尤其是适应中国国情的研究成果 相继问世",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk6",
+        "chunk": "为此，国家卫生健康委员会医政司委托中华医学 会肿瘤学分会，联合中国抗癌协会肝癌专业委员会、中国医 师协会介入医师分会、中国医师协会外科医师分会和中华医 学会超声医学分会等组织全国肝癌领域的多学科专家，结合 肝癌临床诊治和研究的最新实践，再次修订并更新形成《原 发性肝癌诊疗指南（2024 年版）》（以下简称指南），以更好 地规范肝癌的诊疗行为，反映肝癌诊治的最新进展，提升肝 癌患者的总体生存率，进一步推动落实并达成中国政府《“健 康中国2030”规划纲要》中实现总体癌症5 年生存率提高 15%的目标",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk7",
+        "chunk": "证据评价与推荐意见分级、制定和评价方法学（grading of recommendations ，assessment ，development and evaluation，GRADE）是目前使用最广泛的证据评价和推荐 意见分级系统 [5]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk8",
+        "chunk": "GRADE 系统包括两部分，第一部分为证据 评价，根据证据中的偏倚风险、不一致性、间接性、不精确 3 / 143 性和发表偏倚，GRADE 系统将证据质量分为高、中、低和极 低4 个水平 [6]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk9",
+        "chunk": "第二部分为推荐意见分级，GRADE 系统考虑 医学干预的利弊平衡、证据质量、价值观念与偏好，以及成 本与资源耗费等因素来制定推荐意见，并且将推荐意见分为 强推荐和弱推荐（有条件推荐）2 种 [7]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk10",
+        "chunk": "医学干预的利弊差 别越大，证据质量越高、价值观念与偏好越清晰越趋同、成 本与资源耗费越小，则越应该考虑强推荐",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk11",
+        "chunk": "本指南中的循证医学证据等级评估 参照了上述GRADE 分级的指导原则，采用了《牛津循证医学 中心分级2011 版》（OCEBM levels of evidence）作为辅助 工具来具体执行证据分级（证据等级1～5）（附录1）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk12",
+        "chunk": "在从 证据转换成推荐意见的方法上，指南专家组主要参考了上述 的GRADE 对推荐意见分级的指导原则，同时结合了ASCO 指 南的分级方案 [8]对推荐意见分级做了相应的修改（附录2）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk13",
+        "chunk": "最终将推荐强度分为3 个等级，分别是强推荐、中等程度推 荐和弱推荐（指南正文中分别用推荐A、推荐B 和推荐C 表 示）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk14",
+        "chunk": "强推荐（推荐A）代表专家组对该推荐意见反映了最佳 临床实践有很高的信心，绝大多数甚至所有的目标用户均应 采纳该推荐意见",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk15",
+        "chunk": "中等程度推荐（推荐B）代表专家组对该 推荐意见反映了最佳临床实践有中等程度的信心，多数目标 用户会采纳该推荐意见，但是执行过程中应注意考虑医患共 4 / 143 同决策",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk16",
+        "chunk": "弱推荐（推荐C）代表专家组对该推荐意见反映了 最佳临床实践有一定的信心，但是应该有条件地应用于目标 群体，强调医患共同决策",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk17",
+        "chunk": "二、筛查和诊断 （一）肝癌高危人群的筛查与监测 对肝癌高危人群的筛查与监测[超声显像联合血清甲胎 蛋白（alpha-fetoprotein，AFP）检测]，有助于肝癌的早 期发现、早期诊断和早期治疗 [9]，同时可以显著降低患者的 死亡风险 [10] （证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk18",
+        "chunk": "肝癌高危人群的快速、 便捷识别是实施大范围肝癌筛查的前提，而对人群肝癌风险 的分层评估是制定不同肝癌筛查策略的基础",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk19",
+        "chunk": "在我国，肝癌 高危人群主要包括：具有乙型肝炎病毒（hepatitis B virus， HBV）和/或丙型肝炎病毒（hepatitis C virus，HCV）感染、 过度饮酒、肝脂肪变性或代谢功能障碍相关性肝病、饮食中 黄曲霉毒素B1 的暴露、其他各种原因引起的肝硬化及有肝 癌家族史等人群，尤其年龄＞40 岁的男性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk20",
+        "chunk": "目前，抗HBV 和 抗HCV 治疗可显著降低肝癌的发生风险，但仍无法完全避免 肝癌的发生 [11]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk21",
+        "chunk": "由我国学者研发的适用于多种慢性肝病和各 种 族 的 肝 癌 风 险 评 估 模 型 aMAP 评 分 （age- male- albi- platelets score），可便捷地将肝病 人群分为肝癌低风险（aMAP 评分0～50 分）、中风险（aMAP 5 / 143 评分50～60 分）和高风险（aMAP 评分60～100 分）人群， 各组人群肝癌的年发生率分别为0～0.2%、0.4%～1.0% 和 1.6%～4.0% [12] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk22",
+        "chunk": "此外，基于多变 量纵向数据（aMAP、AFP）和循环游离DNA（cell-free DNA， cfDNA）特征构建的两种新型肝癌预测模型aMAP-2 和aMAP-2 Plus，可进一步识别出肝癌发生率高达12.5%的超高风险人 群 [13]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk23",
+        "chunk": "肝癌筛查应重视将肝癌风险预测评分作为有效工具， 开展社区、医院一体化的精准筛查新模式 [14]，从而有效提高 肝癌早期诊断率，降低病死率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk24",
+        "chunk": "高危人群至少每隔6 个月进 行1 次筛查 [9]（证据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk25",
+        "chunk": "（二）肝癌的影像学检查 不同影像学检查手段各有特点，应该强调综合应用、 优势互补、全面评估",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk26",
+        "chunk": "1.超声显像 超声显像具有便捷、实时、无创和无辐射等优势，是临 床上最常用的肝脏影像学检查方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk27",
+        "chunk": "常规灰阶超声显像可以早期、敏感地检出肝内占位性病 变，鉴别其是囊性或实性，初步判断良性或恶性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk28",
+        "chunk": "典型肝癌 灰阶超声表现为肝内实性占位，圆形或椭圆形，周边常可见 低回声的声晕",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk29",
+        "chunk": "内部多为低回声，也可表现为等回声、高回 声或不均匀回声",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk30",
+        "chunk": "灰阶超声还可观察到合并肝硬化的表现， 6 / 143 如肝脏回声增粗、肝脏体积缩小、肝表面凸凹不平、门静脉 高压等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk31",
+        "chunk": "同时，灰阶超声显像可以初步筛查肝内或腹腔内其他脏 器是否有转移灶、肝内血管及胆管侵犯情况等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk32",
+        "chunk": "肝内转移灶 多表现为肝内肿块周边或肝内其他部位出现大小不等的实 性结节，数目不定，直径多＜3 cm，周边可见声晕",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk33",
+        "chunk": "门静脉、 肝静脉及胆管癌栓表现为管腔内低回声",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk34",
+        "chunk": "癌栓完全充满门静 脉管腔时周边可出现细小侧支循环形成，呈蜂窝样改变",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk35",
+        "chunk": "肝 静脉癌栓可以延续至下腔静脉甚至右心房",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk36",
+        "chunk": "肝癌直接侵犯周 邻脏器如胆囊、右肾等，灰阶超声也可观察到肿瘤与上述结 构分界不清",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk37",
+        "chunk": "彩色多普勒血流成像可以观察病灶血供状况，辅助判断 病灶良恶性，显示病灶与肝内重要血管的毗邻关系以及有无 肝内血管侵犯，也可以初步判断肝癌局部治疗后的疗效情况",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk38",
+        "chunk": "肝癌在彩色多普勒血流成像上表现为病灶内部血流信号增 加，呈点状、短线状、树枝状、网篮状、周边环状等多种形 态，病灶周围血管可见绕行或受压",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk39",
+        "chunk": "脉冲多普勒检测在病灶 内部可见动脉性血流信号，阻力指数多＞0.6",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk40",
+        "chunk": "门静脉、肝 静脉及胆管出现癌栓时偶可在癌栓内检出动脉性血流信号",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk41",
+        "chunk": "超声造影检查可以实时动态观察肝肿瘤血流灌注的变 化，鉴别诊断不同性质的肝脏肿瘤，术中应用可敏感检出隐 7 / 143 匿性小病灶、实时引导局部治疗，术后评估肝癌局部治疗的 疗效等 [15-23]（证据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk42",
+        "chunk": "超声对比剂多经外周静脉注射，采用超声造影特异成像 技术可追踪对比剂在瘤内、瘤周成像的动态变化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk43",
+        "chunk": "超声对比 剂多使用微泡对比剂，微泡内部为惰性气体，其安全性高， 过敏反应极少见",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk44",
+        "chunk": "目前常用超声对比剂有注射用六氟化硫微 泡和注射用全氟丁烷微球",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk45",
+        "chunk": "后者可被库普弗细胞吞噬，形成血管后期成像",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk46",
+        "chunk": "血管期包括动脉期（注射对比剂30 s 以内）、门静脉期（31～ 120 s）、延迟期（＞120 s）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk47",
+        "chunk": "血管后期一般定义为对比剂注 射8 min 后",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk48",
+        "chunk": "典型肝癌超声造影多表现为病灶动脉期快速高 增强，增强时间早于病灶周围肝实质，门静脉及延迟期快速 减退为低回声，即“快进快出” [22-23] 增强模式（证据等级1， 推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk49",
+        "chunk": "超声造影表现与病灶大小相关，直径＞3.0 cm 的 肝癌多表现为上述典型增强模式，但少数＜2.0 cm 者超声造 影表现趋于不典型",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk50",
+        "chunk": "门静脉及延迟期对比剂消退速度与肿瘤 分化程度有关，高分化者消退慢而低分化者消退较快",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk51",
+        "chunk": "由于超声造影对微细血流的高敏感性，可用于观察肝癌 发生发展不同阶段，如再生结节、低度异型增生、高度异型 增生、高度异型增生合并局部癌变、早期肝癌、进展期肝癌 等的血流变化并辅助诊断，因此超声造影还可用于肝癌高危 8 / 143 人群的筛查以及用于监测肝内结节的演变情况 [18]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk52",
+        "chunk": "有肝癌高 危风险的患者可以考虑采用超声造影肝脏影像报告与数据 系统（liver imaging reporting and data system，LI-RADS） 提高肝癌诊断的特异性（证据级别3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk53",
+        "chunk": "肿瘤在超声造影延迟期或血管后相多表现为低增强，与 周围肝实质分界明显，因此超声造影尤其适用于肝内多发微 小病灶的检出、消融或手术后监测以早期发现复发灶",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk54",
+        "chunk": "当肝 内病灶延迟期或血管后期表现为低增强时，可在10 min 后 再次注射超声对比剂，观察病灶动脉期有无增强，进而判断 病灶的有无及性质",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk55",
+        "chunk": "血管后期对比剂（如注射用全氟丁烷微 球）因为显影时间长（30～120 min），适合用于病灶的检出 [23]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk56",
+        "chunk": "超声造影可用于肿瘤消融的术前规划、穿刺引导、消融 后即刻评估和追踪随访",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk57",
+        "chunk": "消融即刻评估有助于及时发现未完 全消融的残留病灶，及时补充治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk58",
+        "chunk": "定量超声造影可测量对 比剂到达时间、达峰时间、渡越时间、峰值强度、血流灌注 量等指标，可用于评估系统抗肿瘤治疗（化疗、靶向治疗、 免疫治疗等）后的疗效以及在早期预测患者对系统抗肿瘤治 疗的反应性，辅助临床决策 [24-25]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk59",
+        "chunk": "超声联合动态增强CT、MRI 扫描的影像导航技术为肝癌， 尤其是常规超声显像无法显示的隐匿性肝癌的精准定位提 9 / 143 供了有效的技术手段 [26-28]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk60",
+        "chunk": "超声融合 影像导航在肝癌消融术前计划、术中监测及安全边缘判断、 术后即刻评估疗效中具有一定价值",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk61",
+        "chunk": "融合导航中使用超声造 影能进一步提高准确性，特别是针对微小病灶、等回声病灶 和较大病灶的消融范围的评估 [28-29]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk62",
+        "chunk": "超声剪切波弹性成像可以定量评估肝肿瘤的组织硬度 及周边肝实质的纤维化/硬化程度，为规划合理的肝癌治疗 方案提供有用的信息 [30-31]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk63",
+        "chunk": "定量超声 技术可测量非酒精性脂肪性肝病肝内脂肪含量，为非酒精性 脂肪性肝病相关肝癌的预警提供辅助信息 [32-33]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk64",
+        "chunk": "多模态超声 显像技术的联合应用，为肝癌精准的术前诊断、术中定位、 术后评估起到了重要作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk65",
+        "chunk": "术中超声（超声造影）、腹腔镜 超声（超声造影）在肝外手术中的应用也越来越普及，能帮 助检出隐匿性微小病灶、判断手术切除范围和切缘情况 [34]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk66",
+        "chunk": "高频超声有助于发现肝包膜下或位置较表浅的隐匿病灶 [16]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk67",
+        "chunk": "超声影像组学对肝癌的鉴别诊断、预测肝癌微血管浸润等生 物学行为、选择治疗手段等有一定的意义 [35]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk68",
+        "chunk": "随着人工智能 技术发展，通过融合患者临床信息和肿瘤影像信息建立肝癌 智能预测模型，精准预测肝癌的复发转移，有望为临床选择 消融或手术治疗提供科学、合理决策 [36,37]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk69",
+        "chunk": "2.CT 和MRI 10 / 143 动态增强CT、MRI 扫描是肝脏超声和/或血清AFP 筛查 异常者明确肝癌诊断的首选影像学检查方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk70",
+        "chunk": "肝脏动态增强 MRI 具有无辐射、组织分辨率高、多方位多序列动态增强成 像等优势，且具有形态结合功能（包括弥散加权成像等）综 合成像能力，成为肝癌临床检出、诊断、分期和疗效评价的 优选影像技术",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk71",
+        "chunk": "动态增强MRI 对直径≤2.0 cm 肝癌的检出和 诊断能力优于动态增强CT [38-39]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk72",
+        "chunk": "动 态增强MRI 在评价肝癌是否侵犯门静脉、肝静脉主干及其分 支，以及腹腔或腹膜后间隙淋巴结转移等方面，较动态增强 CT 具有优势",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk73",
+        "chunk": "采用动态增强MRI 扫描评价肝癌治疗疗效时， 可使用实体瘤临床疗效评价标准（modified response evaluation criteria in solid tumor，mRECIST）加T2 加 权成像及弥散加权成像进行综合判断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk74",
+        "chunk": "CT/MRI（非特异性钆类对比剂）动态增强三期扫描包括： 动脉晚期（门静脉开始强化，通常注射对比剂后约35 s 扫 描）、门静脉期（门静脉已完全强化，肝静脉可见对比剂充 盈，肝实质通常达到强化峰值，通常注射对比剂后60～90 s 扫描）、延迟期（门静脉、肝静脉均有强化但低于门脉期， 肝实质可见强化但低于门脉期，通常注射对比剂后3 min 扫 描）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk75",
+        "chunk": "肝细胞特异性MRI 对比剂（钆塞酸二钠，Gd-EOB-DTPA） 动态增强四期扫描包括：动脉晚期（同上）、门静脉期（同 11 / 143 上）、移行期（肝脏血管和肝实质信号强度相同，肝脏强化 是由细胞内及细胞外协同作用产生，通常在注射 Gd-EOB-DTPA 2～5 min 后扫描）、肝胆特异期（肝脏实质信 号高于肝血管，对比剂经由胆管系统排泄，通常在注射钆塞 酸二钠12～20 min 后扫描",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk76",
+        "chunk": "肝功能正常者，一般肝胆特异 期12～15 min 扫描，而肝功能明显降低者，一般只需延迟 20 min 即可）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk77",
+        "chunk": "肝癌影像学诊断主要根据为动态增强扫描的“快进快出” 强化方式 [40-42]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk78",
+        "chunk": "动态增强CT 和MRI 动脉期（主要在动脉晚期）肝肿瘤呈均匀或不均匀明显强化， 门静脉期和/或延迟期肝肿瘤强化低于肝实质",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk79",
+        "chunk": "“快进”为非 环形强化，“快出”为非周边廓清",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk80",
+        "chunk": "“快进”在动脉晚期观察， “快出”在门静脉期及延迟期观察",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk81",
+        "chunk": "Gd-EOB-DTPA 通常在门 静脉期观察“快出”征象，但移行期及肝胆特异期“快出” 征象可以作为辅助恶性征象",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk82",
+        "chunk": "Gd-EOB-DTPA 增强MRI 检查显示：肝肿瘤动脉期明显强 化，门静脉期强化低于肝实质，肝胆特异期常呈明显低信号",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk83",
+        "chunk": "但仍有5%～12%分化较好的肝癌，尤其是小肝癌（直径≤ 2.0cm），肝胆特异期可见肿瘤部分呈吸收对比剂的稍高信号 [43]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk84",
+        "chunk": "动态增强MRI 扫描，尤其用于诊断肿瘤直径≤2.0 cm 肝 12 / 143 癌，强调尚需要结合其他征象（如包膜样强化、T2加权成像 中等信号和弥散受限等）及超阈值增长（6 个月内病灶最大 直径增大50%）进行综合判断 [44]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk85",
+        "chunk": "包 膜样强化的定义为：光滑，均匀，边界清晰，大部分或全部 包绕病灶，特别在门静脉期、延迟期或移行期表现为环形强 化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk86",
+        "chunk": "直径≤1.0 cm 的肝癌定义为亚厘米肝癌（subcentimeter hepatocellular carcinoma，scHCC）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk87",
+        "chunk": "根据文献报道，scHCC 局部切除术后5 年生存率为98.5%，明显高于直径1.0～2.0 cm 的小肝癌（5 年生存率为89.5 %） [45]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk88",
+        "chunk": "在高危人群中，排 除确定的良性病变后，推荐使用Gd-EOB-DTPA 增强MRI 来诊 断scHCC [46-51]（证据等级2，推荐B），尤其适用于合并肝硬 化的患者，同时有助于与高度异型增生结节等癌前病变相互 鉴别 [52]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk89",
+        "chunk": "目前CT 平扫及动态增强扫描除常应用于肝癌的临床诊 断及分期外，也应用于肝癌局部治疗的疗效评价，特别是观 察经导管动脉化疗栓塞（transcatheter arterial chemoembolization，TACE）后碘油沉积状况及肿瘤存活有 一定优势，特别是有助于决定是否需要再次TACE 治疗 [53-55]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk90",
+        "chunk": "基于术前CT 的影像组学技术也可以用于预测首次TACE 治疗 的疗效 [56]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk91",
+        "chunk": "同时，借助CT 后处理技术可以进行三维血管重 13 / 143 建、肝脏体积和肝肿瘤体积测量",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk92",
+        "chunk": "三维可视化重建技术可以 进行肝脏分叶分段处理，术前模拟手术，辅助医生制定最优 手术方案",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk93",
+        "chunk": "基于肝癌动态增强CT 和/或MRI 信息的临床数据挖掘建 立融合模型有助于改善临床决策（患者治疗方案选择、疗效 评价及预测等） [57]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk94",
+        "chunk": "对于术前预测肝癌微血管侵犯 （microvascular invasion，MVI），影像学征象特异性高但 敏感性较低，人工智能（包括影像组学和深度机器学习模型） 是术前预测MVI 的可能突破点 [58-60]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk95",
+        "chunk": "3.数字减影血管造影 数字减影血管造影（digital subtraction angiography， DSA)是肝癌患者血管内介入治疗前必须进行的检查，常采用 经选择性或超选择性肝动脉插管进行",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk96",
+        "chunk": "DSA 检查可以清楚显 示肝动脉解剖和变异以及肿瘤血管、染色，明确肿瘤数目、 大小及其血供丰富程度 [61]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk97",
+        "chunk": "DSA 联合锥形线束CT（cone beam computed tomograph，CBCT）可更清楚显示肿瘤病灶、提高 小肝癌的检出率，明确肿瘤供血动脉分支的三维关系、指导 肿瘤供血动脉分支的超选择性插管 [62]（证据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk98",
+        "chunk": "经肠系膜上动脉或脾动脉的间接门静脉造影，可以评价门静 脉血流和门静脉主干或一级分支癌栓栓塞等情况",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk99",
+        "chunk": "4.核医学影像学检查 14 / 143 （1 ）正电子发射计算机断层成像（positron emission tomography and computed tomography，PET/CT）： 18F-氟代脱氧葡萄糖（ 18F-flurodeoxyglucose, 18F-FDG） PET/CT 全身显像的优势在于：①对肿瘤进行分期，通过1 次检查能够全面评价有无淋巴结转移及远处器官的转移 [63-64]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk100",
+        "chunk": "②再分期，因PET/CT 功能 影像不受解剖结构的影响，可以准确显示解剖结构发生变 化后或者解剖结构复杂部位的复发转移灶 [65]（证据等级2， 推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk101",
+        "chunk": "③对于抑制肿瘤活性的靶向药物的疗效评价更 加敏感、准确 [66-67]（证据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk102",
+        "chunk": "④指导放射 治疗生物靶区的勾画、确定穿刺活检部位 [65]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk103",
+        "chunk": "⑤评价肿瘤 的恶性程度和预后 [68-70] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk104",
+        "chunk": "PET/CT 对肝癌的诊断灵敏度和特异度有限，可作为其他影像学检 查的辅助和补充，在肝癌的分期、再分期和疗效评价等方 面具有优势",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk105",
+        "chunk": "采用碳-11 标记的乙酸盐（ 11C-acetate）或 胆碱（ 11C-choline）等对比剂PET 显像可以提高对高分化 肝癌诊断的灵敏度，与 18F-FDG PET/CT 显像具有互补作用 [71-72]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk106",
+        "chunk": "镓-68 或氟-18 标记的成纤维激活蛋白抑制剂-04 （ 68Ga-DOTA-FAPI-04/ 18F-NOTA-FAPI-04）PET/CT 可有效 提高癌原发灶、转移灶的诊断灵敏度，尤其是中高分化肝 细胞癌及肝内胆管癌，补充 18F-FDG PET/CT 显像的不足（证 15 / 143 据等级3，推荐C） [73-74]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk107",
+        "chunk": "（2）单光子发射计算机断层成像（single photon emission computed tomography and computed tomography，SPECT/CT）：SPECT/CT 已逐渐替代SPECT 成为核医学单光子显像的主流设备，选择全身平面显像所 发现的病灶，再进行局部SPECT/CT 融合影像检查，可以 同时获得病灶部位的SPECT 和诊断CT 图像，诊断准确性 得以显著提高 [75]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk108",
+        "chunk": "（3）正电子发射计算机断层磁共振成像（positron emission tomography and magnetic resonance imaging， PET/MRI）：1 次PET/MRI 检查可以同时获得解剖结构、 动态增强MRI 信息及PET 功能代谢信息，提高肝癌诊断的 灵敏度 [76]（证据等级4，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk109",
+        "chunk": "（三）肝癌的血液学分子标志物 血清AFP 是当前诊断肝癌和疗效监测常用且重要的指标",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk110",
+        "chunk": "血清AFP≥400 μg/L，在排除妊娠、慢性或活动性肝病、生 殖腺胚胎源性肿瘤以及其他消化系统肿瘤后，高度提示肝癌",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk111",
+        "chunk": "而血清AFP 轻度升高者，应结合影像学检查或作动态观察， 并与肝功能变化对比分析，有助于诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk112",
+        "chunk": "异常凝血酶原 [protein induced by vitamin K absence/antagonist-Ⅱ （PIVKA Ⅱ）或des-gamma carboxyprothrombin（DCP）]、 16 / 143 血浆游离微小核糖核酸（microRNA） [77] 和血清甲胎蛋白异 质体（lens culinaris agglutinin-reactive fraction of AFP，AFP-L3）也可以作为肝癌早期诊断标志物，特别是对 于血清AFP 阴性人群",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk113",
+        "chunk": "基于性别、年龄、AFP、PIVKA Ⅱ和 AFP-L3 构建的GALAD 模型在诊断早期肝癌的灵敏度和特异度 分别为85.6%和93.3%，有助于AFP 阴性肝癌的早期诊断 [78] （证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk114",
+        "chunk": "目前已有基于中国人群大样本数据 的优化的类GALAD 模型（C-GALAD、GALAD-C、C-GALAD Ⅱ 等）用于肝癌的早期诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk115",
+        "chunk": "另外，基于性别、年龄、AFP、 PIVKA Ⅱ构建的简化的GAAD 模型 [79]及ASAP 模型 [80]与GALAD 模型诊断效能类似（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk116",
+        "chunk": "基于7 个microRNA 组合的检测试剂盒诊断肝癌的灵敏度和特异度分别为86.1% 和76.8%，对AFP 阴性肝癌的灵敏度和特异度分别为77.7% 和84.5% [77]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk117",
+        "chunk": "近年来，“液体活检”包括循环游离microRNA、循环肿瘤细 胞（circulating tumor cell，CTC） [81]、cfDNA [82]、循环肿 瘤DNA（circulating tumor DNA，ctDNA） [83-84]、游离线粒 体DNA、游离病毒DNA 和细胞外囊泡等，在肿瘤早期诊断和 疗效评价等方面展现出重要价值（附录3）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk118",
+        "chunk": "（四）肝癌的穿刺活检 具有典型肝癌影像学特征的肝占位性病变，符合肝癌临 17 / 143 床诊断标准的患者，通常不需要以诊断为目的的肝病灶穿 刺活检 [41,85-87]（证据等级1，推荐A），特别是对于具有外科 手术指征的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk119",
+        "chunk": "能够手术切除或准备肝移植的肝癌患 者，不建议术前行肝病灶穿刺活检，以减少肝肿瘤破裂出血、 播散风险",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk120",
+        "chunk": "对于缺乏典型肝癌影像学特征的肝占位性病变， 肝病灶穿刺活检可获得明确的病理诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk121",
+        "chunk": "肝病灶穿刺活检可 以明确病灶性质及肝癌分子分型 [88]，为明确肝病病因、指导 治疗、判断预后和进行研究提供有价值的信息，故应根据肝 病灶穿刺活检的患者受益、潜在风险以及医师操作经验综合 评估穿刺活检的必要性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk122",
+        "chunk": "肝病灶穿刺活检通常在超声或CT 引导下进行，可以采 用18 G 或16 G 肝穿刺空芯针活检获得病灶组织",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk123",
+        "chunk": "其主要风 险是可能引起出血和肿瘤针道种植转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk124",
+        "chunk": "因此，术前应检查 血小板和出凝血功能，对于有严重出血倾向的患者，应避免 肝病灶穿刺活检",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk125",
+        "chunk": "穿刺路径应尽可能经过正常肝组织，避免 直接穿刺肝脏表面结节",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk126",
+        "chunk": "穿刺部位应选择影像检查显示肿瘤 活跃的肿瘤内和肿瘤旁，取材后肉眼观察取材的完整性以提 高诊断准确性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk127",
+        "chunk": "另外，受病灶大小、部位深浅等多种因素影 响，肝病灶穿刺病理学诊断也存在一定的假阴性率，特别是 对于直径≤2 cm 的病灶，假阴性率较高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk128",
+        "chunk": "因此，肝病灶穿刺 活检阴性结果并不能完全排除肝癌的可能，仍需观察和定期 18 / 143 随访",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk129",
+        "chunk": "对于活检组织取样过少、病理结果不支持但临床上高 度怀疑肝癌的患者，可以重复进行肝病灶穿刺活检或者密切 随访",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk130",
+        "chunk": "要点论述： （1）借助肝脏超声显像联合血清AFP 进行肝癌的早期 筛查，建议高危人群至少每隔6 个月进行1 次筛查",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk131",
+        "chunk": "（2）动态增强CT、MRI 扫描、Gd-EOB-DTPA 动态增强 MRI 检查以及超声造影是肝脏超声显像和/或血清AFP 筛查异 常者明确诊断的首选影像学检查方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk132",
+        "chunk": "（3）肝癌影像学诊断依据主要根据“快进快出”的强 化方式",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk133",
+        "chunk": "（4）肝脏动态增强MRI 检查是肝癌临床诊断、分期和 疗效评价的优选影像手段",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk134",
+        "chunk": "（5）PET/CT 扫描有助于对肝癌进行分期及疗效评价",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk135",
+        "chunk": "（6）血清AFP 是诊断肝癌和疗效监测常用且重要的指 标",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk136",
+        "chunk": "对血清AFP 阴性人群，可以借助DCP、基于7 个microRNA 组合的检测试剂盒、AFP-L3 进行早期诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk137",
+        "chunk": "（7）具有典型肝癌影像学特征的肝占位性病变，符合 肝癌临床诊断标准的患者，通常不需要以诊断为目的的肝病 灶穿刺活检",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk138",
+        "chunk": "（五）肝癌的病理学诊断 19 / 143 1.肝癌病理学诊断术语 原发性肝癌：统指起源于肝细胞和肝内胆管上皮细胞的 恶性肿瘤，主要包括HCC、ICC 和cHCC-CCA",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk139",
+        "chunk": "不推荐使用“肝 细胞肝癌”或“肝细胞性肝癌”的病理学诊断名称",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk140",
+        "chunk": "（2）ICC：是指肝内胆管衬覆上皮细胞和胆管旁腺发生 的恶性肿瘤，以腺癌最为多见",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk141",
+        "chunk": "2019 版《WHO 消化系统肿瘤 分类》已不推荐对ICC 使用胆管细胞癌（cholangiocellular carcinoma）的病理学诊断名称，且不推荐对细胆管癌使用 细胆管细胞癌（cholangiolocellular carcinoma）的病理 学诊断名称 [89]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk142",
+        "chunk": "组织学上可以分为：①大胆管型ICC：起源 于肝小叶隔胆管以上至邻近肝门区之间较大的胆管，腺管口 径大而不规则，周围可见黏液腺体",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk143",
+        "chunk": "②小胆管型ICC：起源 于小叶间胆管及隔胆管，腺管口径较小，排列较规则",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk144",
+        "chunk": "③细 胆管癌：起源于肝闰管或细胆管，癌细胞呈小立方形，在透 明变性的胶原纤维间质内呈松散的成角小导管或分枝状排 列",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk145",
+        "chunk": "④胆管板畸形型ICC：肿瘤腺管呈不规则囊状扩张，管 腔内含乳头状突起",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk146",
+        "chunk": "有研究显示，大胆管型ICC 的生物学行 为和基因表型特点与其他类型ICC 有所不同，临床预后更差 [90]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk147",
+        "chunk": "关于HCC 和ICC 分子分型的临床和病理学意义多处在研 20 / 143 究和论证阶段",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk148",
+        "chunk": "新近研究表明，EB 病毒相关的ICC 具有特殊 的临床病理、免疫微环境及分子特征，并对免疫检查点抑制 剂治疗有较好的获益，推荐采用EB 病毒编码小核糖核酸 （Epstein-Barr virus encoded ribonucleic acid，EBER） 原位杂交检测来筛选免疫检查点抑制剂治疗获益人群 [91]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk149",
+        "chunk": "而 丙糖磷酸异构酶1（triose phosphate isomerase 1，TPI1） 在ICC 组织中高表达是评估术后复发转移风险的有用指标 [92]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk150",
+        "chunk": "（3）cHCC-CCA：是指在同一个肿瘤结节内同时出现HCC 和ICC 两种组织成分，不包括碰撞癌",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk151",
+        "chunk": "有学者建议以两种肿 瘤成分占比分别≥30%作为cHCC-CCA 的病理学诊断标准 [93]， 但是目前还没有国际统一的cHCC-CCA 两种组织学成分占比 的病理诊断标准，有待于大样本多中心研究",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk152",
+        "chunk": "为此，建议在 cHCC-CCA 病理诊断时对两种肿瘤成分的比例状况加以标注， 并注意分别对HCC 及ICC 成分进行组织学分级及亚型分型、 MVI 分级、淋巴管侵犯，以供临床评估肿瘤生物学特性和制 定诊疗方案时参考",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk153",
+        "chunk": "对于某种肿瘤成分占比极少时慎用 cHCC-CCA 的诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk154",
+        "chunk": "2.肝癌病理诊断规范 肝癌病理学诊断规范由标本处理、标本取材、病理检查 和病理报告等部分组成 [88,93]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk155",
+        "chunk": "21 / 143 （1）标本处理要点：①手术医师应在病理检查申请单 上明确标注送检标本的部位、种类和数量，是否曾接受转化 /新辅助治疗以及方案与周期，对手术切缘和重要病变可以 用染料或缝线加以标记",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk156",
+        "chunk": "②尽可能在离体30 min 以内将肿 瘤标本完整地送达病理科，由病理医师切开固定",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk157",
+        "chunk": "组织库留 取标本时应在病理科的指导下进行，以保证取材的准确性， 并应首先满足病理诊断的需要",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk158",
+        "chunk": "③10%中性缓冲福尔马林溶 液固定12～24 h",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk159",
+        "chunk": "（2）标本取材要点：肝癌周边区域是肿瘤生物学行为 的代表性区域",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk160",
+        "chunk": "为此，要求采用“7 点”基线取材法（图1）， 在肿瘤的12 点、3 点、6 点和9 点时钟位上于癌与癌旁肝组 织交界处按1:1 取材",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk161",
+        "chunk": "对距肿瘤 边缘≤1 cm（近癌旁）和＞1 cm（远癌旁）范围内的肝组织 分别取材1 块",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk162",
+        "chunk": "肝脏最近切缘及单独送检的门静脉栓子需分 别取材",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk163",
+        "chunk": "对于单个肿瘤 最大直径≤3cm 的小肝癌，应全部取材检查",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk164",
+        "chunk": "实际取材的部 位和数量还须根据肿瘤的直径和数量酌情增加取材 [94,95]（证 据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk165",
+        "chunk": "22 / 143 图1：肝脏肿瘤标本基线取材部位示意图 注：A、B、C、D：分别对应肿瘤12 点、3 点、6 点和9 点时钟位的癌与癌旁肝组织交界 处",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk166",
+        "chunk": "G：远癌旁肝组织区域 3.肝癌病理检查要点 （1）大体标本观察与描述 [96]：对送检的所有手术标本 全面观察，重点描述肿瘤的大小、数量、颜色、质地、与血 管和胆管的关系、包膜状况、周围肝组织病变、肝硬化类型、 肿瘤至切缘的距离以及切缘情况等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk167",
+        "chunk": "（2）显微镜下观察与描述 [96]：对所有取材组织全面观 察，肝癌的病理诊断可参照2019 年《WHO 消化系统肿瘤分类》 [93]，重点描述以下内容：HCC 的分化程度可以采用国际上常 用的Edmondson-Steiner 四级（Ⅰ～Ⅳ）分级法或WHO 推 荐的高中低分化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk168",
+        "chunk": "HCC 的组织学类型：常见有细梁型、粗梁 型、假腺管型、团片型等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk169",
+        "chunk": "HCC 的特殊组织学类型：如纤维 板层型、硬化型、透明细胞型、富脂型、嫌色型、富中性粒 细胞型、富淋巴细胞型和未分化型等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk170",
+        "chunk": "双表型HCC 在临床、 影像学、血清学、癌细胞形态和组织结构上均表现为典型的 23 / 143 HCC 特征，但免疫组化标记显示同时表达肝细胞性标志物和 胆管上皮标志物，这类HCC 的侵袭性较强 [97]，对瑞戈非尼治 疗可能敏感 [98]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk171",
+        "chunk": "转化/新辅助治疗后手术切除标本还应观察 肿瘤坏死和间质反应的程度和范围",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk172",
+        "chunk": "肝癌的生长方式：包括 癌周浸润、包膜侵犯或突破、MVI 和卫星结节等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk173",
+        "chunk": "慢性肝病 评估：肝癌常伴随不同程度的慢性病毒性肝炎或肝硬化，推 荐采用较为简便的Scheuer 评分系统和中国慢性病毒性肝炎 组织学分级和分期标准 [99-101]，并注意描述肝细胞脂肪变性所 占比例，以及脂肪性肝病的诊断和鉴别诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk174",
+        "chunk": "（3）MVI 诊断：MVI 是指在显微镜下于内皮细胞衬覆的 脉管腔内见到癌细胞巢团 [102]，肝癌以门静脉分支侵犯（含包 膜内血管）最为多见，在ICC 可有淋巴管侵犯",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk175",
+        "chunk": "MVI 病理分 级方法 [103]：M0：未发现MVI",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk176",
+        "chunk": "M1（低危组）：≤5 个MVI， 且均发生于近癌旁肝组织（≤1cm）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk177",
+        "chunk": "M2（高危组）：M2a 定义 为＞5 个近癌旁MVI，且无远癌旁MVI",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk178",
+        "chunk": "M2b 定义为MVI 发 生于远癌旁肝组织（＞1cm）（图2）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk179",
+        "chunk": "MVI 各组患者的术后复 发转移风险依次增加，临床预后依次降低 [94-95, 104]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk180",
+        "chunk": "MVI 和卫 星灶可视为肝癌发生肝内转移过程的不同演进阶段，当癌旁 肝组织内的卫星灶与MVI 难以区分时，可一并计入MVI 病理 分级",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk181",
+        "chunk": "MVI 是评估肝癌复发转移风险和选择治疗方案的重要 参考依据 [88,93,105,106]，应作为组织病理学常规检查指标",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk182",
+        "chunk": "MVI 24 / 143 病理分级是建立在“7 点”基线取材的基础上，当送检标本 不能满足“7 点”基线取材时，应在MVI 分级时加以说明（证 据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk183",
+        "chunk": "图2. 微血管侵犯病理分级标准 注：MVI 为微血管侵犯 4.免疫组织化学检查 肝癌免疫组化检查的主要目的是：①肝细胞良性、恶性 肿瘤之间的鉴别",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk184",
+        "chunk": "②HCC与ICC以及其他特殊类型的肝脏肿瘤 之间的鉴别",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk185",
+        "chunk": "由于 肝癌组织学类型的高度异质性，现有的肝癌标志物在诊断特 异度和灵敏度均存在某种程度的不足，常需要合理组合、客 观评估，有时还需要与其他系统肿瘤的标志物联合使用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk186",
+        "chunk": "（1）HCC 常用的免疫组化标志物 以下标志物对肝细胞标记阳性，有助于提示肝细胞来源 的肿瘤，但不能作为区分肝细胞良性、恶性肿瘤的依据",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk187",
+        "chunk": "25 / 143 ②肝细胞抗原：肝细胞胞浆染色",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk188",
+        "chunk": "③肝细胞膜毛细胆管缘特异性染色抗体：如CD10、多克 隆性癌胚抗原和胆盐输出泵蛋白等抗体，可以在肝细胞膜的 毛细胆管面出现特异性染色，有助于确认肝细胞性肿瘤",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk189",
+        "chunk": "以下标志物有助于肝细胞良性、恶性肿瘤的鉴别",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk190",
+        "chunk": "①谷氨酰胺合成酶：HCC 多呈弥漫性胞浆强阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk191",
+        "chunk": "部分 肝细胞腺瘤，特别是β-catenin 突变激活型肝细胞腺瘤也可 以表现为弥漫阳性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk192",
+        "chunk": "在高级别异型增生结节为中等强度灶性 染色，阳性细胞数＜50%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk193",
+        "chunk": "在肝局灶性结节性增生呈特征性 的不规则地图样染色",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk194",
+        "chunk": "在正常肝组织仅中央静脉周围的肝细 胞染色，这些特点有助于鉴别诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk195",
+        "chunk": "②磷脂酰肌醇蛋白-3：HCC 胞浆及胞膜染色",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk196",
+        "chunk": "③热休克蛋白70：HCC 胞浆或胞核染色",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk197",
+        "chunk": "④CD34：CD34 免疫组化染色虽然并不直接标记肿瘤实质 细胞，但可以显示不同类型肝脏肿瘤的微血管密度及其分布 模式特点，如HCC 为弥漫型、ICC 为稀疏型、肝细胞腺瘤为 斑片型、肝局灶性结节性增生为条索型等，结合肿瘤组织学 形态有助于鉴别诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk198",
+        "chunk": "（2）ICC 常用的免疫组化标志物 ①ICC 通用免疫组化标志物：细胞角蛋白7、细胞角蛋 白19、黏蛋白1、上皮细胞黏附分子",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk199",
+        "chunk": "26 / 143 ②大胆管型ICC：S100 钙结合蛋白、黏蛋白5AC 等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk200",
+        "chunk": "③小胆管型ICC：C 反应蛋白、神经性钙黏蛋白、神经 细胞相关黏附分子（CD56）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk201",
+        "chunk": "（3）cHCC-CCA 常用的免疫组化标志物 HCC 和ICC 两种成分分别表达上述各自肿瘤的标志物",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk202",
+        "chunk": "此外，CD56、CD117 和上皮细胞黏附分子（epithelial cell adhesion molecule，EpCAM）等标志物阳性表达则可能提示 肿瘤伴有干细胞分化特征，侵袭性更强",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk203",
+        "chunk": "5.分子病理检测 肝癌分子病理检测的主要目的是：辅助诊断HCC 特殊亚 型",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk204",
+        "chunk": "根据分子病理检测 在肝癌诊断中的应用，不仅可以鉴别出HCC 特殊亚型及筛选 出ICC 靶向/免疫治疗药物，指导临床预后监测及个体化治 疗，同时还可以加深HCC 特殊亚型及ICC 的病理认识，临床 可以依据分子病理改变对患者进行分层管理",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk205",
+        "chunk": "（1）HCC 常用的分子病理诊断标志物： ①纤维板层型HCC：具有DNAJB1-PRKACA 基因融合 [89]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk206",
+        "chunk": "②硬化型HCC：具有结节性硬化症1/2 基因突变 [89]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk207",
+        "chunk": "（2）ICC 常用的靶向/免疫治疗标志物： ①大胆管型ICC：常见人类表皮生长因子受体2 基因扩 增、BRAF V600E 基因突变、神经营养因子受体络氨酸激酶基 27 / 143 因融合、RET 基因融合、微卫星高度不稳定性、高肿瘤突变 负荷等 [107]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk208",
+        "chunk": "②小胆管型ICC：常见成纤维生长因子受体2 基因突变 （重排或融合） [108]与异柠檬酸脱氢酶1/2 基因突变 [109]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk209",
+        "chunk": "6.转化/新辅助治疗后肝癌切除标本的病理学评估 （1）标本取材：对于临床标注有术前行转化/新辅助治 疗的肝癌切除标本，可以按以下流程处理：在瘤床（肿瘤在 治疗前所处的原始位置）最大直径处切开并测量三维尺寸， 详细描述坏死及残存肿瘤范围及占比",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk210",
+        "chunk": "而直径＞3 cm 的肿瘤应在最大直径处按0.5～ 1.0 cm 间隔将肿瘤切开，选择肿瘤残留最具代表性的切面全 部取材，其他切面选择性取材",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk211",
+        "chunk": "注意在取材时同时留取肿瘤 床及周边肝组织以相互对照，可以对大体标本照相用于组织 学观察的对照",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk212",
+        "chunk": "（2）镜下评估：主要评估肝癌切除标本肿瘤床的3 种 成分比例，包括存活肿瘤、坏死区域、肿瘤间质（纤维组织 及炎细胞）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk213",
+        "chunk": "在病理报 告中应标注取材蜡块数量，在评估每张切片上述3 种成分百 分比的基础上，取均值确定残存肿瘤的总百分比，并在病理 报告中注明",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk214",
+        "chunk": "（3）病理学评估：病理完全缓解（pathologic complete 28 / 143 response，pCR）、明显病理缓解（major pathologic response， MPR）评估是评价术前治疗疗效和探讨术后合理干预的重要 病理指标",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk215",
+        "chunk": "①pCR：是指在术前治疗后，完整评估肿瘤床标本的组 织学后未发现存活肿瘤细胞",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk216",
+        "chunk": "②MPR：是指在术前治疗后，存活肿瘤减少到可以影响 临床预后的阈值以下",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk217",
+        "chunk": "在肺癌研究中常将MPR 定义为肿瘤床 残留肿瘤细胞减少到≤10% [110]，这与肝癌术前经TACE 治疗后， 肿瘤坏死程度与预后的相关性研究结果也相同 [111]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk218",
+        "chunk": "但是在转 化/新辅助治疗的肝癌切除样本中，肿瘤床残留肿瘤细胞减 少到多少有临床意义，目前尚无明确定论，一般认为应至少 减少50%以上",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk219",
+        "chunk": "建议对初诊为MPR 的肿瘤标本进一步扩大取 材范围加以明确",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk220",
+        "chunk": "（4）对于免疫检查点抑制剂治疗后肝癌标本，注意描 述淋巴细胞浸润程度及三级淋巴结结构 [112]，同时注意观察癌 周肝组织有无免疫相关性肝损伤，包括肝细胞损伤、小叶内 炎症及胆管炎等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk221",
+        "chunk": "7.肝癌病理诊断报告 主要由大体标本描述、显微镜下描述、免疫组化检查、 病理诊断名称和MVI 分级等部分组成，必要时还可以向临床 提出说明和建议（附录4）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk222",
+        "chunk": "此外，还可以酌情开展多结节性 29 / 143 /复发性肝癌克隆起源检测、药物靶点检测、生物学行为评 估以及预后判断等相关的分子病理学检查，提供临床参考",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk223",
+        "chunk": "要点概述： （1）肝癌切除标本的规范化处理和及时送检对保持 肿瘤组织和细胞的完整及正确病理诊断十分重要",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk224",
+        "chunk": "（2）肝癌标本取材应遵循“7 点”基线取材的规范，有 利于获得肝癌代表性的病理生物学特征信息",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk225",
+        "chunk": "（3）肝癌病理诊断报告内容应规范全面，应特别重视 描述影响肝癌预后的重要因素，如肝癌的组织学类型、分化 程度、浸润性生长方式、MVI 病理分级以及具有靶向治疗指 导意义的靶点的分子病理检测等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk226",
+        "chunk": "（4）关注转化/新辅助治疗后肝癌切除标本的病理学评 估",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk227",
+        "chunk": "（六）肝癌的临床诊断及路线图 结合肝癌发生的高危因素、影像学特征以及血液学分子 标志物，依据路线图的步骤对肝癌进行临床诊断（图3）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk228",
+        "chunk": "（1）肝癌高危人群，至少每隔6 个月进行1 次超声显 像及血清AFP 检测，发现肝内直径≤1 cm 结节，动态增强 MRI、动态增强CT、超声造影3 种检查中至少1 项检查以及 Gd-EOB-DTPA 增强MRI 检查同时显示“快进快出”的肝癌典 型特征，则可以做出肝癌的临床诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk229",
+        "chunk": "若不符合上述要求， 30 / 143 可以进行每2～3个月的影像学检查随访并结合血清AFP、DCP、 7 个microRNA 组合以明确诊断，必要时进行肝病灶穿刺活检",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk230",
+        "chunk": "（2）肝癌高危人群，随访发现肝内直径1～2 cm 结节， 若动态增强MRI、动态增强CT、超声造影或Gd-EOB-DTPA 增 强MRI 的4 种检查中至少2 项检查有典型的肝癌特征，则可 以做出肝癌的临床诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk231",
+        "chunk": "若上述4 种影像学检查无或只有1 项典型的肝癌特征，可以进行每2～3 个月的影像学检查随 访并结合血清AFP、DCP、7 个microRNA 组合以明确诊断， 必要时进行肝病灶穿刺活检",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk232",
+        "chunk": "（3）肝癌高危人群，随访发现肝内直径＞2 cm 结节， 若动态增强MRI、动态增强CT、超声造影或Gd-EOB-DTPA 增 强MRI 的4 项检查中至少1 项检查有典型的肝癌特征，则可 以做出肝癌的临床诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk233",
+        "chunk": "若上述4 种影像学检查无典型的肝 癌特征，可以进行每2～3 个月的影像学检查随访并结合血 清AFP、DCP、7 个microRNA 组合以明确诊断，必要时进行 肝病灶穿刺活检",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk234",
+        "chunk": "（4）肝癌高危人群，如血清AFP 升高，特别是持续升 高，应进行影像学检查以明确肝癌诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk235",
+        "chunk": "若动态增强MRI、 动态增强CT、超声造影或Gd-EOB-DTPA 增强MRI 的4 种检查 中至少1 项检查有典型的肝癌特征，即可以临床诊断为肝癌",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk236",
+        "chunk": "如上述4 种影像学检查未发现肝内结节，在排除妊娠、慢性 31 / 143 或活动性肝病、生殖腺胚胎源性肿瘤以及其他消化系统肿瘤 的前提下，应每隔2～3 个月进行1 次影像学复查，同时密 切随访血清AFP、DCP、7 个microRNA 组合变化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk237",
+        "chunk": "图3：肝癌诊断路线图 注：典型表现为动脉期（主要动脉晚期）病灶明显强化，门静脉期、延迟期或移行期强 化下降，呈“快进快出”的强化方式",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk238",
+        "chunk": "不典型表现为缺乏动脉期病灶强化，门静脉期、 延迟期或移行期无廓清，甚至持续强化等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk239",
+        "chunk": "EOB-MRI：肝细胞特异性对比剂（钆塞酸二钠，Gd-EOB-DTPA）增强 磁共振扫描",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk240",
+        "chunk": "血液学分子标志物包括血清AFP、DCP、7 个microRNA 组合",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk241",
+        "chunk": "AFP(+)为 超过血清AFP 检测正常值",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk242",
+        "chunk": "32 / 143 三、肝癌的分期 肝癌的分期对于治疗方案的选择、预后评估至关重要",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk243",
+        "chunk": "国外有多种分期方案，如：巴塞罗那肝癌临床分期 （Barcelona Clinic Liver Cancer，BCLC）、TNM 分期、日 本肝病学会（Japanese Society of Hepatology，JSH）分 期和亚太肝病研究学会（Asian Pacific Association for the Study of the Liver，APASL）分期等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk244",
+        "chunk": "结合中国的具 体国情及实践积累，依据患者体能状态(performance status， PS)、肝肿瘤及肝功能情况，建立中国肝癌的分期方案（China Liver Cancer Staging，CNLC），包括：CNLC Ⅰa 期、Ⅰb 期、Ⅱa 期、Ⅱb 期、Ⅲa 期、Ⅲb 期、Ⅳ期，具体分期方案 描述见图4",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk245",
+        "chunk": "CNLC Ⅰa 期：PS 0～2 分，肝功能Child-Pugh A/B 级， 单个肿瘤、直径≤5cm，无影像学可见血管癌栓和肝外转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk246",
+        "chunk": "CNLC Ⅰb 期：PS 0～2 分，肝功能Child-Pugh A/B 级， 单个肿瘤、直径＞5cm，或2～3 个肿瘤、最大直径≤3cm， 无影像学可见血管癌栓和肝外转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk247",
+        "chunk": "CNLC Ⅱa 期：PS 0～2 分，肝功能Child-Pugh A/B 级， 2～3 个肿瘤、最大直径＞3cm，无影像学可见血管癌栓和肝 外转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk248",
+        "chunk": "CNLC Ⅱb 期：PS 0～2 分，肝功能Child-Pugh A/B 级， 33 / 143 肿瘤数目≥4 个，不论肿瘤直径大小，无影像学可见血管癌 栓和肝外转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk249",
+        "chunk": "CNLC Ⅲa 期：PS 0～2 分，肝功能Child-Pugh A/B 级， 不论肿瘤直径大小和数目，有影像学可见血管癌栓而无肝外 转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk250",
+        "chunk": "CNLC Ⅲb 期：PS 0～2 分，肝功能Child-Pugh A/B 级， 不论肿瘤直径大小和数目，不论有无影像学可见血管癌栓， 但有肝外转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk251",
+        "chunk": "CNLC Ⅳ期：PS 3～4 分，或肝功能Child-Pugh C 级， 不论肿瘤直径大小和数目，不论有无影像学可见血管癌栓， 不论有无肝外转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk252",
+        "chunk": "34 / 143 图4. 中国肝癌临床分期与治疗路线图 35 / 143 注：PS 为患者体能状态",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk253",
+        "chunk": "系统抗肿瘤治疗包括一线治疗：阿替利珠单克隆抗体+贝伐珠 单克隆抗体、信迪利单克隆抗体+贝伐珠单克隆抗体类似物、甲磺酸阿帕替尼+卡瑞利 珠单克隆抗体、多纳非尼、仑伐替尼、替雷利珠单克隆抗体、索拉非尼、FOLFOX4",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk254",
+        "chunk": "二线治疗：瑞戈非尼、阿帕替尼、雷莫西尤单克隆抗体（血清甲胎蛋白水平≥400μ g/L）、帕博利珠单克隆抗体、卡瑞利珠单克隆抗体、替雷利珠单克隆抗体",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk255",
+        "chunk": "四、治疗 肝癌治疗的特点是多学科参与、多种治疗方法共存，其 常见治疗方法包括肝切除术、肝移植术、消融治疗、血管内 介入治疗、放射治疗、系统性抗肿瘤治疗、中医药治疗等多 种手段，各种治疗手段均存在其特有的优势和局限性，且适 应证互有重叠",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk256",
+        "chunk": "规范而准确的治疗决策应基于指南及高级别 循证医学证据，同时也需兼顾各领域的最新进展及研究结果， 而单一学科对其他领域治疗方法的知识更新可能存在局限 性和滞后性，因此，肝癌诊疗须重视多学科诊疗团队 （multidisciplinary team，MDT）的沟通与合作，以确保 为患者选择最适合的治疗决策，并不断推动肝癌治疗的进步",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk257",
+        "chunk": "目前肝癌MDT 的重要性与必要性已成为业界广泛共识，然而 受实际条件的影响，不同地区和不同单位之间肝癌MDT 的实 施方式和水平仍存在较大差异",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk258",
+        "chunk": "建议开展肝癌诊疗工作的各 级医院将MDT 管理纳入医疗质量管理体系，由医疗行政主管 部门和指定的MDT 负责人共同管理，以固定时间、固定地点、 固定人员的多学科会诊模式开展，基层医院如因条件所限难 36 / 143 以自行组织MDT，可通过“医联体”或者“远程医疗”等方 式实施",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk259",
+        "chunk": "随着国家癌症中心《中国肝癌规范诊疗质量控制指 标（2022 版）》的公布和实施，将进一步推进全国肝癌诊疗 的规范性与同质化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk260",
+        "chunk": "（一）外科治疗 肝癌的外科治疗是肝癌患者获得长期生存的重要手 段（证据等级2，推荐A），主要包括肝切除术和肝移植",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk261",
+        "chunk": "1.肝切除术的基本原则 （1）彻底性：完整切除肿瘤，切缘无残留肿瘤",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk262",
+        "chunk": "（2）安全性：保留足够体积且有功能的肝组织（具 有良好血供以及良好的血液和胆汁回流）以保证术后肝功 能代偿，减少手术并发症、降低死亡率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk263",
+        "chunk": "2.患者的全身情况、肝脏储备功能评估及随访 在术前应对患者的全身情况、肝脏储备功能及肝脏肿 瘤情况（分期及位置）进行全面评价，常采用美国东部肿 瘤协作组提出的功能状态评分（Eastern Cooperative Oncology Group performance status，ECOG PS）评估患 者的全身情况",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk264",
+        "chunk": "采用肝功能Child-Pugh 评分、吲哚菁绿 （indocyanine，ICG）清除试验、瞬时弹性成像测定肝脏 硬度或终末期肝病模型（model for end-stage liver disease，MELD）评分，评价肝脏储备功能情况 [113-118]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk265",
+        "chunk": "研 37 / 143 究结果提示：经过选择的合并门静脉高压症的肝癌患者， 仍可以接受肝切除手术，其术后长期生存优于接受其他治 疗 [119-120] （证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk266",
+        "chunk": "因此，更为精确地评价 门静脉高压的程度（如肝静脉压力梯度测定等） [121-122]， 有助于筛选适合手术切除的患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk267",
+        "chunk": "如预期保留肝脏组织体 积较小，则采用CT、MRI 或肝脏三维重建测定剩余肝脏体 积，并计算剩余肝脏体积占标准化肝脏体积的百分比 [114]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk268",
+        "chunk": "通常认为，肝功能Child-Pugh A 级、ICG 15 min 滞留率 （ICG-R15）＜30%是实施手术切除的必要条件",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk269",
+        "chunk": "剩余肝脏 体积（future liver remnant，FLR）须占标准肝脏体积 （standard liver volume，SLV）的40%以上（伴有慢性 肝病、肝实质损伤或肝硬化者）或30%以上（无肝纤维化 或肝硬化者），也是实施手术切除的必要条件",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk270",
+        "chunk": "非酒精性脂肪性肝炎引起 肝癌的患者手术预后优于酒精性脂肪性肝病引起者 [123] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk271",
+        "chunk": "肝癌术后1～2 个月患者需复诊1 次，之后需每隔3 个月密切监测影像学（超声显像，必要时选择动态增强CT、 动态增强MRI 扫描以及Gd-EOB-DTPA 增强MRI 扫描）及血清 AFP、DCP 和7 个microRNA 组合等肿瘤学标志物的改变，2 年后可适当延长至3～6 个月，持续时间建议终身随访（证 38 / 143 据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk272",
+        "chunk": "目前的证据不支持更频繁的随访对生 存的益处 [124]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk273",
+        "chunk": "3.肝癌切除的适应证 （1）肝脏储备功能良好的CNLC Ⅰa 期、Ⅰb 期和Ⅱ a 期肝癌的首选治疗方式是手术切除",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk274",
+        "chunk": "既往研究结果显示： 对于直径≤3cm 肝癌，手术切除的总体生存时间类似或稍 优于消融治疗 [125-127]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk275",
+        "chunk": "同时有部分研 究显示：手术切除后局部复发率显著低于射频消融后 [128-132]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk276",
+        "chunk": "对于复发性肝癌，手术切除的预后优于射频消融 [133] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk277",
+        "chunk": "（2）对于CNLC Ⅱb 期肝癌患者，多数情况下不宜首 选手术切除，而以TACE 为主的非手术治疗为首选",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk278",
+        "chunk": "如果 肿瘤局限在同一段或同侧半肝者，或可以同时行术中消融 处理切除范围外的病灶",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk279",
+        "chunk": "即使肿瘤数目＞3 个，经过MDT 讨论，手术切除有可能获得比其他治疗更好的效果 [134-137]， 也可以推荐行手术切除（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk280",
+        "chunk": "（3）对于CNLC Ⅲa 期肝癌，大多数情况下不宜首选 手术切除，尤其是合并门静脉主干癌栓者，而以TACE 或 TACE 联合系统抗肿瘤治疗为主的非手术治疗为首选",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk281",
+        "chunk": "但 有研究提示与索拉非尼相比，肝切除术治疗晚期非转移性 肝癌的总体生存率（overall survival，OS）和无进展生 39 / 143 存时间（progression free survival，PFS）显著更优 [138]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk282",
+        "chunk": "手术切除治疗CNLC Ⅲa 期肝癌的数据大部分来源于亚洲 国家 [139-140]，少部分来自于西方国家 [141-142]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk283",
+        "chunk": "如符合以下情 况，经过MDT 讨论，也可考虑行手术切除：①合并门静脉 分支癌栓（程氏分型Ⅰ/Ⅱ型）者，若肿瘤局限于半肝或 肝脏同侧，可以考虑手术切除肿瘤同时切除癌栓，术后再 实施TACE 治疗、门静脉化疗或其他系统抗肿瘤治疗 [143,144] （证据等级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk284",
+        "chunk": "此类患者术前接受三维适形放射 治疗，亦可以改善术后生存 [145]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk285",
+        "chunk": "门静脉主干癌栓（程氏分型Ⅲ型）者术后短期复发率较高， 多数患者的术后生存不理想，因此不是手术切除的绝对适 应证 [146]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk286",
+        "chunk": "③部分肝静脉受侵犯但肝内病灶可以 切除者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk287",
+        "chunk": "（4）对于伴有肝门部淋巴结转移者（CNLC Ⅲb 期）， 经过MDT 讨论，可以考虑切除肿瘤的同时行肝门淋巴结清 扫或术后外放射治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk288",
+        "chunk": "周围脏器受侵犯可以一并切除者， 也可以考虑手术切除",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk289",
+        "chunk": "此外，对于术中探查发现不适宜手术切除的肝癌，可 以考虑行术中肝动脉、门静脉插管化疗或术中其他的局部 治疗措施（如消融治疗），或待手术创伤恢复后接受后续 40 / 143 TACE 治疗、系统抗肿瘤治疗等非手术治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk290",
+        "chunk": "4.肝癌根治性切除标准 （1）术中判断标准：①肝静脉、门静脉、胆管以及 下腔静脉未见肉眼癌栓",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk291",
+        "chunk": "②无邻近脏器侵犯，无肝门淋巴 结或远处转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk292",
+        "chunk": "如切缘＜ 1cm，则切除肝断面组织学检查无肿瘤细胞残留，即切缘 阴性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk293",
+        "chunk": "（2）术后判断标准：①术后1～2 个月行超声、CT、 MRI 检查（必须有其中两项）未发现肿瘤病灶",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk294",
+        "chunk": "②如术前 血清AFP、DCP 和7 个microRNA 组合等肿瘤标志物升高者， 则要求术后2～3 个月肿瘤标志物定量测定，其水平降至 正常范围内",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk295",
+        "chunk": "术后肿瘤标志物如AFP 下降速度，可以早期 预测手术切除的彻底性 [147]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk296",
+        "chunk": "5.手术切除技术 常用的肝切除技术主要是包括入肝和出肝血流控制 技术、肝脏离断技术以及止血技术",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk297",
+        "chunk": "术前三维可视化技术 进行个体化肝脏体积计算和虚拟肝切除有助于在实现肿 瘤根治性切除目标的前提下，设计更为精准的切除范围和 路径以保护剩余肝脏的管道、保留足够FLR [148-150]（证据等 级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk298",
+        "chunk": "近年来，微创手术（包括腹腔镜肝切除术和机器人辅 41 / 143 助肝切除术）飞速发展",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk299",
+        "chunk": "腹腔镜肝切除术具有创伤小和术 后恢复快等优点 [151-152]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk300",
+        "chunk": "早期肝癌 患者接受腹腔镜肝切除术与开腹手术的5 年OS 相当 [153]（证 据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk301",
+        "chunk": "与开腹肝切除术相比，腹腔镜肝切 除术治疗老年肝癌患者（≥65 岁）的手术结局更优，肿 瘤学结局相当 [154]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk302",
+        "chunk": "腹腔镜肝切除 术其适应证和禁忌证尽管原则上与开腹手术类似，但仍然 建议根据肿瘤大小、肿瘤部位、肿瘤数目、合并肝脏基础 疾病以及手术团队的技术水平等综合评估、谨慎开展",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk303",
+        "chunk": "对 于巨大肝癌、多发肝癌、位于困难部位及中央区紧邻重要 管道肝癌和肝癌合并重度肝硬化者，建议经严格选择后由 经验丰富的医师谨慎实施",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk304",
+        "chunk": "对于合并门静脉肉眼癌栓、肿 瘤破裂出血的肝癌患者，不建议行腹腔镜肝切除术",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk305",
+        "chunk": "应用 腹腔镜超声检查结合ICG 荧光肿瘤显像，可以有助于发现 微小病灶、标记切除范围和获得肿瘤阴性切缘 [155]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk306",
+        "chunk": "初步 研究表明，机器人辅助与开腹肝切除术治疗肝癌的疗效和 安全性相当 [156]（证据等级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk307",
+        "chunk": "解剖性切除与非解剖性切除均为常用的肝切除技术， 都需要保证有足够的切缘才能获得良好的肿瘤学效果",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk308",
+        "chunk": "解 剖性切除对于伴有MVI 的肝癌病例，相对于非解剖性切除， 虽然OS 没有区别，但局部复发率更低 [157-158]（证据等级3， 42 / 143 推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk309",
+        "chunk": "有研究发现，宽切缘（≥1 cm 的切缘）的肝切 除效果优于窄切缘的肝切除术 [159,160]（证据等级2，推荐A）， 特别是对于术前可预判存在MVI 的患者 [161]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk310",
+        "chunk": "腹腔镜下解 剖性肝切除术与非解剖性肝切除术相比，解剖性肝切除术 治疗肝癌的5 年无病生存率显著更高 [162] （证据等级2， 推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk311",
+        "chunk": "对于巨大肝癌，可以采用最后游离肝周韧带的 前入路肝切除法 [163]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk312",
+        "chunk": "对于多发性肝癌，可以采用手术切 除结合术中消融治疗 [164]（证据等级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk313",
+        "chunk": "对于门 静脉癌栓者，行门静脉取栓术时应暂时阻断健侧门静脉血 流，防止癌栓播散 [165]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk314",
+        "chunk": "对于肝静脉癌栓或腔静脉癌栓者， 可以行全肝血流阻断，尽可能整块去除癌栓 [166]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk315",
+        "chunk": "对于肝 癌伴胆管癌栓者，切除肝脏肿瘤的同时联合胆管切除，争 取获得根治切除的机会 [167-168]（证据等级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk316",
+        "chunk": "6.手术为基础的综合治疗策略 基于既往的大宗病例的数据，中晚期肝癌（CNLC Ⅱb、 Ⅲa、Ⅲb 期）手术后总体生存虽然不令人满意，但当前 系统抗肿瘤治疗与综合治疗取得长足进步，局部治疗和/ 或系统抗肿瘤治疗控制肿瘤的效果可以为中晚期肝癌患 者提高手术切除率、降低术后复发转移和改善预后提供更 多可能 [169]（证据等级4，推荐B），手术适应证的适度扩 大成为共识",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk317",
+        "chunk": "探索中晚期肝癌以手术为基础的综合治疗新 43 / 143 策略已成为近期关注重点",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk318",
+        "chunk": "（1）肝癌的转化治疗 转化治疗指不适合手术切除的肝癌患者，经过干预后 获得手术切除的机会，干预手段包括有功能的FLR 转化、 肿瘤学转化等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk319",
+        "chunk": "手术切除是转化成功后患者获得长期生存 的重要手段，但仍需随机对照研究的证据支持（证据等级 4，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk320",
+        "chunk": "①肝癌转化治疗中有功能的FLR 转化 FLR 不足是肝癌外科学无法手术切除的重要原因",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk321",
+        "chunk": "对于 这类患者，转化治疗的目标就是由FLR 不足转变为有功能的 FLR 足够 [170]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk322",
+        "chunk": "A.门静脉栓塞术（portal vein embolization，PVE） 经门静脉栓塞肿瘤所在的半肝，使剩余肝脏代偿性增生 后再切除肿瘤，若合理选择肝癌患者，其转化成功率可为 60%～80%，并发症发生率约10%～20%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk323",
+        "chunk": "PVE 术后剩余肝脏增 生耗时相对较长（通常需4～6 周），约有20%以上的患者因 等待增生期间肿瘤进展或FLR 增生不足而最终失去手术机会 [171-172]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk324",
+        "chunk": "对于这部分患者，目前的 治疗策略有联合TACE [173]、肝静脉栓塞 [174]、动脉结扎 [175]，以 期进一步促进FLR 增生并控制肿瘤进展",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk325",
+        "chunk": "或者行拯救性联合 肝脏分隔和门静脉结扎的二步肝切除术（associating liver 44 / 143 partition and portal vein ligation for staged hepatectomy，ALPPS）切除肿瘤 [176]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk326",
+        "chunk": "PVE 的禁忌证包括门静 脉主干或一级分支癌栓，肿瘤广泛转移，合并严重的门静脉 高压症和凝血功能障碍",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk327",
+        "chunk": "对于预期有功能的FLR 增生时间较 长（例如较严重肝硬化、年龄较大的患者），肿瘤进展可能 较快的患者需要谨慎使用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk328",
+        "chunk": "B. ALPPS 作为近期肝脏外科的主要创新技术，ALPPS 通常可在 1～2 周诱导产生高达47%～192% 的剩余肝脏增生率，远远 高于PVE",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk329",
+        "chunk": "因两期手术间隔时间短，故能最大程度减少肿瘤 进展风险，肿瘤切除率达95%～100% [177-178]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk330",
+        "chunk": "随着手术技术的 进步和经验的积累，与ALPPS 相关的手术并发症及死亡率已 较ALPPS 开展初期大大减少",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk331",
+        "chunk": "近年来已出现多种ALPPS 改进 术式，主要集中于一期手术肝断面分隔操作（部分分隔和使 用射频消融、微波、止血带等方式分隔）以及采用腹腔镜微 创入路行ALPPS，进一步提高了ALPPS 手术的安全性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk332",
+        "chunk": "若 ALPPS 一期术后2 周，有功能的FLR 仍不足以达到手术切除 要求，则可以行动脉栓塞（transarterial embolization， TAE），此术式被称为TAE 挽救性ALPPS（TAE-salvaged ALPPS）， 1 周后几乎达到100%的二期手术切除率 [179]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk333",
+        "chunk": "有随机对照研究 已经证实，ALPPS 较PVE 在快速诱导FLR 增生的能力方面具 45 / 143 有显著优势 [180] （证据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk334",
+        "chunk": "ALPPS 一般应限 定于以下患者：年龄＜65 岁、肝功能正常（Child‑Pugh A 级，ICG-R15＜20%）、FLR 不足（正常肝脏者，FLR/SLV＜30%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk335",
+        "chunk": "伴有慢性肝病和肝损伤者，FLR/SLV＜40%）、一般状态良好、 手术耐受力良好、无严重肝硬化、无严重脂肪肝、无严重门 静脉高压症者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk336",
+        "chunk": "②肝癌转化治疗中的肿瘤学转化 A.局部治疗在肿瘤学转化中的应用 TACE [181] 、肝动脉灌注化疗（hepatic arterial infusion chemotherapy，HAIC） [182]、放疗等局部治疗手 段为初始不可切除肝癌患者创造手术切除机会，并且能够 转化为生存获益（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk337",
+        "chunk": "TACE 或HAIC 与系统抗肿瘤治疗的联合可进一步提高转化率 [183,184]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk338",
+        "chunk": "对 于肿瘤负荷较大或合并门脉癌栓（尤其是主干癌栓），暂 时不能接受外科手术治疗的肝癌患者，多项临床研究显示 HAIC 治疗具有较高的客观缓解率（objective response rate，ORR），部分患者经HAIC 治疗后肿瘤体积缩小或门 脉癌栓退缩，提高了转化治疗的成功率（证据等级3，推 荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk339",
+        "chunk": "HAIC 联合TACE [185]、放疗 [186]、靶向药物和/或免 疫治疗可能进一步提高转化的成功率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk340",
+        "chunk": "B.系统抗肿瘤治疗在肿瘤学转化中的应用 46 / 143 抗血管生成药物联合免疫治疗、靶向药物和/或联合免 疫治疗已成为不可切除或中晚期肝癌的重要治疗方式，也是 肝癌转化治疗的重要手段（证据等级4，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk341",
+        "chunk": "单从系 统抗肿瘤治疗方案选择的角度，需要鉴别无法行根治切除的 原因、重视病因学的处理、在MDT 框架下严格随访肿瘤缓解 的持续时间和缓解深度，严密监测系统抗肿瘤治疗的毒性及 对转化治疗手段的可能影响，积极探索转化治疗前后肿瘤免 疫微环境的变化，积极开展高级别循证医学证据的大型临床 研究，力争使患者最大程度获益",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk342",
+        "chunk": "（2）肝癌的新辅助治疗 新辅助治疗是指对于适合手术切除但具有术后高危复 发转移风险的肝癌患者（CNLC Ⅰb～Ⅱa 期和部分CNLC Ⅱb、 Ⅲa 期），在术前先进行局部治疗或系统抗肿瘤治疗，以期消 灭微小病灶、降低术后复发转移率、延长生存期（证据等级 4，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk343",
+        "chunk": "术前评估的高危复发转移因素包括：血管侵 犯、单发肿瘤直径＞5cm、多发肿瘤、邻近脏器受累、术前 AFP 水平较高、术前血清HBV DNA 高载量等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk344",
+        "chunk": "新辅助治疗也 存在风险，应严格选择适宜人群，同时根据新辅助治疗的目 标选择适宜的治疗方案",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk345",
+        "chunk": "治疗方案选择上，在考虑ORR 同时 应该考虑选择更高疾病控制率的方案，以免因疾病进展而失 去手术机会",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk346",
+        "chunk": "同时也应选择相对安全、不良反应小的治疗手 47 / 143 段，避免增加并发症的发生",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk347",
+        "chunk": "（3）肝癌术后辅助治疗 肝癌切除术后5 年肿瘤复发转移率高达50%～70% [187-188]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk348",
+        "chunk": "术后辅助治疗是降低肿瘤复发转移风险，改善患者生存的重 要手段（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk349",
+        "chunk": "相比于新辅助治疗，术后 辅助治疗可以根据术后病理及分子分型更进一步精准选择 治疗人群及个体化治疗方案，且不会因此而延期手术",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk350",
+        "chunk": "术后 辅助治疗的人群主要是适合手术切除且具有高危复发转移 风险的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk351",
+        "chunk": "虽然不同研究定义的高危复发转移因素不 同，但术后评估的高危复发转移因素一般包括：肿瘤破裂、 肿瘤直径＞5 cm、多发肿瘤、微血管侵犯、大血管侵犯、淋 巴结转移、切缘阳性或窄切缘、组织分化Edmondson Ⅲ～Ⅳ 级等 [189-191]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk352",
+        "chunk": "对于具有术后高危复发转移风险的患者，目前尚无国际 标准的辅助治疗方案",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk353",
+        "chunk": "两项随机对照研究证实术后TACE 治 疗可以有效减少复发转移，延长生存 [192-193] （证据等级1， 推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk354",
+        "chunk": "采用氟尿嘧啶/奥沙利铂/亚叶酸钙（mFOLFOX）方 案的HAIC 可以降低合并微血管侵犯的肝癌患者复发转移， 改善生存 [194] （证据等级1，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk355",
+        "chunk": "对于手术切除、射 频消融或无水乙醇注射的肝癌患者，活化的细胞因子诱导的 杀伤细胞治疗亦可显著延长中位无复发生存时间 [195] （证据 48 / 143 等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk356",
+        "chunk": "免疫调节剂（如胸腺法新 [196]）也具有 类似作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk357",
+        "chunk": "另一项前瞻性多中心随机对照Ⅲ期临床研究证明， 中药槐耳颗粒可以减少术后复发转移，延长总生存期 [197] （证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk358",
+        "chunk": "另外，对于HBV 感染的肝癌患者， 核苷类似物抗病毒治疗有助于降低术后复发转移，应长期服 用 [198]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk359",
+        "chunk": "对于病毒性肝炎相关肝癌患 者，术后辅助使用聚乙二醇化干扰素，可以提高OS 及无复 发生存率，并且不会带来严重的不良反应 [199] （证据等级1， 推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk360",
+        "chunk": "对于HCV 感染的肝癌患者，直接抗病毒药物以获 得持续的病毒学应答，目前没有确凿的数据表明直接抗病毒 药物治疗与肝癌术后肿瘤复发转移风险增加或降低、复发时 间或术后生存时间的差异相关 [200-201] （证据等级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk361",
+        "chunk": "此外，对于伴有门静脉癌栓患者术后经门静脉置管化疗联 合TACE，也可以延长患者生存期 [144]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk362",
+        "chunk": "近年来，系统抗肿瘤治疗在肝癌辅助治疗中的研究也在不断 深入，多项在晚期肝癌中有效的治疗方案正在积极探索在辅 助治疗中的价值",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk363",
+        "chunk": "其中IMbrave050 研究结果显示，阿替利 珠单克隆抗体联合贝伐珠单克隆抗体可以减少28%的术后复 发转移风险 [202] （证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk364",
+        "chunk": "要点论述： （1）肝切除术是肝癌患者获得长期生存的重要手段",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk365",
+        "chunk": "49 / 143 （2）完善的术前肝脏储备功能评估与肿瘤学评估非 常重要",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk366",
+        "chunk": "一般认为肝功能Child-Pugh A 级、ICG-R15＜30% 是实施手术切除的必要条件",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk367",
+        "chunk": "FLR 须占SLV 的40%以上（伴 有慢性肝病、肝实质损伤或肝硬化者）或30%以上（无肝 纤维化或肝硬化者），也是实施手术切除的必要条件",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk368",
+        "chunk": "术前评估，还包括肝 脏硬度、门静脉高压程度的测定等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk369",
+        "chunk": "（3）肝脏储备功能良好的CNLC Ⅰa、Ⅰb 和Ⅱa 期 肝癌的首选治疗是手术切除",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk370",
+        "chunk": "在CNLC Ⅱb 期和Ⅲa 期肝 癌患者中，经MDT 评估，部分患者仍有机会从手术切除中 获益",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk371",
+        "chunk": "（4）肝切除时经常采用入肝（肝动脉和门静脉）和 出肝（肝静脉）血流控制技术",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk372",
+        "chunk": "术前三维可视化技术有助 于提高肝切除的准确性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk373",
+        "chunk": "腹腔镜技术具有创伤小和术后恢 复快等优点，但对于巨大肝癌、多发肝癌、位于困难部位 及中央区紧邻重要管道肝癌和肝癌合并重度肝硬化者，建 议经严格选择后由经验丰富的医师实施",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk374",
+        "chunk": "（5）肝癌术后患者需每隔3 个月密切监测影像学（超 声显像，必要时选择动态增强CT、动态增强MRI 扫描以及 Gd-EOB-DTPA 增强MRI 扫描）及AFP、DCP 和7 个microRNA 组合等肿瘤学标志物的改变，2 年之后可适当延长至3～6 50 / 143 个月，建议终身随访",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk375",
+        "chunk": "（6）转化治疗指不适合手术切除的肝癌患者，经过 干预后获得手术切除的机会，干预手段包括有功能的FLR 转化、肿瘤学转化等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk376",
+        "chunk": "对于FLR 不足的肝癌患者，在合适 人群中采用ALPPS 或PVE 以短期内增加有功能的FLR",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk377",
+        "chunk": "ALPPS 较PVE 具有更高的转化效率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk378",
+        "chunk": "系统抗肿瘤治疗和/ 或联合局部治疗已成为不可切除或中晚期肝癌的重要治 疗方式，也是肝癌转化治疗的重要手段",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk379",
+        "chunk": "（7）新辅助治疗是指对于适合手术切除但具有术后 高危复发转移风险的肝癌患者，在术前先进行局部治疗或 系统抗肿瘤治疗，以期消灭微小病灶，降低术后复发率、 延长生存期",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk380",
+        "chunk": "但新辅助治疗也存在风险，应严格选择适宜 人群，同时根据新辅助治疗的目标选择适宜的治疗方案",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk381",
+        "chunk": "（8）对于适合手术切除同时具有术后高危复发转移 风险的肝癌患者，术后可采取抗病毒、TACE、HAIC、放射 治疗、系统抗肿瘤治疗等辅助治疗以降低术后复发转移率， 延长生存时间",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk382",
+        "chunk": "7.肝移植术 （1）肝癌肝移植适应证 肝移植是肝癌根治性治疗手段之一，尤其适用于肝功 能失代偿、不适合手术切除及消融治疗的小肝癌患者（证 51 / 143 据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk383",
+        "chunk": "合适的肝癌肝移植适应证是提高肝癌 肝移植疗效、保证宝贵的供肝资源得到公平合理应用、平 衡有或无肿瘤患者预后差异的关键 [203]（证据等级3，推荐 B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk384",
+        "chunk": "关于肝癌肝移植适应证，国际上主要采用米兰（Milan） 标准、美国加州大学旧金山分校（University of California at San Francisco，UCSF）标准、美国器官 共享联合网络（United Network for Organ Sharing，UNOS） 标准等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk385",
+        "chunk": "国内尚无统一标准，已有多家单位和学者陆续提 出了不同的标准，包括上海复旦标准 [204]、杭州标准 [205]、 华西标准 [206]和三亚共识 [207]等，这些标准对于无大血管侵 犯、淋巴结转移及肝外转移的要求都是一致的，但是对于 肿瘤大小和数目的要求不尽相同",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk386",
+        "chunk": "上述国内标准在未明显 降低术后OS 的前提下，均不同程度地扩大了肝癌肝移植 的适用范围，使更多的肝癌患者因肝移植手术受益，但是 需要多中心协作研究以支持和证明，从而获得高级别的循 证医学证据",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk387",
+        "chunk": "经专家组充分讨论，现阶段本指南推荐采用 UCSF 标准，即：单个肿瘤直径≤6.5cm",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk388",
+        "chunk": "肿瘤数目≤3 个， 其中最大肿瘤直径≤4.5 cm，且肿瘤直径总和≤8.0cm",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk389",
+        "chunk": "中国人体器官分配与共享基本原则和核心 政策对肝癌肝移植有特别说明，规定肝癌受体可以申请早 52 / 143 期肝特例评分，申请成功可以获得MELD 评分22 分（≥12 岁肝脏移植等待者），每3 个月进行特例评分续期",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk390",
+        "chunk": "符合肝癌肝移植适应证的肝癌患者在等待供肝期间 可以接受桥接治疗控制肿瘤进展，以防止患者失去肝移植 机会，是否降低肝移植术后复发转移概率目前证据有限 [208,209] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk391",
+        "chunk": "桥接治疗的方式目前主要 推荐局部治疗，包括TACE、钇-90 放射栓塞、消融治疗、 体部立体定向放射治疗（stereotactic body radiation therapy，SBRT）等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk392",
+        "chunk": "移植术前使用免疫检查点抑制是否 会增加术后排斥和移植物损失的风险，有待进一步观察 [210]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk393",
+        "chunk": "部分肿瘤负荷超出肝移植适应证标准的肝癌患者可 以通过降期治疗将肿瘤负荷缩小而符合适应证范围",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk394",
+        "chunk": "降期 治疗成功后的肝癌患者，肝移植术后疗效预后优于非肝移 植患者 [211,212]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk395",
+        "chunk": "最近的多中心前瞻 性研究进一步证实肝癌肝移植术前肿瘤降期的可行性以 及降期后对生存的益处 [213]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk396",
+        "chunk": "降期治疗这个过程也可以作 为一种选择工具来识别具有有利的肿瘤生物学特性的肝 移植受者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk397",
+        "chunk": "活体肝移植 治疗肝癌的适应证可以尝试进一步扩大 [214-215]（证据等级4， 53 / 143 推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk398",
+        "chunk": "活体肝移植预后仍与受体的选择密切相关 [216-218]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk399",
+        "chunk": "（2）肝癌肝移植术后复发转移的预防和治疗 肿瘤复发转移是肝癌肝移植术后面临的主要问题 [219]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk400",
+        "chunk": "其危险因素包括肿瘤分期、肿瘤血管侵犯、术前血清AFP 水平以及免疫抑制剂用药方案等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk401",
+        "chunk": "术后早期撤除或无激素 方案 [220]、减少肝移植后早期钙调磷酸酶抑制剂的用量可 以降低肿瘤复发转移率 [221]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk402",
+        "chunk": "肝癌肝 移植术后采用以哺乳动物雷帕霉素靶蛋白抑制剂（如雷帕 霉素、依维莫司）为主的免疫抑制方案可以减少肿瘤复发 转移 [222-226]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk403",
+        "chunk": "肝癌肝移植术后一旦肿瘤复发转移（75%的病例发生在 肝移植术后2 年内），病情进展迅速，复发转移后患者的中 位生存时间大约为1 年 [227,228]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk404",
+        "chunk": "在多学科诊疗的基础上，采取 包括变更免疫抑制方案、再次手术切除、TACE、消融治疗、 放射治疗、系统抗肿瘤治疗等综合治疗手段，可能延长患者 生存时间 [229,230]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk405",
+        "chunk": "免疫检查点抑制剂用 于肝癌肝移植术后的治疗仍需慎重 [231]（证据等级4，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk406",
+        "chunk": "与标准他克莫司相比，依维莫司联合减量他克莫司方案治疗 活体肝移植受者的肝癌复发转移率相似，但肾小球滤过率更 高 [232]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk407",
+        "chunk": "肝癌肝移植术后最常见的复发转移部位是肺（约40%） 及肝脏（33%）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk408",
+        "chunk": "移植术后的密切监测与接受潜在的根治性治 54 / 143 疗和改善复发转移后生存有关 [233]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk409",
+        "chunk": "要点论述： （1）肝移植是肝癌根治性治疗手段之一，尤其适用 于肝功能失代偿、不适合手术切除及消融治疗的小肝癌患 者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk410",
+        "chunk": "（2）推荐UCSF 标准作为中国肝癌肝移植适应证标准",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk411",
+        "chunk": "（3）肝癌肝移植术后早期撤除/无激素方案、减少肝移 植后早期钙调磷酸酶抑制剂的用量、采用以哺乳动物雷帕霉 素靶蛋白抑制剂（如雷帕霉素、依维莫司）为主的免疫抑制 方案等有助于减少肿瘤复发转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk412",
+        "chunk": "（4）局部治疗在肝癌肝移植的降期治疗或桥接治疗中 具有重要作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk413",
+        "chunk": "（5）肝癌肝移植术后一旦肿瘤复发转移，病情进展 迅速，在多学科诊疗基础上的综合治疗，可以延长患者生 存时间",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk414",
+        "chunk": "（二）消融治疗 目前消融治疗已经被认为是手术切除之外治疗小肝癌 的根治性治疗方式，消融治疗具有对肝功能影响少、创伤小、 疗效确切的特点，在一些早期肝癌患者中可以获得与手术切 除相类似的疗效",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk415",
+        "chunk": "肝癌消融治疗是借助医学影像技术的引导，对肿瘤病灶 55 / 143 靶向定位，局部采用物理或化学的方法直接杀灭肿瘤组织的 一类治疗手段",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk416",
+        "chunk": "主要包括射频消融（radiofrequency ablation，RFA）、微波消融（microwave ablation，MWA）、 无水乙醇注射治疗（percutaneous ethanol injection，PEI）、 冷冻消融（cryoablation，CRA）、高强度超声聚焦消融（high intensity focused ultrasound ablation，HIFU）、激光消 融（laser ablation，LA）、不可逆电穿孔（irreversible electroporation，IRE）等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk417",
+        "chunk": "消融治疗常用的引导方式包括 超声、CT 和MRI，其中最常用的是超声引导，具有方便、实 时、高效的特点",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk418",
+        "chunk": "CT、MRI 可以用于观察和引导常规超声无 法探及的病灶",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk419",
+        "chunk": "CT 及MRI 引导技术还可以应用于肺、肾上腺、 骨等肝癌转移灶的消融治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk420",
+        "chunk": "消融的路径有经皮、腹腔镜、开腹或经内镜4 种方式",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk421",
+        "chunk": "大多数的小肝癌可以经皮穿刺消融，具有经济、方便、微创 等优点",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk422",
+        "chunk": "位于肝包膜下的肝癌（特别是突出肝包膜外的肝癌 经皮穿刺消融风险较大），影像学引导困难的肝癌或经皮消 融高危部位的肝癌（如贴近心脏、膈肌、胃肠道、胆囊等）， 可以考虑采用经腹腔镜消融、开腹消融或水隔离技术的方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk423",
+        "chunk": "消融治疗主要适用于CNLC Ⅰa 期及部分Ⅰb 期肝癌（即 单个肿瘤、直径≤5 cm",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk424",
+        "chunk": "无血管、胆管和邻近器官侵犯以及远处转移，肝功能 56 / 143 Child-Pugh A/B 级者，可以获得根治性的治疗效果 [131,234-238] （证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk425",
+        "chunk": "对于不适合单纯手术切除的直径3～ 7 cm 的单发肿瘤或多发肿瘤，可以采用消融联合手术切除或 TACE 治疗，其效果优于单纯的消融治疗 [239-243]（证据等级2， 推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk426",
+        "chunk": "1.目前常用消融治疗手段 （1）RFA：RFA 是肝癌微创治疗常用消融方式，其优点 是操作方便、住院时间短、疗效确切、消融范围可控性好， 特别适用于高龄、合并其他疾病、严重肝硬化、肿瘤位于肝 脏深部或中央型肝癌的患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk427",
+        "chunk": "对于能够手术的早期肝癌患者， RFA 的总体生存时间类似或略低于手术切除，但并发症发生 率低、住院时间较短 [126,131,234,236-238,244]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk428",
+        "chunk": "对于单个直径≤2 cm 肝癌，有证据显示RFA 的疗效与手术切 除类似，特别是位于中央型的肝癌 [245-246]（证据等级2，推荐 A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk429",
+        "chunk": "RFA 治疗的技术要求是肿瘤整体灭活和具有足够的消融 安全边界，并尽量减少正常肝组织损伤，其前提是对肿瘤浸 润范围的准确评估和卫星灶的识别",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk430",
+        "chunk": "因此，强调精确治疗前 多模态影像学检查和治疗前后影像学评估",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk431",
+        "chunk": "超声造影技术有 助于确认肿瘤的实际大小和形态、界定肿瘤浸润范围、检出 微小肝癌和卫星灶，尤其在超声引导消融过程中为制定消融 方案、完全灭活肿瘤提供可靠的参考依据",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk432",
+        "chunk": "57 / 143 （2）MWA：近年来MWA 应用比较广泛，在局部疗效、并 发症发生率以及远期生存方面与RFA 相比都无显著差异 [247-251] （证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk433",
+        "chunk": "其特点是消融效率高、所需消融时 间短、能降低RFA 所存在的“热沉效应”，尤其对于邻近血 管的肿瘤、富血供肿瘤和较大肿瘤具有更彻底的消融毁损效 果",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk434",
+        "chunk": "利用温度监控系统有助于调控功率、时间等参数，确定 有效热场范围，保护热场周边组织避免热损伤，提高MWA 消 融安全性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk435",
+        "chunk": "至于MWA 和RFA 这两种消融方式的选择，可以根 据肿瘤的大小、位置，选择更适宜的消融方式",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk436",
+        "chunk": "（3）PEI：PEI 对直径≤2 cm 的肝癌消融效果确切，远 期疗效与RFA 类似，但＞2 cm 肿瘤局部复发率高于RFA [252] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk437",
+        "chunk": "PEI 的优点是安全，特别适用于病 灶贴近肝门、胆囊及胃肠道组织等高危部位，但需要多次、 多点穿刺以实现药物在瘤内弥散作用，因而目前多用于热消 融技术的辅助治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk438",
+        "chunk": "（4）CRA：CRA 治疗途径与RFA 和MWA 相同，可经皮、 经腹腔镜或开腹直视下完成",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk439",
+        "chunk": "CRA 治疗≤2 cm 肝癌效果与MWA、 RFA 治疗手段相似 [253]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk440",
+        "chunk": "2.基本技术要求 （1）操作医师必须经过严格培训和积累足够的实践经 验，掌握各种消融技术手段的优缺点与治疗选择适应证",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk441",
+        "chunk": "治 58 / 143 疗前应该全面充分地评估患者的全身状况、肝功能状态、凝 血功能及肿瘤的大小、位置、数目以及与邻近器官的关系， 制定合理的穿刺路径、消融计划及术后照护，在保证安全的 前提下，达到有效的消融安全范围",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk442",
+        "chunk": "（2）根据肿瘤的大小、位置，强调选择适合的影像引 导设备（超声或CT 等）和消融方法（RFA、MWA、CRA 或PEI 等），有条件的可采用多模态融合影像引导",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk443",
+        "chunk": "（3）邻近肝门部或靠近一、二级胆管的肝癌需要谨慎 应用消融治疗，避免发生损伤胆管等并发症",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk444",
+        "chunk": "采用PEI 的方 法较为安全，或消融联合PEI",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk445",
+        "chunk": "如果采用热消融方法，肿瘤 与一、二级肝管之间要有足够的安全距离（至少＞5 mm）， 并采用安全的消融参数（低功率、短时间、间断辐射）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk446",
+        "chunk": "对 于有条件的消融设备推荐使用温度监测方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk447",
+        "chunk": "（4）消融范围应力求覆盖包括至少5mm 的癌旁组织， 以获得“安全边缘”，彻底杀灭肿瘤",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk448",
+        "chunk": "对于边界不清晰、形 状不规则的病灶，在邻近肝组织及结构条件许可的情况下， 建议适当扩大消融范围",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk449",
+        "chunk": "3.对于直径3～5 cm 的肝癌治疗选择 数项前瞻性随机对照临床试验和系统回顾性分析显示， 对于直径3～5 cm 的肝癌宜首选手术切除 [132,237,254]（证据等级 1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk450",
+        "chunk": "在临床实践中，应该根据患者的一般状况和肝 59 / 143 功能，肿瘤的大小、数目、位置决定，并结合从事消融治疗 医师的技术和经验，全面考虑后选择合适的初始治疗手段",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk451",
+        "chunk": "通常认为，如果患者能够耐受肝切除术，尤其是肝癌位置表 浅、位于肝脏边缘或不适合消融的高危部位肝癌，均应首选 手术切除",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk452",
+        "chunk": "对于直径3～5 cm 的单发肝癌，我国最新多中心 回顾性研究数据显示，MWA 可取得和腹腔镜肝切除术相近的 OS，而无病生存稍逊于切除 [235]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk453",
+        "chunk": "对于2～3 个病灶位于不同 区域、或者位居肝脏深部或中央型的肝癌，可以选择消融治 疗或者手术切除联合消融治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk454",
+        "chunk": "4.肝癌消融治疗后的评估和随访 局部疗效评估的推荐方案是在消融后1 个月左右，复查 动态增强CT、动态增强MRI 扫描或超声造影，以评价消融效 果",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk455",
+        "chunk": "影像学评 判消融效果可以分为 [255]：①完全消融：经动态增强CT、动 态增强MRI 扫描或超声造影随访，肿瘤消融病灶动脉期未见 强化，提示肿瘤完全坏死",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk456",
+        "chunk": "②不完全消融：经动态增强CT、 动态增强MRI 扫描或超声造影随访，肿瘤消融病灶内动脉期 局部有强化，提示有肿瘤残留",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk457",
+        "chunk": "对治疗后有肿瘤残留者，可以进行再次消融治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk458",
+        "chunk": "若2 次消融后仍有肿瘤残留，应放弃消融疗法，改用其他疗法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk459",
+        "chunk": "完全消融后应定期随访复查，通常情况下每隔2～3 个月复 60 / 143 查血清学肿瘤标志物、超声显像、增强CT 或动态增强MRI 扫描，以便及时发现可能的局部复发病灶和肝内新发病灶， 利用消融治疗微创安全和简便易于反复施行的优点，有效地 控制肿瘤进展",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk460",
+        "chunk": "5.肝癌消融术后预防复发转移的辅助治疗 近期IMbrave050 研究结果显示 [202]，在以治愈为目的的 手术切除或消融后具有术后高危复发转移风险的肝癌患者 中，阿替利珠单克隆抗体联合贝伐珠单克隆抗体与主动监测 相比，提高了无复发生存率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk461",
+        "chunk": "此项研究中，消融后高危复发 转移风险的标准定义为：单个肿瘤且最大肿瘤直径＞2 cm 且 ≤5 cm 或多发肿瘤≤4 个且最大肿瘤直径≤5 cm",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk462",
+        "chunk": "有研究显示，消融治疗可提高肿瘤相关抗原和新抗原释 放，增强肝癌相关抗原特异性T 细胞应答，激活或者增强机 体抗肿瘤的免疫应答反应 [256-258]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk463",
+        "chunk": "消融治疗联合免疫治疗可以 产生协同抗肿瘤作用 [256,259,260]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk464",
+        "chunk": "要点概述： （1）消融治疗适用于CNLC Ⅰa 期及部分Ⅰb 期肝癌（即 单个肿瘤、直径≤5 cm",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk465",
+        "chunk": "或2～3 个肿瘤、最大直径≤3 cm）， 可以获得根治性的治疗效果",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk466",
+        "chunk": "对于不能单纯手术切除的直径 3～7 cm 的单发肿瘤或多发肿瘤，可以消融治疗联合TACE 或 61 / 143 手术切除",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk467",
+        "chunk": "（2）对于直径≤3 cm 的肝癌患者，消融治疗的总体生 存时间类似或稍低于手术切除，但并发症发生率、住院时间 低于手术切除",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk468",
+        "chunk": "对于单个直径≤2cm 肝癌，消融治疗的疗效 类似于手术切除，特别是中央型肝癌",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk469",
+        "chunk": "（3）RFA 与MWA 在局部疗效、并发症发生率以及远期生 存方面，两者无显著差异，可以根据肿瘤的大小、位置来选 择",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk470",
+        "chunk": "（4）PEI 对直径≤2cm 的肝癌远期疗效与RFA 类似",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk471",
+        "chunk": "PEI 的优点是安全，特别适用于病灶贴近肝门、胆囊及胃肠道组 织等高危部位，但需要多次、多点穿刺以实现药物在瘤内弥 散作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk472",
+        "chunk": "（5）CRA 治疗可借助B 超、CT 等引导，在腹腔镜或直 视下进行，对于≤2 cm 肝癌消融效果与微波、射频相似",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk473",
+        "chunk": "（6）消融治疗后定期复查动态增强CT、动态增强MRI 扫描、超声造影和血清学肿瘤标志物，以评价消融效果",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk474",
+        "chunk": "（三）经动脉介入治疗 根据动脉插管化疗、栓塞操作的不同，经动脉介入治 疗通常分为：①动脉灌注化疗：是指经肿瘤供血动脉灌注 化疗药物，包括HAIC，常用化疗药物有蒽环类、铂类和 氟尿嘧啶类等，需根据患者的肿瘤负荷、体表面积、肝肾 62 / 143 功能状态、血细胞水平、体能状态、既往用药及合并疾病 等情况选择配伍与用量，同时根据化疗药物的药代动力学 特点设计灌注药物的浓度和时间 [261]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk475",
+        "chunk": "②TACE：是指将带 有化疗药物的碘化油乳剂或载药微球、辅以颗粒型栓塞剂 （如明胶海绵颗粒、空白微球、聚乙烯醇颗粒）等经肿瘤 供血动脉支的栓塞治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk476",
+        "chunk": "③TAE：单纯用颗粒型栓塞剂栓 塞肿瘤的供血动脉分支",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk477",
+        "chunk": "④经动脉放射性栓塞 （transarterial radioembolization，TARE），指经肿 瘤供血动脉注射带有放射性核素的物质（其具体应用见附 录6）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk478",
+        "chunk": "其中TACE 是肝癌最常用的经动脉介入治疗方法 [262-267]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk479",
+        "chunk": "1.TACE 的基本原则 ①要求在DSA 机下进行",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk480",
+        "chunk": "③必须强调超选择插管至肿瘤的供血动脉分支再进 行治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk481",
+        "chunk": "⑥经过3～4 次TACE 治疗后，治疗的 靶病灶仍处于疾病进展，应考虑更换TACE 方案或联合其 他治疗方法，如消融治疗、系统抗肿瘤治疗、放射治疗以 及外科手术等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk482",
+        "chunk": "2.TACE 适应证 ①CNLC Ⅱb、Ⅲa 期肝癌患者，为首选治疗推荐",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk483",
+        "chunk": "② 63 / 143 有手术切除或消融治疗适应证，但由于高龄、肝功能储备 不足、肿瘤高危部位等非手术原因，不能或不愿接受上述 治疗方法的CNLC Ⅰa、Ⅰb 和Ⅱa 期肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk484",
+        "chunk": "③预计通 过TACE 治疗能控制肝内肿瘤生长而获益的CNLC Ⅲb 期肝 癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk485",
+        "chunk": "④门静脉主干未完全阻塞，或虽完全阻塞但门静 脉代偿性侧支血管丰富或通过门静脉支架植入可以恢复 门静脉血流的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk486",
+        "chunk": "⑤肝动脉-门静脉分流造成门静 脉高压出血的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk487",
+        "chunk": "⑥具有高危复发因素（包括肿瘤 较大或多发、合并肉眼或镜下癌栓、姑息性手术、术后 AFP 等肿瘤标志物未降至正常范围等）肝癌患者手术切除 后的辅助性TACE 治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk488",
+        "chunk": "⑦初始不可切除，但可接受术前 转化治疗后为手术切除、肝脏移植、消融创造机会的肝癌 患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk489",
+        "chunk": "⑧肝癌肝移植患者等待期的桥接治疗及降期治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk490",
+        "chunk": "3.TACE 禁忌证 ①肝功能严重障碍（Child-Pugh C 级），包括严重 黄疸、肝性脑病、难治性腹水或肝肾综合征等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk491",
+        "chunk": "③门静脉主干完全被癌栓/血栓栓塞， 门静脉侧支代偿不足且不能通过门静脉成形术有效复通 门静脉向肝血流者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk492",
+        "chunk": "④严重感染或合并活动性肝炎且不能 有效控制者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk493",
+        "chunk": "⑤肿瘤弥漫或远处广泛转移，估计生存期＜ 64 / 143 3 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk494",
+        "chunk": "⑥ECOG PS 评分＞2 分、恶液质或多器官功能衰 竭者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk495",
+        "chunk": "⑦肿瘤占全肝体积的比例≥70%（非绝对禁忌，如 肝功能基本正常，可考虑采用分次栓塞）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk496",
+        "chunk": "⑧外周血白细 胞和血小板显著减少，白细胞＜3.0×10 9/L，血小板＜50 ×10 9/L（非绝对禁忌，如脾功能亢进者，排除化疗性骨 髓抑制）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk497",
+        "chunk": "⑨肾功能障碍：血肌酐＞176.8 μmol/L 或者 血肌酐清除率＜30 ml/min",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk498",
+        "chunk": "4.TACE 操作程序要点和分类 [268-269] （1）动脉造影：全面、规范的动脉造影是TACE 成功 的基础",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk499",
+        "chunk": "通常采用Seldinger 方法，经皮穿刺股动脉（或 桡动脉）途径插管，将导管置于腹腔动脉或肝总动脉行 DSA 造影",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk500",
+        "chunk": "造影图像采集应包括动脉期、实质期及静脉期， 以明确肿瘤部位、大小、数目及供血动脉情况",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk501",
+        "chunk": "结合术前 影像学检查仔细分析造影表现，若发现肝脏区域血管稀少 /缺乏或肿瘤染色不完全，应做肠系膜上动脉、胃左动脉、 膈下动脉、肾动脉、胸廓内动脉、肋间动脉、腰动脉等动 脉造影，以发现异位起源的肝动脉及肝外动脉侧支供养血 管 [61]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk502",
+        "chunk": "推荐使用DSA 联合CBCT 以提高肿瘤病灶显示率和 供血动脉分支判断的准确性 [62]（证据等级2，推荐强度A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk503",
+        "chunk": "对于严重肝硬化、门静脉主干及一级分支癌栓者，推荐经 肠系膜上动脉或脾动脉行间接门静脉造影，了解门静脉血 65 / 143 流情况",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk504",
+        "chunk": "（2 ）根据栓塞剂的不同，TACE 分为常规TACE （conventional-TACE ，cTACE ）和药物洗脱微球TACE （drug-eluting beads-TACE，DEB-TACE）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk505",
+        "chunk": "cTACE 是指 采用以碘化油化疗药物乳剂为主，辅以明胶海绵颗粒、空 白微球或聚乙烯醇颗粒的栓塞治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk506",
+        "chunk": "通常先灌注一部分化 疗药物，一般灌注时间不应＜20 min，然后将另一部分化 疗药物与碘化油混合成乳剂进行栓塞",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk507",
+        "chunk": "碘化油与化疗药物 需充分混合成乳剂，单次用量一般为5～20 ml，最多不 超过30 ml",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk508",
+        "chunk": "在透视监视下依据肿瘤区碘化油沉积是否浓 密，肿瘤周围是否出现门静脉小分支显影为碘化油乳剂栓 塞的终点",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk509",
+        "chunk": "在碘化油乳剂栓塞后加用颗粒性栓塞剂，尽量 避免栓塞剂反流栓塞正常肝组织或进入非靶器官",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk510",
+        "chunk": "DEB-TACE 是指采用加载化疗药物的药物洗脱微球为主的 栓塞治疗，又称载药微球TACE",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk511",
+        "chunk": "载药微球通常加载蒽环 类化疗药物，在栓塞肝癌供血动脉使肿瘤缺血坏死的同时 作为化疗药物的载体，使化疗药物持续稳定释放，达到肿 瘤局部较高血药浓度",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk512",
+        "chunk": "根据肿瘤大小、血供丰富情况和治 疗目的选择不同粒径的微球，常用为100～300 µm、300～ 500 µm",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk513",
+        "chunk": "载药微球推注速度推荐1 ml/min，需注意微球 栓塞后再分布，尽可能充分栓塞远端肿瘤滋养动脉，同时 66 / 143 注意保留肿瘤近端供血分支，减少微球反流对正常肝组织 损害 [270,271]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk514",
+        "chunk": "cTACE 与DEB-TACE 治疗的总体疗效无显著差 异，但肿瘤的客观有效率方面DEB-TACE 具有一定的优势 [272]（证据等级1，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk515",
+        "chunk": "（3）精细TACE 治疗：为减少肿瘤的异质性导致TACE 疗效的差异，提倡精细TACE 治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk516",
+        "chunk": "②微导管超选择插管至肿瘤的供血动脉 分支进行栓塞 [273]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk517",
+        "chunk": "③术中采用CBCT 技术为辅助的靶血 管精确插管及监测栓塞后疗效 [274]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk518",
+        "chunk": "④栓塞材料的合理联 合应用，包括碘化油、明胶海绵颗粒、空白微球、药物洗 脱微球等 [275]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk519",
+        "chunk": "⑤根据患者肿瘤状况、体能状态、肝功能 状态和治疗目的采用不同的栓塞终点",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk520",
+        "chunk": "治疗前确定个体化 的TACE 治疗目标至关重要",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk521",
+        "chunk": "对于局限于肝段或直径<5 cm 的肝癌，应使肿瘤完全去血管化和/或周边门静脉小分支 显影，达到肝动脉和门静脉双重栓塞效果 [276-277]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk522",
+        "chunk": "对于巨 块型肝癌需结合患者的肝功能、体能状态、门静脉通畅等 情况，尽量使肿瘤去血管化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk523",
+        "chunk": "对于肿瘤累及全肝且肿瘤负 荷较高的患者，可采用分次TACE 治疗，先处理负荷较高 肝叶的肿瘤，待2～4 周患者肝功能恢复后再处理剩余肿 瘤，以减少患者肝功能损伤，提高TACE 治疗的安全性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk524",
+        "chunk": "5.TACE 术后常见不良反应和并发症 67 / 143 TACE 治疗的最常见不良反应是栓塞后综合征，主要 表现为发热、疼痛、恶心和呕吐等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk525",
+        "chunk": "发热、疼痛的发生原 因是肝动脉被栓塞后引起局部组织缺血、坏死，而恶心、 呕吐主要与化疗药物有关",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk526",
+        "chunk": "此外，还有一过性肝功能异常、 肾功能损害以及骨髓抑制等其他不良反应",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk527",
+        "chunk": "TACE 治疗后 的不良反应可持续5～7 天，经对症治疗后大多数患者能 完全恢复",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk528",
+        "chunk": "TACE 治疗的并发症：急性肝肾功能损害",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk529",
+        "chunk": "栓塞剂异 位栓塞（包括肺和脑栓塞、消化道穿孔、脊髓损伤、膈肌 损伤等）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk530",
+        "chunk": "6.TACE 的疗效评价 最常采用mRECIST 和/或欧洲肝病研究学会（European Society for the Study of Liver Diseases，EASL）标准 评价TACE 疗效 [87,278]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk531",
+        "chunk": "短 期疗效评价指标有ORR、PFS 等，长期疗效评价指标为OS",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk532",
+        "chunk": "基于mRECIST 标准评估的ORR 与OS 有一定相关性，早期获 得肿瘤客观缓解，特别是完全缓解者，预后较好 [279-281]（证据 等级2，推荐强度B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk533",
+        "chunk": "7.影响TACE 疗效的主要因素 ①肿瘤分期",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk534",
+        "chunk": "⑨伴慢性HBV 感染者的血清乙 型肝炎e 抗原（hepatitis B e antigen，HbeAg）状态、 HBV DNA 水平",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk535",
+        "chunk": "⑪是否联合消融、分子 靶向治疗、免疫治疗、放射治疗以及外科手术等综合治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk536",
+        "chunk": "8.随访及TACE 间隔期间治疗 一般建议第1 次TACE 治疗后4～6 周时复查动态增强 CT 和/或动态增强MRI 扫描、肿瘤相关标志物、肝肾功能 和血常规检查等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk537",
+        "chunk": "再次TACE 治疗应遵循按需原则 [282-283]， 若影像学随访显示肝脏肿瘤灶内碘油沉积浓密、肿瘤组织 坏死无强化且无新病灶，暂时可以不做TACE 治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk538",
+        "chunk": "后续 是否需要TACE 治疗及频次应依随访结果而定，主要包括 患者对上一次治疗的反应、肝功能和体能状况的变化",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk539",
+        "chunk": "随 访间隔1～3 个月或更长时间，依据动态增强CT 和/或动 态增强MRI 动态增强扫描评价肝脏肿瘤的存活情况，以决 定是否需要再次TACE 治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk540",
+        "chunk": "对于大肝癌/巨块型肝癌常要 3～4 次或以上的TACE 治疗，目前主张TACE 联合其他治 疗方法，目的是控制肿瘤、提高患者生活质量和延长生存",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk541",
+        "chunk": "9.以TACE 为基础的综合治疗 需重视TACE 联合其他局部治疗和/或系统抗肿瘤治 疗，以进一步提高TACE 疗效 [262]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk542",
+        "chunk": "69 / 143 （1）在TACE 基础上采用门静脉内支架置入术联合碘 -125 粒子条或碘-125 粒子门静脉支架置入术，有助于恢 复门静脉向肝血流、缓解门静脉高压、有效处理门静脉主干 癌栓 [284-286]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk543",
+        "chunk": "采用碘-125 粒子条或 直接穿刺植入碘-125 粒子治疗门静脉一级分支癌栓 [287-289] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk544",
+        "chunk": "（2）TACE 联合消融治疗：为了提高TACE 疗效，主 张在TACE 治疗基础上酌情联合消融治疗，包括RFA、MWA 以及CRA 等治疗 [290-291]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk545",
+        "chunk": "对不能手术切除的CNLC Ⅰb、Ⅱa 期直径3～7 cm 的单发或多发肿瘤，效果优于单纯消融治疗 [240,241,292]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk546",
+        "chunk": "目前临床有两种TACE 联 合热消融治疗方式：①序贯消融：先行TACE 治疗，术后 1～4 周内加用消融治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk547",
+        "chunk": "②同步消融：在TACE 治疗的同 时给予消融治疗，可以明显提高临床疗效，并减轻肝功能 损伤 [290,293]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk548",
+        "chunk": "（3）TACE 联合外放射治疗：TACE 联合外放射治疗可 提高肿瘤局部缓解率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk549",
+        "chunk": "联合治疗常用于局限性大肝癌介入 治疗后、伴有门静脉或下腔静脉癌栓及肝外转移的CNLC Ⅲ期肝癌 [294,295]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk550",
+        "chunk": "（4）TACE 联合外科治疗： ①外科治疗前桥接、降期或转化治疗：TACE 可有效 70 / 143 降低肿瘤负荷，将部分超越肝移植标准的患者转化至符合 肝移植标准，提高肝移植率，降低移植术后复发转移率， 转化后的肝移植患者OS 与标准内患者类似 [211,296-298]（证据 等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk551",
+        "chunk": "TACE 还可为初始不可切除肝癌患者创 造潜在手术切除机会，并转化为长期生存获益 [181]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk552",
+        "chunk": "TACE 联合HAIC、放疗等局部治疗以及靶向/免疫治疗可以提高 转化成功率 [299-300]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk553",
+        "chunk": "②外科术后高危复发转移患者辅助性TACE 治疗：辅 助性TACE 可及时发现外科术后残留或复发的肝癌病灶，并 进行有效治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk554",
+        "chunk": "对存在术后复发高危因素者，如术前肿瘤破 裂、直径＞5 cm、多病灶肿瘤、微血管侵犯/脉管瘤栓、切 缘阳性、组织分化差、术后肿瘤标志物水平未降至正常水平， 推荐术后辅助性TACE 治疗 [192,193,301-303]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk555",
+        "chunk": "（5）TACE 联合HAIC 治疗：对于肝癌伴门静脉癌栓 （尤其是主干癌栓）、明显或广泛动-静脉瘘TACE 不能良 好栓塞、巨大肿瘤以及多次TACE 治疗产生抵抗的肝癌患 者，采用TACE 联合mFOLFOX-HAIC 治疗能进一步提高TACE 疗效 [304-305]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk556",
+        "chunk": "（6）TACE 联合系统抗肿瘤治疗：对于中或高肿瘤负 荷、TACE 治疗抵抗或失败的患者，应尽早联合分子靶向 药物治疗 [306-307]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk557",
+        "chunk": "目前，TACE 联合 71 / 143 分子靶向药物疗效优于单一分子靶向药物 [184,308]（证据等 级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk558",
+        "chunk": "采用TACE 联合靶向和免疫治疗能延长中 晚期肝癌患者生存期，疗效优于单一TACE 治疗 [309-311]（证 据等级2，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk559",
+        "chunk": "（7）TACE 联合抗病毒治疗：对有HBV、HCV 背景肝 癌患者TACE 治疗同时应积极抗病毒治疗 [312,313] （证据等 级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk560",
+        "chunk": "10.HAIC HAIC 作为一种经动脉介入治疗方式，目前尚未形成统 一治疗技术标准",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk561",
+        "chunk": "近年来，我国学者采用mFOLFOX 为基础的 灌注方案使晚期肝癌患者HAIC 疗效得以提高 [314]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk562",
+        "chunk": "研究表明， mFOLFOX-HAIC 治疗对于多次TACE 治疗产生抵抗、肝癌伴门 静脉癌栓、肝外寡转移的肝癌患者，疗效优于索拉非尼治疗 [182,183,315]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk563",
+        "chunk": "另外对肝癌伴门静脉癌栓患 者（CNLC Ⅲa 期）采用HAIC 联合索拉非尼治疗疗效优于单 用索拉非尼治疗 [183]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk564",
+        "chunk": "要点论述： （1）TACE 是肝癌最常用的经血管内介入治疗方法， 主要适用于CNLC Ⅱb、Ⅲa 和部分Ⅲb 期肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk565",
+        "chunk": "（2）TACE 必须遵循规范化和个体化的方案，提倡精 细TACE 治疗，以减少肿瘤异质性导致TACE 疗效的差异",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk566",
+        "chunk": "72 / 143 （3）对肝癌伴门静脉主干或一级分支癌栓可以在 TACE 基础上联合使用门静脉内支架联合碘-125 粒子条或 碘-125 粒子门静脉支架治疗或直接穿刺植入碘-125 粒子 治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk567",
+        "chunk": "（4）提倡TACE 联合消融治疗、放射治疗、外科手术、 HAIC、分子靶向药物、免疫治疗和抗病毒治疗等综合治疗， 以进一步提高TACE 疗效",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk568",
+        "chunk": "（5）mFOLFOX-HAIC 治疗对于多次TACE 治疗产生抵抗、 肝癌伴门静脉癌栓、肝外寡转移的肝癌患者，疗效优于索拉 非尼治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk569",
+        "chunk": "（四）放射治疗 放射治疗分为外放射治疗和内放射治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk570",
+        "chunk": "外放射治疗是 利用放疗设备产生的射线（光子或粒子）从体外进入体内对 肿瘤照射",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk571",
+        "chunk": "内放射治疗是利用放射性核素，经机体管道或通 过针道植入肿瘤内",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk572",
+        "chunk": "肝癌对放射敏感，中等剂量的放疗，就 可以获得较好的肿瘤缓解率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk573",
+        "chunk": "1.外放射治疗 （1）外放射治疗适应证 ①CNLC Ⅰa、部分Ⅰb 期肝癌患者，如无手术切除或消 融治疗适应证或不愿接受有创治疗，可以考虑采用SBRT 作 为有效治疗手段 [316-323]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk574",
+        "chunk": "②CNLC Ⅱa、 73 / 143 Ⅱb 期肝癌患者，TACE 联合外放射治疗，可以改善局部控制 率、延长生存时间，较单用TACE、索拉非尼或TACE 联合索 拉非尼治疗的疗效好，可以适当采用 [294,318，324-330]（证据等级 2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk575",
+        "chunk": "③CNLC Ⅲa 期肝癌患者，可以切除的伴门静 脉癌栓的肝癌行术前新辅助放射治疗 [331] 或术后辅助放射治 疗，延长生存 [145，332]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk576",
+        "chunk": "对于不能手术 切除的，可行姑息性放射治疗，或放射治疗与TACE 等联合 治疗，尤其TACE 前放疗，可显著延长患者生存时间 [294，329，330， 333，334]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk577",
+        "chunk": "④CNLC Ⅲb 期肝癌患者，部 分寡转移灶者，可以行SBRT，延长生存时间",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk578",
+        "chunk": "淋巴结、肺、 骨、脑或肾上腺等转移灶，外放射治疗可以减轻转移灶相关 疼痛、梗阻或出血等症状，延长生存时间 [295,335-337]（证据等 级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk579",
+        "chunk": "⑤放疗可与手术联合，能改善部分肝癌患 者生存",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk580",
+        "chunk": "外放射治疗可用于等待肝癌肝移植术前的桥接治疗 [338,339] （证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk581",
+        "chunk": "与可切除门静脉癌栓的肝癌 类似，部分中央型肝癌（指紧邻肝门，距离主要的血管结构 ＜1cm 的肝癌，其通常位于Couinaud I、IV、V、VIII 段， 或者位于中央段的交界处）可行术前新辅助放疗，其疗效较 好且患者耐受性佳 [340]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk582",
+        "chunk": "放射治疗可联合介入或免疫检查点抑 制剂治疗 [300]，使部分无法手术切除的肝癌患者，在肿瘤缩小 或降期后转化为手术切除 [295,320]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk583",
+        "chunk": "肝癌 74 / 143 术后病理提示有MVI 者、肝癌手术切缘距肿瘤≤1cm 的窄切 缘者，术后辅助放射治疗可以减少病灶局部复发或远处转移 延长患者无瘤生存期 [341-344]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk584",
+        "chunk": "⑥放疗可 与分子靶向类、免疫检查点抑制剂联合：部分CNLC Ⅲ期或 伴MVI 等不良预后因素的患者，放射治疗前、后使用索拉非 尼 [345]等分子靶向药可能延长生存时间 [346-348]，但同步使用这 类药物须谨慎 [349,350]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk585",
+        "chunk": "免疫检查点抑制剂联合SBRT 治疗肝癌， 有研究结果提示可能起到相互协同增效的作用 [351-355]（证据等 级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk586",
+        "chunk": "（2）外放射治疗禁忌证 肝癌患者如肝内病灶弥散分布，或CNLC Ⅳ期者，不建 议行外放射治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk587",
+        "chunk": "（3）外放射治疗实施原则与要点 肝癌外放射治疗实施原则为综合考虑肿瘤照射剂量，周 围正常组织耐受剂量，以及所采用的放射治疗技术",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk588",
+        "chunk": "肝癌外 放射治疗实施要点为：①放射治疗计划制定时，肝内病灶 在增强CT 中定义，必要时参考MRI 影像等多种影像资料， 可以利用正常肝组织的增生能力，放射治疗时保留部分正常 肝不受照射，以期部分正常肝组织获得增生",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk589",
+        "chunk": "②肝癌照射 剂量，与患者生存时间及局部控制率密切相关，基本取决于 周边正常组织的耐受剂量 [186,356]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk590",
+        "chunk": "肝癌照射剂量：SBRT 一般 75 / 143 推荐≥45～60 Gy/3～10 分次（fraction，Fx） [357]、放射治 疗生物等效剂量（biological effective dose，BED）≥80Gy （α/β比值取10 Gy），病灶可获得较好的放疗效果 [317]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk591",
+        "chunk": "新辅助放射治疗门静脉癌栓的 剂量可以为3 Gy×6 Fx [145]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk592",
+        "chunk": "具有图像引导放射治疗（image guided radiation therapy，IGRT）技术条件者，部分肝内 病灶、癌栓或肝外淋巴结、肺、骨等转移灶可行低分割放射 治疗者尽量采用低分割放疗，以提高单次剂量、缩短放射治 疗时间、疗效不受影响甚至可以提高 [358-360]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk593",
+        "chunk": "非SBRT 的低分 割外放射治疗，可以利用模型计算BED，有HBV 感染患者的 肝细胞α/β比值取8 Gy，肿瘤细胞α/β比值取10～15 Gy， 作为剂量换算参考 [186,295,361]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk594",
+        "chunk": "③正常组织耐受剂量需考虑： 放射治疗分割方式、肝功能Child-Pugh 分级、正常肝（肝 脏－肿瘤）体积 [362]、胃肠道淤血和凝血功能状况等（附录7）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk595",
+        "chunk": "④肝癌放射治疗技术：建议采用三维适形或调强放射治疗、 IGRT 或SBRT 等技术",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk596",
+        "chunk": "IGRT 优于非IGRT 技术 [356]，螺旋断层 放射治疗适合多发病灶的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk597",
+        "chunk": "呼吸运动是导致肝脏肿 瘤在放射治疗过程中运动和形变的主要原因，目前可以采取 多种技术以减少呼吸运动带来的影响，如门控技术、实时追 踪技术、呼吸控制技术以及腹部加压结合4D-CT 确定内靶区 技术等 [363]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk598",
+        "chunk": "⑤目前尚缺乏较高级别的临床证据以支持肝癌 76 / 143 患者质子放射治疗的生存率优于光子放射治疗 [318]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk599",
+        "chunk": "（4）放疗疗效评估 肝癌放疗的疗效可以参考EASL 或mRECIST 标准进行评 价 [318]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk600",
+        "chunk": "增强CT 和/或动态增强MRI 扫描常用来评价肝癌放 疗后疗效",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk601",
+        "chunk": "放疗后早期（3 周～3 个月）肿瘤多为凝固坏死， 缩小缓慢，疗效评价多为稳定 [364]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk602",
+        "chunk": "放疗后期（约3～6 个月 后），肿瘤坏死被逐渐吸收表现为肿瘤明显缩小，可平均缩 小36%以上，肿瘤动脉期强化显著降低或不强化 [365]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk603",
+        "chunk": "（5 ）外放射治疗主要并发症：放射性肝病 （radiation-induced liver disease，RILD）是肝脏外放 射治疗的剂量限制性并发症，分典型性和非典型性两种：① 典型RILD：碱性磷酸酶升高＞2 倍正常值上限、无黄疸性腹 腔积液、肝肿大",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk604",
+        "chunk": "②非典型RILD：碱性磷酸酶＞2 倍正常 值上限、谷丙转氨酶＞正常值上限或治疗前水平5 倍、肝功 能Child-Pugh 评分下降≥2 分，但是无肝大和腹腔积液",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk605",
+        "chunk": "诊断RILD 必须排除肝肿瘤进展、病毒性或药物性所致临床 症状和肝功能损害 [295,362]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk606",
+        "chunk": "临床影像学所见局灶放射性肝损伤是对应于肝脏受到 较高剂量照射的区域，如在此基础上出现RILD 相关临床症 状体征、实验室指标异常，并需临床干预治疗，才可诊断放 射性肝病",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk607",
+        "chunk": "早期，局灶放射性肝损伤CT 表现多为边界清楚 77 / 143 肝内低密度区，MRI 表现为T1加权成像低信号/ T2加权成像 高信号，T1 加权成像增强动脉期强化下降 [364]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk608",
+        "chunk": "晚期，增强 CT 或MRI 均表现为病变区局部萎缩、动脉及延迟期呈不均质 强化，该强化退出缓慢 [366-368]，随访时需与局部复发或进展相 鉴别 [295，369]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk609",
+        "chunk": "2.质子束放射疗法与内放射治疗 质子束放射疗法对于术后复发或残留肝癌病灶（大小＜ 3 cm，数目≤2 个）的疗效与RFA 相似 [370]（证据等级2，推 荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk610",
+        "chunk": "内放射治疗是肝癌局部治疗的一种方法，包括钇-90 微 球疗法、碘-131 单克隆抗体、放射性碘化油、碘-131 粒子 植入等 [336-337]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk611",
+        "chunk": "RFA 治疗肝癌后序贯使用碘-131-美妥昔单克 隆抗体治疗，可以降低RFA 治疗后局部复发率，改善患者生 存 [371]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk612",
+        "chunk": "粒子植入技术包括组织间植入、 门静脉植入、下腔静脉植入和胆道内植入，分别治疗肝内病 灶、门静脉癌栓、下腔静脉癌栓和胆管内癌或癌栓",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk613",
+        "chunk": "氯化锶 （ 89Sr）发射出β射线，可以用于靶向治疗肝癌骨转移病灶 [372] （证据等级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk614",
+        "chunk": "要点论述： （1）CNLC Ⅲa 期肝癌患者，合并可切除门脉癌栓的肝 癌患者可以行术前新辅助放射治疗或术后辅助放射治疗，延 78 / 143 长生存",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk615",
+        "chunk": "对于不能手术切除者，可以行姑息性放射治疗，或 放射治疗与TACE 等联合治疗，延长患者生存",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk616",
+        "chunk": "（2）CNLC Ⅲb 期肝癌患者，淋巴结、肺、骨、脑或肾 上腺转移可采用外放射治疗减轻疼痛、梗阻或出血等症状",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk617",
+        "chunk": "（3）肝肿瘤照射剂量：SBRT 一般推荐≥45～60 Gy/3～ 10 Fx，常规分割放射治疗一般为50～75 Gy，照射剂量与患 者生存密切相关",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk618",
+        "chunk": "部分肝内病灶或肝外转移灶可以行低分割 放射治疗，以提高单次剂量、缩短放射治疗时间",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk619",
+        "chunk": "（4）正常组织的耐受剂量必须考虑：放射治疗分割方 式、肝功能Child-Pugh 分级、正常肝（肝脏－肿瘤）体积、 胃肠道淤血和凝血功能状况等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk620",
+        "chunk": "（5）IGRT 优于三维适形放射治疗或调强放射治疗，SBRT 必须在IGRT 下进行",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk621",
+        "chunk": "（6）内放射治疗是肝癌局部治疗的一种方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk622",
+        "chunk": "（五）系统治疗 系统治疗或称之为全身性治疗，主要指抗肿瘤治疗， 包括分子靶向药物治疗、免疫检查点抑制剂治疗、化学治 疗和中医中药治疗等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk623",
+        "chunk": "另外还包括了针对肝癌基础疾病的 治疗，如抗病毒治疗、保肝利胆和支持对症治疗等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk624",
+        "chunk": "由于肝癌起病隐匿，首次诊断时只有不到30%的肝癌 患者适合接受根治性治疗，系统抗肿瘤治疗在中晚期肝癌 79 / 143 的治疗过程中发挥重要的作用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk625",
+        "chunk": "系统抗肿瘤治疗可以控制 疾病的进展，延长患者的生存时间，部分患者可获得肿瘤 部分或完全缓解",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk626",
+        "chunk": "系统抗肿瘤治疗在不可手术切除的中晚 期肝癌中的适应证主要为：①CNLC Ⅲa、Ⅲb 期肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk627",
+        "chunk": "②不适合手术切除或TACE 治疗的CNLC Ⅱb 期肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk628",
+        "chunk": "③TACE 治疗抵抗或TACE 治疗失败的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk629",
+        "chunk": "1.一线系统抗肿瘤治疗 （1）阿替利珠单克隆抗体联合贝伐珠单克隆抗体： 阿替利珠单克隆抗体联合贝伐珠单克隆抗体被批准用于 既往未接受过全身系统性治疗的不可切除肝癌患者（证据 等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk630",
+        "chunk": "IMbrave150 全球多中心Ⅲ期研究结果 显示 [373-374]，阿替利珠单克隆抗体联合贝伐珠单克隆抗体 组的中位生存时间和PFS 较索拉非尼组均有明显延长，死 亡风险降低34%，疾病进展风险降低35%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk631",
+        "chunk": "对于中国亚群 人群，联合治疗组患者也有明显的临床获益，与索拉非尼 相比死亡风险降低47%，疾病进展风险降低40%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk632",
+        "chunk": "并且联 合治疗延迟了患者报告的中位生命质量恶化时间",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk633",
+        "chunk": "常见的不 良反应有高血压、蛋白尿、肝功能异常、腹泻以及食欲下 降等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk634",
+        "chunk": "（2）信迪利单克隆抗体联合贝伐珠单克隆抗体类似 物：信迪利单克隆抗体联合贝伐珠单克隆抗体类似物已在 80 / 143 我国被批准用于既往未接受过系统抗肿瘤治疗的不可切 除或转移性肝癌的一线治疗（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk635",
+        "chunk": "ORIENT-32 全国多中心Ⅲ期研究结果显示 [375]，信迪利单克 隆抗体联合贝伐珠单克隆抗体类似物疗效显著优于索拉 非尼组，与索拉非尼组相比，联合治疗组死亡风险下降 43%，疾病进展风险下降44%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk636",
+        "chunk": "联合方案安全性较好，联 合治疗组最常见的不良反应为蛋白尿，血小板减少、谷草 转氨酶升高、高血压和甲状腺功能减退等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk637",
+        "chunk": "（3）甲磺酸阿帕替尼联合卡瑞利珠单克隆抗体：甲 磺酸阿帕替尼联合卡瑞利珠单克隆抗体在我国被批准用 于不可切除或转移性肝癌患者的一线治疗（证据等级1， 推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk638",
+        "chunk": "CARES-310 国际多中心Ⅲ期研究结果显示 [376]， 甲磺酸阿帕替尼联合卡瑞利珠单克隆抗体组与索拉非尼 单药组相比，联合治疗组死亡风险降低38%，疾病进展风 险下降48%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk639",
+        "chunk": "联合治疗组≥3 级不良事件主要是高血压、 手足综合征和氨基转移酶升高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk640",
+        "chunk": "（4）多纳非尼：多纳非尼在我国已被批准用于既往 未接受过全身系统性抗肿瘤治疗的不可切除肝癌患者（证 据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk641",
+        "chunk": "与索拉非尼相比，多纳非尼能够明 显延长晚期肝癌的中位生存时间，死亡风险下降17%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk642",
+        "chunk": "多 纳非尼和索拉非尼两组的中位PFS 相似，但多纳非尼组具 81 / 143 有良好的安全性和耐受性 [377]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk643",
+        "chunk": "最常发生的不良反应为手 足皮肤反应、谷草转氨酶升高、总胆红素升高、血小板降 低和腹泻等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk644",
+        "chunk": "（5）仑伐替尼：仑伐替尼适用于不可切除的肝功能 Child-Pugh A 级的晚期肝癌患者（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk645",
+        "chunk": "临床Ⅲ期对照研究显示 [378]，其总体生存期非劣于索拉非 尼，研究达到非劣效终点（风险比为0.92，95%置信区间 为0.79～1.06）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk646",
+        "chunk": "仑伐替尼组中位PFS 显著优于索拉非 尼组，疾病进展风险下降34%，ORR 也高于索拉非尼",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk647",
+        "chunk": "常 见不良反应为高血压、蛋白尿、腹泻、食欲下降、疲劳、 手足综合征以及甲状腺功能减退等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk648",
+        "chunk": "（6）替雷利珠单克隆抗体：替雷利珠单克隆抗体在我 国被批准一线治疗不可切除或转移性肝癌患者（证据等级 1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk649",
+        "chunk": "RATIONALE-301 全球多中心Ⅲ期研究结果显示 [379]，与索拉非尼相比，达到了预设的主要研究终点，OS 为 非劣效性（风险比为0.85，95%置信区间为0.71～1.02）， 死亡风险降低了15%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk650",
+        "chunk": "常见不良反应为谷草转氨酶升高、谷 丙转氨酶升高和总胆红素升高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk651",
+        "chunk": "（7）索拉非尼：索拉非尼是第一个被批准用于肝癌 系统抗肿瘤治疗的分子靶向药物",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk652",
+        "chunk": "多项临床研究表明，索 拉非尼对于不同国家地区、不同肝病背景的晚期肝癌患者 82 / 143 都具有一定的生存获益 [380-381]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk653",
+        "chunk": "索 拉非尼可以用于肝功能Child-Pugh A/B 级的患者，但是 相对于肝功能Child-Pugh B 级，Child-Pugh A 级的患者 生存获益比较明显 [382]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk654",
+        "chunk": "常见的不良反应为腹泻、手足综合征、皮疹、高 血压、纳差以及乏力等，一般发生在治疗开始后的2～6 周内",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk655",
+        "chunk": "治疗过程中需要密切监测血压，定期检查肝肾功能、 HBV DNA、血常规、凝血功能以及尿蛋白等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk656",
+        "chunk": "在治疗过程 中，还需要注意心肌缺血风险，特别高龄患者应给予必要 的监测和相关检查",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk657",
+        "chunk": "（8）系统化疗：FOLFOX4 方案在我国被批准用于一 线治疗不适合手术切除或局部治疗的局部晚期和转移性 肝癌 [383-384]（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk658",
+        "chunk": "另外，三氧化二砷对 中晚期肝癌具有一定的姑息治疗作用 [385]（证据等级3，推 荐C），在临床应用时应注意监测和防止肝肾毒性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk659",
+        "chunk": "（9）其他一线系统抗肿瘤治疗进展：双免疫联合治疗 在不可手术切除的中晚期肝癌一线治疗领域也取得了成功",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk660",
+        "chunk": "全球Ⅲ期临床试验HIMALAYA 研究结果显示 [386]，与索拉非尼 对比，程序性死亡受体配体1 抑制剂度伐利尤单克隆抗体联 合细胞毒性T 淋巴细胞相关抗原4 抑制剂替西木单克隆抗体 （STRIDE 方案：单次给药300mg 替西木单克隆抗体+度伐利 83 / 143 尤单克隆抗体1500mg 每4 周1 次常规间隔给药）具有较好 的临床疗效和可控的安全性，降低死亡风险22%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk661",
+        "chunk": "STRIDE 方 案使得亚洲（除日本以外）患者死亡风险降低了29%，HBV 阳性患者的死亡风险降低了34%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk662",
+        "chunk": "STRIDE 方案被美国FDA 、 欧盟和日本批准用于治疗不可切除的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk663",
+        "chunk": "但该方案用 于不能切除肝癌的一线治疗在我国尚未得到批准",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk664",
+        "chunk": "此外，免疫检查点抑制剂单药在肝癌一线治疗中也获得 了一定的进展",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk665",
+        "chunk": "如HIMALAYA 研究中 [386]，度伐利尤单克隆抗 体与索拉非尼对比用于晚期肝癌一线治疗，度伐利尤单克隆 抗体达到了预设的非劣效终点，死亡风险降低了14%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk666",
+        "chunk": "目前， 多项免疫检查点抑制剂/双免疫联合抗血管生成药物 [387]、免 疫检查点抑制剂联合化疗、多免疫检查点抑制剂联合等一线 治疗不可切除肝癌的临床研究正在进行中，结果值得期待",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk667",
+        "chunk": "2.二线系统抗肿瘤治疗 （1）瑞戈非尼：瑞戈非尼被批准用于既往接受过索 拉非尼治疗的肝癌患者（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk668",
+        "chunk": "国际多 中心Ⅲ期RESORCE 研究评估了瑞戈非尼用于索拉非尼治 疗后出现进展的肝癌患者的疗效和安全性",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk669",
+        "chunk": "其结果显示 [388]，与安慰剂相比，瑞戈非尼组患者死亡风险显著降低 37%，疾病进展风险下降54%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk670",
+        "chunk": "常见不良反应为高血压、 手足皮肤反应、乏力及腹泻等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk671",
+        "chunk": "其不良反应与索拉非尼类 84 / 143 似，因此，不适合用于那些对索拉非尼不能耐受的患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk672",
+        "chunk": "（2）阿帕替尼：甲磺酸阿帕替尼是我国自主研发的 小分子靶向新药，已被批准单药用于既往接受过至少一线 系统性抗肿瘤治疗后失败或不可耐受的晚期肝癌患者（证 据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk673",
+        "chunk": "阿帕替尼二线治疗中国晚期肝癌的 Ⅲ期临床研究结果表明 [389]，与安慰剂相比，阿帕替尼显 著延长二线或以上晚期肝癌患者的中位生存时间，死亡风 险降低21.5%，疾病进展风险下降52.9%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk674",
+        "chunk": "常见不良反应 是高血压、蛋白尿、白细胞减少症以及血小板减少症等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk675",
+        "chunk": "在使用过程中，应密切随访患者的不良反应，需要根据患 者的耐受性给予必要的剂量调整",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk676",
+        "chunk": "（3）雷莫西尤单克隆抗体：雷莫西尤单克隆抗体被 批准用于既往接受过索拉非尼治疗且AFP≥400 ng/ml 的 肝癌患者的治疗（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk677",
+        "chunk": "REACH-2 研究结 果显示 [390]，在既往索拉非尼治疗失败，AFP≥400ng/ml 的晚 期肝癌患者中，与安慰剂相比，雷莫西尤单克隆抗体显著 改善患者的OS 和PFS，死亡风险降低29.0%，疾病进展 风险下降54.8%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk678",
+        "chunk": "REACH-2 China Ⅲ期扩展研究结果提示 [391]，与安慰剂相比，雷莫西尤单克隆抗体在既往接受过索 拉非尼治疗且AFP≥400ng/ml 的中国肝癌患者中，死亡风 险降低14.6%，疾病进展风险降低51.2%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk679",
+        "chunk": "常见不良反应 85 / 143 为疲劳、外周水肿、高血压和食欲下降",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk680",
+        "chunk": "（4）帕博利珠单克隆抗体：帕博利珠单克隆抗体在我 国批准单药用于治疗既往接受过索拉非尼或含奥沙利铂化 疗的肝癌患者（证据等级1，推荐A）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk681",
+        "chunk": "KEYNOTE-394 研究 [392] 评估帕博利珠单克隆抗体或者安慰剂联合最佳支持治疗对 此前接受索拉非尼或奥沙利铂化疗的亚洲晚期肝癌患者的 疗效，其中80%的患者来自中国",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk682",
+        "chunk": "结果显示，帕博利珠单克 隆抗体组与安慰剂相比，死亡风险降低21%，疾病进展风险 降低26%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk683",
+        "chunk": "常见的不良反应为谷草转氨酶/谷丙转氨酶升高、 皮疹、瘙痒和血胆红素增高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk684",
+        "chunk": "（5）卡瑞利珠单克隆抗体：卡瑞利珠单克隆抗体已 被批准用于既往接受过索拉非尼治疗和/或含奥沙利铂系 统化疗的晚期肝癌患者的治疗（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk685",
+        "chunk": "卡瑞利珠单克隆抗体在既往系统抗肿瘤治疗过的中国肝 癌的Ⅱ期临床研究结果显示 [393]，ORR 为14.7%，6 个月生 存率为74.4%，12 个月生存率为55.9%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk686",
+        "chunk": "常见的不良反应 是反应性毛细血管增生症、谷草转氨酶升高、谷丙转氨酶 升高、甲状腺功能减退和乏力等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk687",
+        "chunk": "多项临床研究表明 [394-395]， 卡瑞利珠单克隆抗体和阿帕替尼联合应用后，反应性毛细 血管增生症的发生率明显下降",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk688",
+        "chunk": "（6）替雷利珠单克隆抗体：替雷利珠单克隆抗体被 86 / 143 批准用于既往接受过索拉非尼或仑伐替尼或含奥沙利铂 全身化疗的晚期肝癌患者的治疗（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk689",
+        "chunk": "一项全球、多中心旨在评估替雷利珠单克隆抗体用于治疗 既往接受过至少一种全身治疗的不可切除的肝癌的疗效 和安全性的Ⅱ期研究（RATIONALE-208）结果显示 [396]，中 位PFS2.7 个月，中位生存时间13.2 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk690",
+        "chunk": "安全性良好，主要不良反应为谷草转氨酶升高、谷丙 转氨酶升高、无力、瘙痒和甲状腺功能减退等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk691",
+        "chunk": "（7）其他二线系统抗肿瘤治疗方案：美国FDA 批准 纳武利尤单克隆抗体联合伊匹木单克隆抗体用于既往索拉 非尼治疗后进展或无法耐受索拉非尼的肝癌患者 [397]，卡博替 尼用于一线系统抗肿瘤治疗后进展的肝癌患者 [398]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk692",
+        "chunk": "免疫检 查点抑制剂治疗与靶向药物、化疗药物、局部治疗等的联合 方案，以及双靶点免疫检查点抑制剂（程序性死亡受体1 / 细胞毒性T 淋巴细胞相关抗原4 双抗、程序性死亡受体1 / 血管内皮生长因子双抗）用于肝癌的二线治疗的研究也在 不断地探索之中",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk693",
+        "chunk": "3.系统抗肿瘤治疗的选择 鉴于IMbrave150、ORIENT-32 和CARES-310 研究结果显 示，肝癌一线治疗中阿替利珠单克隆抗体联合贝伐珠单克隆 抗体、信迪利单克隆抗体联合贝伐珠单克隆抗体类似物和甲 87 / 143 磺酸阿帕替尼联合卡瑞利珠单克隆抗体近期及远期疗效均 优于索拉非尼单药治疗，可作为一线治疗的优先选择",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk694",
+        "chunk": "2023 年更新的AASLD/NCCN/JSH 等肝癌指南和共识 [399-401]对系统抗 肿瘤治疗一线方案均优先推荐阿替利珠单克隆抗体联合贝 伐珠单克隆抗体或度伐利尤单克隆抗体联合替西木单克隆 抗体组合（STRIDE 方案）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk695",
+        "chunk": "STRIDE 方案在欧盟、美国及日本 批准用于肝癌的一线治疗，其优势是不增加门静脉高压导致 的出血风险",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk696",
+        "chunk": "但该方案用于不能切除肝癌的一线治疗在我国 尚未获得批准",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk697",
+        "chunk": "由于贝伐珠单克隆抗体有导致出血的风险，建议使用阿 替利珠单克隆抗体联合贝伐珠单克隆抗体或信迪利单克隆 抗体联合贝伐珠单克隆抗体类似物治疗前接受胃镜检查，评 估高危静脉曲张或其他胃肠道出血风险，并依据相关指南进 行治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk698",
+        "chunk": "对于最近6 个月内发生胃肠道出血和内镜检查显示 高危出血的患者，贝伐珠单克隆抗体治疗前充分治疗食管胃 底静脉曲张，或选用其他治疗方案",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk699",
+        "chunk": "系统抗肿瘤治疗对于中 重度肝功能不全患者（Child-Pugh 评分7 以上）的研究数 据有限，此类患者需在医师指导下谨慎使用，并严密监测肝 功能",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk700",
+        "chunk": "目前二线治疗药物的适应证获批是基于针对一线索拉 非尼或系统化疗失败后与安慰剂对照的Ⅲ期临床研究",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk701",
+        "chunk": "对于 88 / 143 一线接受免疫联合方案、免疫单药或酪氨酸激酶抑制剂单药 治疗的患者，二线治疗方案国内外目前尚未提供高级别循证 医学证据",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk702",
+        "chunk": "可根据疾病进展情况及一线治疗的具体方案，选 择批准的二线治疗药物，也可选择未曾使用过的一线治疗药 物",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk703",
+        "chunk": "4.系统抗肿瘤治疗的疗效评价 对于采用系统抗肿瘤治疗的患者，目前大多采用 RECIST 1.1 标准进行疗效评价",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk704",
+        "chunk": "对于接受抗血管分子靶 向治疗的患者，可以联合应用mRECIST 标准",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk705",
+        "chunk": "对于接受免 疫检查点抑制剂治疗的患者，也可以应用iRECIST 标准 [402]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk706",
+        "chunk": "5.中医传统方药治疗 在病证辨治 [403]中西医结合临床医学体系指导下，针 对肝癌早期、中晚期、终末期等不同阶段，采取病证结合 [404]临床诊疗模式，以肝癌的核心病机“癌毒盛衰”为着 眼点，综合运用中国医药学方药、现代中药制剂以及中医 药特色诊疗技术，与现代医学技术互补协作，形成系统规 范方案，以期达到协同抗癌、提高治疗耐受性、减少术后 并发症、预防复发转移、减轻不良反应及延长生存期的作 用",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk707",
+        "chunk": "（1）中国医药学方药分阶段治疗 ①早期肝癌（CNLC Ⅰa～Ⅱa 期） 89 / 143 治疗原则：应着眼于正气受损、癌毒未净，重点在于 预防治疗术后复发转移，包括维护肝功能储备、增强机体 免疫力、提高手术成功率、减少术后并发症",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk708",
+        "chunk": "此阶段中医 辨证常见以下两种证型： A.肝气郁结证 辨识要点：胁肋胀痛，痛无定处，脘腹胀满，胸闷、 善太息，急躁易怒，舌质淡红，苔薄白，脉弦",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk709",
+        "chunk": "治疗推荐：《景岳全书》柴胡舒肝散加减：柴胡、陈 皮、白芍、枳壳、香附、川芎、郁金、八月札、石见穿、 土茯苓、鸡内金、甘草等，常规剂量，每日2 次水煎送服 治法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk710",
+        "chunk": "B.气滞血瘀证 辨识要点：症见上腹肿块，质硬，有结节感，疼痛固 定拒按，或胸胁掣痛，入夜尤甚，或见肝掌、蜘蛛痣和腹 壁青筋暴露，甚则肌肤甲错，舌边瘀暗或暗红，舌苔薄白 或薄黄，脉弦细或细涩无力",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk711",
+        "chunk": "兼有郁热者多伴烦热口苦， 大便干结，小便黄或短赤",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk712",
+        "chunk": "推荐治疗：《医林改错》膈下逐瘀汤加减：生地、当 归、赤芍、川芎、桃仁、红花、五灵脂，枳壳、桔梗、 90 / 143 甘草、柴胡、玄参等，常规剂量，每日2 次水煎送服",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk713",
+        "chunk": "②中晚期肝癌（CNLC Ⅱb～Ⅲb 期） 治疗原则：应着眼于癌毒内壅、正气未衰，综合运用 中药方剂，有利于减少或缓解并发症、提高疗效及生活质 量",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk714",
+        "chunk": "此阶段中医辨证常见以下两种证型： A.肝郁牌虚证 辨识要点：胸腹胀满，食后尤甚，肿块触痛，倦怠消 瘦，短气乏力，纳少失眠，口干不欲饮，大便溏数，甚则 腹水黄疸，下肢浮肿，舌质胖大，苔白，脉濡",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk715",
+        "chunk": "推荐治疗：《太平惠民合剂局方》逍遥散加减",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk716",
+        "chunk": "柴胡、 当归、白芍、党参、白术、茯苓、薏苡仁、半枝莲、七叶 一枝花、干蟾皮、蜈蚣、厚朴、甘草等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk717",
+        "chunk": "B.湿热毒蕴证 辨识要点：右胁胀满，疼痛拒按，发热，口苦或口臭， 身黄目黄，小便黄，黄如橘色或烟灰，腹水或胸腔积液， 恶心咽吐，大便秘结或黏腻不爽，舌质红，苔黄腻，脉滑 数",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk718",
+        "chunk": "推荐治疗：《伤寒论》茵陈蒿汤合五苓散加减",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk719",
+        "chunk": "茵陈 蒿、大黄、栀子、猪苓、茯苓、白术、泽泻、虎杖、白花 91 / 143 蛇舌草、八月札、半枝莲、赤芍、人工牛黄、猫人参、石 见穿、山慈菇、鸡内金等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk720",
+        "chunk": "③终末期肝癌（CNLC Ⅳ期） 治疗原则：应着眼于癌毒炽盛、正气亏虚，治疗以扶 正为主，治疗目标在于发挥整体调节优势、减轻症状、提 高生活质量、适当延长生存期",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk721",
+        "chunk": "终末期肝癌常见肝肾不足、 气阴两亏等证候表现",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk722",
+        "chunk": "辨识要点：疲乏无力、纳呆厌食，常伴腹胀肢肿，腹 大，青筋暴露，四肢消瘦，短气喘促，颧红口干，潮热或 手足心热，烦躁不眠，便秘，甚则神昏谵语，齿衄鼻衄， 或二便下血，舌红少苔，脉细数无力",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk723",
+        "chunk": "生地黄、麦冬、 沙参、枸杞子、五味子、黄芪、当归、党参、白术、茯苓、 山茱萸、西洋参、八月札、龟板、鳖甲、猫人参、石见穿、 山慈菇、鸡内金等，常规剂量，每日2 次水煎送服",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk724",
+        "chunk": "（2）现代中药制剂治疗 阿可拉定（淫羊藿素）软胶囊是一种从天然药用植物暨 传统草本中药淫羊藿中提取、分离和纯化获得的单分子创新 药物，具有抑制肿瘤生长、调节免疫等多重作用 [405]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk725",
+        "chunk": "在我国 已经附条件批准用于不适合标准治疗的晚期肝癌患者的治 92 / 143 疗，具体的适应证：不适合或拒绝接受标准治疗，且既往未 接受过全身系统性治疗的、不可切除的肝癌患者，同时患者 外周血复合标志物满足以下检测指标的至少2 项：AFP≥400 ng/ml",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk726",
+        "chunk": "除阿可拉定软胶囊外，我国国家药品监督管理局已经批 准了若干种现代中药制剂用于治疗晚期肝癌，如槐耳颗粒、 榄香烯注射液、华蟾素、康莱特注射液、康艾注射液、艾 迪注射液、肝复乐胶囊、金龙胶囊、鸦胆子油软胶囊、复 方斑蝥胶囊和慈丹胶囊 [406-413]等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk727",
+        "chunk": "另外，槐耳颗粒 [197]、华 蟾素注射液联合解毒颗粒 [414]、慈丹胶囊联合TACE [413]可以 用于肝癌手术切除后的辅助治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk728",
+        "chunk": "（3）中医药现代特色诊疗技术 ①针灸治疗 根据病情及临床实际可以选择应用体针、头针、电针、 耳针、腕踝针、眼针、灸法、穴位埋线、穴位敷贴、耳穴 压豆和拔罐等方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk729",
+        "chunk": "针灸治疗的取穴以肝俞、足三里为主穴，配以阳陵泉、 期门、章门、三阴交等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk730",
+        "chunk": "穴位敷贴以章门、期门、肝俞、 内关、公孙主穴，疼痛者配外关、足三里、阳陵泉",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk731",
+        "chunk": "②其他治疗 93 / 143 根据病情酌情使用活血化瘀、清热解毒等中药、中成 药，进行外敷治疗、中药泡洗、中药熏洗等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk732",
+        "chunk": "6.抗病毒治疗及其他保肝治疗 对于所有确诊肝癌患者，应常规筛查乙型肝炎表面抗 原（hepatitis B surface antigen，HBsAg）、乙型肝炎 表面抗体（hepatitis B surface antibody，HBsAb）和 乙型肝炎核心抗体（hepatitis B core antibody，HBcAb）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk733",
+        "chunk": "对于HBsAg 阳性或HBcAb 阳性患者，应进一步行血清HBV DNA 定量检测",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk734",
+        "chunk": "HBV 相关肝癌患者只要HBsAg 阳性，无论 HBV DNA 是否可检测出，均建议给予一线抗病毒治疗 [415]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk735",
+        "chunk": "对既往HBV 感染，即HBcAb 阳性、HBsAg 阴性的肝癌患者， 应密切监测HBsAg、HBV DNA、谷丙转氨酶指标变化 [416]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk736",
+        "chunk": "HBV 相关肝癌患者推荐使用一线抗病毒药物恩替卡韦、替诺福 韦酯、丙酚替诺福韦或艾米替诺福韦（证据等级1，推荐 A） [415-416]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk737",
+        "chunk": "合并HBV 感染的肝癌患者，口服核苷（酸）类 似物抗病毒治疗应始终贯穿治疗的全过程",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk738",
+        "chunk": "接受核苷（酸） 类似物抗病毒治疗的患者，每3～6 个月检测病毒学、血 生化等指标",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk739",
+        "chunk": "未接受抗病毒治疗的患者，每3～6 个月检 测HBV DNA、HBsAg 及谷丙转氨酶等指标",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk740",
+        "chunk": "推荐使用高灵 敏血清HBV DNA 检测，及时发现低病毒血症患者，调整抗 病毒治疗药物，最大限度抑制病毒复制",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk741",
+        "chunk": "对于HCV 相关肝 94 / 143 癌，HCV RNA 阳性均建议采用直接抗病毒药物行抗病毒治 疗（证据等级1，推荐A） [416-417]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk742",
+        "chunk": "抗病毒治疗终点为治疗 结束后12 周，采用敏感检测方法检测不到血清或血浆中 HCV RNA",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk743",
+        "chunk": "肝癌患者在自然病程中或治疗过程中可能会伴随肝 功能异常，应及时适当地使用具有抗炎、利胆、抗氧化、 解毒和肝细胞膜修复保护作用的药物，如异甘草酸镁注射 液、甘草酸二铵、复方甘草酸苷、腺苷蛋氨酸、熊去氧胆 酸、双环醇、水飞蓟素、还原型谷胱甘肽、多烯磷脂酰胆 碱和乌司他丁 [418] 等",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk744",
+        "chunk": "7.对症支持治疗 肝癌患者往往合并有肝硬化、脾脏肿大，并因抗肿瘤 治疗等导致一系或多系血细胞减少，可考虑给予药物治疗 或血制品输注",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk745",
+        "chunk": "中性粒细胞减少患者可酌情给予粒细胞集 落刺激因子（granulocyte colony stimulating factor， G-CSF，包括PEG-rhG-CSF 和rhG-CSF） [419]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk746",
+        "chunk": "血红蛋白＜ 80 g/L 的患者，可根据贫血的病因给予铁剂、叶酸、维 生素B12 和促红细胞生成素等治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk747",
+        "chunk": "慢性肝病引起血小 板减少的患者根据病情需要可以使用重组人血小板生成 素或血小板生成素受体激动剂（如阿伐曲泊帕、芦曲泊帕） 等提升血小板计数 [420]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk748",
+        "chunk": "95 / 143 对于终末期肝癌患者，应给予最佳支持治疗，包括积 极镇痛、纠正低白蛋白血症、加强营养支持，控制合并糖 尿病患者的血糖水平，处理腹水、黄疸、肝性脑病、消化 道出血及肝肾综合征等并发症",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk749",
+        "chunk": "针对有症状的骨转移患者， 可以使用双膦酸盐类药物或地舒单抗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk750",
+        "chunk": "另外，适度的康复 运动可以增强患者的免疫功能",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk751",
+        "chunk": "同时，要重视患者的心理 干预，增强患者战胜疾病的信心，把消极心理转化为积极 心理，通过舒缓疗护让其享有安全感、舒适感，而减少抑 郁与焦虑",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk752",
+        "chunk": "要点论述: （1）系统抗肿瘤治疗在不可手术切除的中晚期肝癌 中的适应证主要为：CNLC Ⅲa、Ⅲb 期肝癌患者，不适合 手术切除或TACE 治疗的CNLC Ⅱb 期肝癌患者，TACE 治 疗抵抗或TACE 治疗失败的肝癌患者",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk753",
+        "chunk": "（2）一线系统抗肿瘤治疗方案可以优先选择阿替利 珠单克隆抗体联合贝伐珠单克隆抗体、信迪利单克隆抗体 联合贝伐珠单克隆抗体类似物或甲磺酸阿帕替尼联合卡瑞 利珠单克隆抗体",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk754",
+        "chunk": "多纳非尼、仑伐替尼、替雷利珠单克隆 抗体、索拉非尼或者FOLFOX4 方案的系统化疗仍然用于肝 癌的一线治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk755",
+        "chunk": "（3）二线系统抗肿瘤治疗方案，在我国可以选择瑞 96 / 143 戈非尼、阿帕替尼、帕博利珠单克隆抗体、雷莫西尤单克 隆抗体（血清AFP 水平≥400 μg/L）、卡瑞利珠单克隆 抗体和替雷利珠单克隆抗体",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk756",
+        "chunk": "对于一线接受免疫联合方案、 免疫单药或酪氨酸激酶抑制剂单药治疗的患者，二线治疗 方案选择可根据疾病进展方式和具体一线方案不同，选择 批准的二线治疗药物，也可选择未曾使用过的一线治疗的 药物",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk757",
+        "chunk": "除阿可拉 定软胶囊外，我国已经批准了若干种现代中药制剂用于治 疗晚期肝癌",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk758",
+        "chunk": "另外，槐耳颗粒可以用于肝癌手术切除后的 辅助治疗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk759",
+        "chunk": "（5）在抗肿瘤治疗的同时，抗病毒治疗应始终贯穿 治疗全过程",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk760",
+        "chunk": "（六）肝癌自发破裂的治疗 肝癌自发破裂是肝癌潜在的致死性并发症，单纯保守 治疗在院病死率极高，但并非影响患者长期生存的决定因 素，获得手术切除可以使部分患者具有明显的生存获益 [421]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk761",
+        "chunk": "因此，在最初抢救成功后，应充分评估患者血流动 力学、肝功能、全身情况以及肿瘤是否可切除，制订后续 个体化的治疗方案 [422-426]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk762",
+        "chunk": "97 / 143 1.对于肝肿瘤可切除、肝脏储备功能良好、血流动力 学稳定的患者，首选手术切除 [427-428]（证据等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk763",
+        "chunk": "2.对于肝脏储备功能差，血流动力学不稳定、无手术 条件的患者，可以选择TAE [429]（证据等级4，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk764",
+        "chunk": "3.受急诊条件限制，肝功能及肝肿瘤情况无法充分评 估，可以先行TAE，结合后续评估再选择相应治疗方案， 若能行二期手术切除可以获得显著的生存获益 [427]（证据 等级3，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk765",
+        "chunk": "4.肝癌自发破裂是手术后的高危复发因素，术中应充 分的冲洗腹腔",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk766",
+        "chunk": "术后辅助治疗有助于延长生存 [421,430]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk767",
+        "chunk": "术 后应加强监测，术后单纯腹膜转移的患者可以考虑行积极 根治性切除 [431]（证据等级3，推荐C）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk768",
+        "chunk": "要点论述: 肝癌自发破裂是肝癌潜在的致死性并发症，应充分评 估患者血流动力学、肝功能、全身情况以及肿瘤是否可切 除，制订个体化的治疗方案",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk769",
+        "chunk": "五、声明 本指南的编撰工作独立于任何赞助单位，并且所有编写 人员都承诺编撰内容与是否受到资助无关",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk770",
+        "chunk": "98 / 143 附录1 证据等级（牛津循证医学中心2011 版） （临床）问题 步骤1 步骤2 步骤3 步骤4 步骤5 （证据等级1*） （证据等级2*） （证据等级3*） （证据等级4*） （证据等级5*） 这个疾病有多普遍",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk771",
+        "chunk": "（患病率） 当地的，当前的随机样本调 查（或普查） 与当地情况相匹配调查 的系统综述** 当地的，非随机样本调查 ** 病例系列** N/A 诊断或监测实验是 否准确（诊断） 一致地应用了参考标准和 盲法的横断面研究的系统 综述 一致地应用了参考标准 和盲法的横断面研究 非连续病例研究，或研究 未能一致地应用参考标 准** 病例对照研究，或应用了 差的或非独立的参考标准 ** 基于机制的推理 若不给予这个治疗 会发生什么",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk772",
+        "chunk": "（预后） 起始队列研究的系统综述 起始队列研究 队列研究或随机研究的 对照组* 病例系列或病例对照研 究，或低质量预后队列研 究** N/A 99 / 143 这个治疗有用吗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk773",
+        "chunk": "（治疗效益） 随机试验或单病例随机对 照试验的系统综述 随机试验或具有巨大效 果的观察性研究 非随机对照队列/随访研 究** 病例系列，病例对照研究， 或历史对照研究** 基于机制的推理 这个治疗常见的伤 害是什么（治疗伤 害） 随机试验的系统综述，巢式 病例对照研究的系统综述， 针对你所提临床问题患者 的n-of-1 试验，具有巨大 效果的观察性研究 单个随机试验或（特殊 地）具有巨大效果的观察 性研究 非随机对照队列/随访研 究（上市后监测）提供， 足够数量来排除常见的 伤害（对长期伤害需要足 够长的随访时间）** 病例系列，病例对照研究， 或历史对照研究** 基于机制的推理 这个治疗少见的伤 害是什么",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk774",
+        "chunk": "（治疗伤 害） 随机试验或n-of-1 试验的 系统综述 随机试验或（特殊地）具 有巨大效果的观察性研 究 这个试验( 早期发 现)值得吗",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk775",
+        "chunk": "（筛查） 随机研究的系统综述 随机试验 非随机对照队列/随访研 究* 病例系列，病例对照研究， 或历史对照研究** 基于机制的推理 注：* 根据研究质量、精确度、间接性，各个研究间不一致，若绝对效应值小，证据等级会被调低",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk776",
+        "chunk": "**系统综述普遍地 优于单项研究 100 / 143 附录2 推荐强度 推荐强度 定义描述 强推荐 非常确信真实值接近效应估计值",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk777",
+        "chunk": "基于：高质量研究证据支持净获益（例如，利大于弊）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk778",
+        "chunk": "其他基于高质量证据，确信利明显大于 弊（包括指南的文献回顾和分析中讨论的内容）也可支持强推荐",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk779",
+        "chunk": "中等程度推荐 对效应估计值有中等程度信心",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk780",
+        "chunk": "基于：较好研究证据支持净获益（例如，利大于弊）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk781",
+        "chunk": "其他基于中等质量证据且利大于弊（包括指 南的文献回顾和分析中讨论的内容）也可形成中度推荐",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk782",
+        "chunk": "弱推荐 对效应估计值信心有限，该推荐为临床实践提供了目前最好的指导",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk783",
+        "chunk": "基于：有限的研究证据支持净获益（例如，利 大于弊）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk784",
+        "chunk": "其他基于有限 的证据（包括指南的文献回顾和分析中讨论的内容）也可导致弱推荐",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk785",
+        "chunk": "注：推荐强度“强推荐、中等程度推荐、弱推荐”正文中分别用“A、B、C”表示 101 / 143 附录3 肝癌的液体活检 液体活检技术具有无创取样、多次检测、高度敏感等特 性，常用标志物包括循环肿瘤细胞（circulating tumor cell， CTC）、循环游离DNA（cell-free DNA，cfDNA）,循环肿瘤 DNA（circulating tumor DNA，ctDNA）等，在肝癌的早期 筛查及诊断、预后评估、疾病监测、疗效评估中展现出较高 价值 [432]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk786",
+        "chunk": "CTC 检测可以成为一种肝癌预后预测和疗效评价的临 床新工具 [81,433]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk787",
+        "chunk": "有报道，外周血上皮细胞黏附分子阳性CTC 具有干细胞样特性，是肝癌切除术后早期复发转移的独立预 测指标 [434]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk788",
+        "chunk": "检测CTC 总体负荷、CTC 异质性亚型对肝癌患者 经导管动脉化疗栓塞治疗后及放射治疗后肿瘤复发转移和 进展具有预测作用 [435, 436]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk789",
+        "chunk": "不同部位、不同时点检出的CTC 能 预测不同器官转移类型 [437, 438]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk790",
+        "chunk": "术前CTC 负荷可以指导外科 手术切缘大小，降低复发转移可能 [439]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk791",
+        "chunk": "此外，动态检测CTC 可以用于监控肝癌肝移植术后肿瘤复发转移 [440]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk792",
+        "chunk": "cfDNA 是通过细胞凋亡、坏死和分泌释放到血液中的DNA 物质",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk793",
+        "chunk": "在癌症患者中，总cfDNA 的主要成分是由肿瘤细胞释 放的特异性突变DNA 片段，即ctDNA 组成，能够反映肿瘤的 102 / 143 遗传信息",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk794",
+        "chunk": "据报道，ctDNA 用于肝癌早期诊断的灵敏度和特 异度均优于血清甲胎蛋白 [83, 441]，还可以动态反映肝癌手术切 除效果 [442, 443]、评估仑伐替尼、免疫检查点抑制剂治疗的疗 效 [444, 445]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk795",
+        "chunk": "有研究报道利用外周血低覆盖率全基因组cfDNA 片段组学特征，可实现肝癌早期诊断和鉴别诊断，曲线下面 积达0.995，有望在临床推广应用 [82]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk796",
+        "chunk": "近期研究发现，利用特定基因表观遗传修饰特征，如甲 基化 [446]，5-hmc [84，447]等也可以用于肝癌早期诊断",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk797",
+        "chunk": "基于外周 血cfDNA 甲基化检测的ELSA-seq 技术平台，所建立的 MCDBT-1 模型可以用于癌症溯源和肝癌早期筛查，显著优于 其他癌种 [448]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk798",
+        "chunk": "也有研究报道，通过对cfDNA 的体细胞突变和 甲基化特征的多重同步分析，相互补充，可以更为有效地发 现早期肝癌 [449]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk799",
+        "chunk": "此外，其他新型液体活检标志物如血清自身抗体 [450]，血 浆代谢物 [451]、肿瘤相关血小板 [452]、循环T 细胞受体库 [453]、 外周血免疫细胞亚群检测 [454]等在肝癌早期诊断、疗效监测中 也表现出一定潜力",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk800",
+        "chunk": "103 / 143 附录4 推荐肝癌病理诊断报告及主要描述指标 请临床协助填写： 肿瘤部位及术式：肝叶切除/肝段切除/局部切 除/其他： 术前治疗：无/有，介入/消融/靶向/免疫检查 点抑制剂/其他： 肿瘤数量（n＝）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk801",
+        "chunk": "肿瘤大小：（多结节性肿瘤应 尽可能逐一测量cm× cm× cm） 肿瘤取材方式：“7 点”取材",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk802",
+        "chunk": "其他： 大体类型： 肝细胞癌：单结节型有包膜/单结节型无包膜、 多结节型、巨块型、弥漫型、其他： 肝内胆管癌：管周浸润型、肿块型、混合型、 其他： 坏死：无/有（具体比例） 组织学类型： 肝细胞癌：细梁型、粗梁型、假腺管型、团片型 特殊亚型：双表型、纤维板层型、硬化型、透明 细胞型、富脂型、嫌色型、富中性粒细胞型、富 淋巴细胞型和未分化型、其他： 肝内胆管癌：大胆管型、小胆管型、细胆管癌、 胆管板畸形型 特殊亚型：腺鳞癌、淋巴上皮瘤样型、肉瘤样型、 其他： 混合型肝细胞癌-胆管癌（分别描述两种肿瘤成分 的比例） 分化分级： 肝细胞癌（I、II、III、IV/高、中、低） 肝内胆管癌（高、中、低） 卫星灶：无/有 MVI：无/有 血管内松散悬浮癌细胞：无/有 大血管癌栓（巨检/手术所见）：无/有 大血管癌栓位置（根据临床信息）： 大胆管癌栓（巨检/手术所见）：无/有 小胆管癌栓（显微镜下所见）：无/有 MVI 病理分级： M0：未发现MVI",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk803",
+        "chunk": "M1（低危组）：≤5 个MVI，均发生于近癌旁肝组织（≤1cm）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk804",
+        "chunk": "M2a（高危组）：＞5 个MVI，均发生于近癌旁肝组织（≤1cm）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk805",
+        "chunk": "104 / 143 M2b（高危组）：MVI 发生于远癌旁肝组织（＞1cm）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk806",
+        "chunk": "肝细胞异型增生结节：无/有，低级别/高级别 肝硬化：无/有，小结节/大结节/混合结节型 胆管上皮内瘤变：无/有，低级别/高级别 胆管内乳头状肿瘤：无/有，低级别/高级别 切缘：无癌，距肿瘤最近距离cm 肝被膜：未侵犯/侵犯 癌周围肝组织： 肝细胞异型增生：无/肝细胞大、小细胞变 脂肪变程度：无、轻度、中度、重度 肝炎：无/有，肝炎程度G，纤维化分期S 周围神经侵犯：无/有 淋巴结/远处转移：无/有，部位： 胆囊侵犯：无/有 膈肌侵犯：无/有 转化治疗/新辅助治疗后切除肝癌标本的病理学 评估：pCR、MPR 百分比： 免疫检查点抑制剂治疗后癌旁肝组织免疫相关 肝损伤：无/有，肝细胞损伤、小叶内肝炎、胆 管炎 注：MVI 为微血管侵犯",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk807",
+        "chunk": "105 / 143 附录5 经动脉介入治疗进展 1. 肝动脉灌注化疗（hepatic artery infusion chemotherapy，HAIC）：作为一种动脉内灌注化疗的介入治 疗方式，HAIC 目前尚未形成统一治疗技术标准，疗效差异较 大",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk808",
+        "chunk": "日本多中心、随机对照Ⅱ期临床试验研究（SCOOP-2 试 验）对比顺铂HAIC 序贯索拉非尼与标准索拉非尼单药治疗 晚期肝癌患者，结果显示HAIC 联合治疗组的中位生存期为 10 个月，对比索拉非尼单药治疗组的15.2 个月，疗效不理 想",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk809",
+        "chunk": "HAIC 联合治疗组中有23％的患者由于一般状况恶化而 无法在HAIC 后接受任何进一步的治疗 [455]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk810",
+        "chunk": "多中心随机Ⅲ期 试验（SILIUS 试验）除证实了该前瞻性随机Ⅱ期试验的阴性 结果外，还测试了不同的HAIC 方案（低剂量顺铂-氟尿嘧啶） 联合索拉非尼对比索拉非尼单药治疗日本晚期肝癌患者，同 样为阴性结果 [456]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk811",
+        "chunk": "目前，日本将HAIC 推荐为TACE 失败/抵 抗后肝功能Child-Pugh A 级，且靶向药物等系统抗肿瘤进 展的肝癌患者或肝功能Child-Pugh B 级晚期肝癌患者的治 疗方式 [457]（证据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk812",
+        "chunk": "近年来我国学者采用 mFOLFOX 为基础的灌注方案使晚期肝癌患者HAIC 疗效得以提 高",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk813",
+        "chunk": "目前普遍认为经导管动脉化疗栓塞（transcatheter 106 / 143 arterial chemoembolization，TACE）疗效优于HAIC，但有 一项针对不伴血管浸润或肝外转移的不可切除大肝癌患者 的随机对照研究显示mFOLFOX-HAIC 疗效优于TACE [458]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk814",
+        "chunk": "与 TACE 类似，mFOLFOX-HAIC 对部分肿瘤最大径＞7cm，初始不 适合外科手术切除的肝癌患者，有助于转化，但一般建议连 续完成4 次或以上的HAIC 治疗才能达到转化治疗的机会",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk815",
+        "chunk": "2023 年，我国学者发表了肝癌mFOLFOX-HAIC 中国专家共识， 为HAIC 治疗提供了规范化指引和推荐 [459]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk816",
+        "chunk": "2. TACE 预后的术前预测模型 （1）“Six-and-twelve”模型：即将肿瘤大小+数量之 和分为≤6，＞6 且≤12，＞12 三组",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk817",
+        "chunk": "该模型对接受TACE 治疗的肝癌患者进行个体化预后评估和危险分层，患者的风 险分层不同，其中位生存时间差异显著",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk818",
+        "chunk": "因此，使用 “Six-and-twelve”模型，能为肝癌患者TACE 术前提供术 后预期生存的参考值，辅助患者选择不同的治疗方式 [306]（证 据等级2，推荐B）",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk819",
+        "chunk": "（2）TACE 的预后列线图模型：包含门静脉侵犯、肿瘤 数目、肿瘤包膜、血清甲胎蛋白（alpha-fetoprotein，AFP）、 谷草转氨酶、吲哚菁绿15 min 滞留率等因素",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk820",
+        "chunk": "该模型经868 例肝癌患者验证，其预测生存相关的C-指数达0.755 [460]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk821",
+        "chunk": "因 此，使用上述两种模型能为肝癌患者TACE 术前提供术后预 107 / 143 期生存的参考值，辅助患者选择不同的治疗方式",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk822",
+        "chunk": "（3）“TACE-predict”模型：是针对肝癌TACE 人群， 可以在术前应用并在术后再次校准的个体化预后评估和危 险分层模型",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk823",
+        "chunk": "研究发现，肿瘤数目与直径、AFP、白蛋白、 胆红素、血管侵犯、病因是TACE 术前患者的预后因素",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk824",
+        "chunk": "肿 瘤数目与直径、AFP、胆红素、血管侵犯及影像学应答是TACE 术后患者的预后因素",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk825",
+        "chunk": "据此建立了Pre-TACE-Predict 模型 和Post-TACE-Predict 模型，该模型可分别在TACE 术前和 术后计算患者生存概率",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk826",
+        "chunk": "Pre-TACE-Predict 模型和 Post-TACE-Predict 模型的预测能力优于HAP 和mHAP Ⅲ评 分",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk827",
+        "chunk": "Post-TACE-Predict 模型能够在术后对患者进行进一步 预后评估和危险分层，并有助于辅助TACE 后续的治疗决策， 对指导临床实践具有重大意义（证据等级2，推荐B） [461]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk828",
+        "chunk": "3. TACE/HAIC 联合分子靶向、免疫检查点抑制剂治疗： TACTICS Ⅱ期研究表明，TACE 联合索拉非尼较单一TACE 明 显改善不可手术切除BCLC A/B 期肝癌患者的无进展生存时 间（25.2 个月vs .13.5 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk829",
+        "chunk": "P=0.02，风险比0.59），但 总生存时间差异无统计学意义（36.2 个月vs. 30.8 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk830",
+        "chunk": "STAH 研究表明，对于BCLC C 期的肝癌患者， TACE 联合索拉非尼较单一索拉非尼无生存获益（12.8 个月 vs. 10.8 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk831",
+        "chunk": "LAUNCH 研究表明，TACE 108 / 143 联合仑伐替尼较单一仑伐替尼可明显提高晚期肝癌患者的 客观缓解率（54.1% vs. 25%）、无进展生存时间（10.6 个月 vs. 6.4 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk832",
+        "chunk": "风险比0.43）和总生存时间（17.8 个月vs. 11.5 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk833",
+        "chunk": "DEB-TACE 联合仑伐替尼较单 一仑伐替尼的真实世界、多中心、回顾性研究显示，联合治 疗能明显提高不可手术切除肝癌患者的客观缓解率（46.5% vs. 13.1%）和总生存时间（15.9 个月vs. 8.6 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk834",
+        "chunk": "在一线标准系统抗肿瘤治疗耐药后，TACE 联合瑞戈非 尼二线治疗的单臂、真实世界研究显示可延长中晚期肝癌患 者无进展生存时间至9.1 个月及总生存时间至14.3 个月 [464]， 回顾性对照研究也显示TACE 联合瑞戈非尼较单一瑞戈非尼 延长晚期肝癌患者的总生存时间（11.3 个月vs. 8.2 个月",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk835",
+        "chunk": "CHANCE001 是目前国内TACE 联合靶向及免 疫治疗肝癌样本量最大的多中心真实世界研究，证实联合治 疗较单纯TACE 治疗显著改善中晚期肝癌患者的无进展生存 时间（9.5 个月vs. 8.0 个月，风险比0.70）与总生存时间 （19.2 个月vs. 15.7 个月，风险比0.63） [309]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk836",
+        "chunk": "CHANCE2211 [310] 是TACE 联合卡瑞利珠单克隆抗体和阿帕替尼治疗BCLC B/C 期肝癌的全国多中心、回顾性队列研究，研究结果显示联合 治疗组的中位总生存时间、无进展生存时间和客观缓解率显 著优于单纯TACE 治疗组（中位总生存时间：24.1 个月vs. 109 / 143 15.7 个月，风险比0.41",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk837",
+        "chunk": "中位无进展生存时间：13.5 个月 vs. 7.7 个月风险比0.52",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk838",
+        "chunk": "客观缓解率，59.5% vs. 37.4%)",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk839",
+        "chunk": "目前，多项TACE/HAIC 联合系统抗肿瘤治疗的Ⅲ期临床研究 正在进行中",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk840",
+        "chunk": "110 / 143 附录6 TARE 治疗进展 TARE 是指采用经皮穿刺将导管插管至肿瘤供血动脉内， 注射带有放射性核素的物质，通过放射性核素在肿瘤局部聚 集和持续内照射毁损并杀灭肿瘤，从而达到控制肿瘤生长的 治疗方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk841",
+        "chunk": "TARE 属内放射范畴，也称为选择性内放射治疗 （selective internal radiation therapy，SIRT) [466]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk842",
+        "chunk": "与 TACE 主要通过化疗药物细胞毒作用和肿瘤动脉分支栓塞使 肿瘤缺血坏死不同，TARE 主要通过放射性核素释放高能量射 线（β射线）持续近距离照射使肿瘤组织坏死",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk843",
+        "chunk": "同时，放射 性微球直径较小（20～60μm），血管栓塞作用较TACE 轻微 [466]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk844",
+        "chunk": "TARE 最常用的放射性微球为钇-90（ 90Y）微球",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk845",
+        "chunk": "根据载 体不同， 90Y 微球分为玻璃微球（TheraSphere）和树脂微球 （SIR-Sphere）两种 [467]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk846",
+        "chunk": "TheraSphere 和SIR-Sphere 分别 于1999 年和2002 年获得美国FDA 批准用于肝脏恶性肿瘤的 TARE 治疗，其中TheraSphere 的适应证为治疗不可切除的肝 癌，SIR-Sphere 的适应证为联合氟脲苷动脉化疗治疗不可手 术切除的结直肠癌肝转移",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk847",
+        "chunk": "在欧洲、亚洲部分国家和地区还被批准用于治疗其 他不能手术切除的肝脏恶性肿瘤，如胆管细胞癌、神经内分 111 / 143 泌肿瘤肝转移等 [468]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk848",
+        "chunk": "TARE 治疗需要由介入放射科、肝脏外科、核医学科、放 射肿瘤科和肿瘤内科等组成的多学科团队共同完成",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk849",
+        "chunk": "根据患 者一般状况、肝功能状况、肿瘤分期、治疗目的等情况以及 肝-肺分流等因素制定治疗计划和计算放射性计量 [467,469]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk850",
+        "chunk": "肝癌患者TARE 的临床应用主要包括 [470-473]:①早期肝癌 患者的根治性治疗，可使肿瘤完全坏死",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk851",
+        "chunk": "②中期肝癌患者的 降期治疗，为外科手术切除或肝移植创造条件",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk852",
+        "chunk": "③晚期肝癌 患者（伴门静脉癌栓）的姑息性治疗，延长患者生存期",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk853",
+        "chunk": "④ 放射性肝段/肝叶切除，治疗肿瘤的同时使余肝体积增加， 为外科手术切除创造机会",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk854",
+        "chunk": "⑤与系统抗肿瘤治疗联合，提高 肝癌患者疗效",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk855",
+        "chunk": "尽管TARE 是肝癌患者有效的血管内介入治疗方法，已 经在国外临床应用了20 余年，但国内目前仍未获批用于原 发性肝癌患者的治疗，也缺乏中国肝癌患者TARE 的数据",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk856",
+        "chunk": "期待 90Y 微球的获批和临床应用，为我国肝癌患者增加新的 治疗方法",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk857",
+        "chunk": "112 / 143 附录7 肝癌外放射治疗正常组织 具体耐受剂量参考 1.立体定向放射治疗：①肝功能Child-Pugh A级，放 射治疗分次数3～5Fx，正常肝体积[肝脏体积-大体肿瘤体 积，Liver-Gross tumor volume（GTV）]＞700ml或＞800ml， Liver-GTV平均剂量分别＜15Gy或＜18Gy",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk858",
+        "chunk": "放射治疗分次 数6Fx，Liver-GTV体积＞800ml，平均剂量＜20Gy",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk859",
+        "chunk": "每次 肿瘤分割剂量4～8Gy，Liver-GTV平均剂量＜23Gy为安全 剂量（证据等级3，推荐B） [474,475]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk860",
+        "chunk": "②亚洲肝癌患者常伴有 肝硬化和脾功能亢进，导致胃肠道淤血和凝血功能差，胃 肠道的放射耐受剂量低于RTOG推荐的剂量 [476]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk861",
+        "chunk": "目前文献及 专家共识认为，放射治疗分次数3～5Fx，胃和小肠最大剂 量均应＜22.2～35Gy，最佳＜30Gy",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk862",
+        "chunk": "③放射治疗分次数3～ 5Fx，双肾平均剂量最佳＜10Gy，脊髓最大剂量＜21.9～ 30Gy，最佳＜18～23Gy [477]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk863",
+        "chunk": "2.常规分割剂量放射治疗：①肝功能Child-Pugh A 级，Liver-GTV 平均剂量＜28～30Gy",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk864",
+        "chunk": "肝功能Child-Pugh B 级者，肝脏对射线的耐受量明显下降，最佳＜6Gy，避 113 / 143 免肝功能Child-Pugh C 级患者行肝区放射治疗 [295,475]",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk865",
+        "chunk": "② 胃和小肠最大剂量均应＜54Gy，胃V45＜45%，小肠V50≤5%",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk866",
+        "chunk": "③双肾平均剂量≤15Gy，如一侧肾脏平均剂量大于19Gy， 则另一侧肾脏尽量避开",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk867",
+        "chunk": "114 / 143 附录8 《原发性肝癌诊疗指南（2024 年版）》编写专家委员会 名誉主任委员：汤钊猷 刘允怡 郑树森 王学浩 陈孝平 董家鸿 窦科峰 滕皋军 主任委员：樊 嘉 执行主任委员：周 俭 副主任委员：秦叔逵 蔡秀军 沈 锋 蔡建强 李 强 王伟林 陈敏山 孙惠川 陆骊工 吴 泓 介入及局部治疗学组组长：滕皋军 副组长：韩国宏 颜志平 王茂强 刘瑞宝 郭金和 曾昭冲 梁 萍 邵国良 内科及系统治疗组组长：秦叔逵 副组长：任正刚 侯金林 张艳桥 刘秀峰 潘宏铭 毕 锋 外科学组组长：周 俭 副组长：周伟平 刘连新 文天夫 匡 铭 张必翔 陶开山 影像学组组长：曾蒙苏 副组长：梁长虹 陈 敏 严福华 徐辉雄 谢晓燕 居胜红 病理学组组长：丛文铭 副组长：纪 元 云径平 李增山 委员（按姓氏拼音排序）： 白雪莉 蔡定芳 陈卫霞 陈亚进 陈拥军 成文武 程树群 代 智 戴朝六 高 强 郭荣平 郭文治 郭亚兵 花宝金 黄晓武 蒋涵羽 荚卫东 李 秋 李 涛 李相成 李 汛 李亚明 李晔雄 梁 军 梁 霄 凌昌全 刘 辉 刘 嵘 刘天舒 卢实春 吕国悦 毛一雷 孟志强 彭 涛 任伟新 施国明 石洪成 石 明 史颖弘 宋天强 谭 广 王建华 王 葵 王 鲁 王文涛 王晓颖 王 征 王志明 向邦德 夏 君 肖永胜 邢宝才 徐建明 徐 钧 杨建勇 杨欣荣 杨业发 杨云柯 姚小红 尹震宇 袁振刚 曾永毅 曾 勇 张博恒 张雷达 张水军 张 倜 张志伟 赵 明 赵永福 郑红刚 周乐杜 朱继业 朱康顺 秘书长: 孙惠川 副秘书长：王 征 史颖弘 刘 嵘 张 岚 秘书组: 肖永胜 杨 春 吴志峰 丁振斌 朱小东 唐 政 黄晓勇 韩红 115 / 143 参考文献： [1] Han BF, Zheng RS, Zeng HM, et al. Cancer incidence and mortality in China, 2022[J]. Journal of the National Cancer Center, https://doi.org/10.1016/j.jncc.2024.01.006. [2] Zheng RS, Zhang SW, Zeng HM, et al. Cancer incidence and mortality in China, 2016[J]. J Natl Cancer Center, 2022, 2(1): 1-9. DOI：10.1016/j.jncc.2022.02.002. [3] Zhou M, Wang H, Zeng X, et al. Mortality, morbidity, and risk factors in China and its provinces, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017[J]. Lancet, 2019,394(10204):1145-1158. DOI: 10.1016/S0140-6736(19)30427-1. [4] Bray F, Ferlay J, Soerjomataram I, et al. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries[J]. CA Cancer J Clin, 2018,68(6):394-424. DOI: 10.3322/caac.21492. [5] Guyatt G, Oxman AD, Akl EA, et al. GRADE guidelines: 1. Introduction-GRADE evidence profiles and summary of findings tables[J]. J Clin Epidemiol, 2011,64(4):383-394. DOI: 10.1016/j.jclinepi.2010.04.026. [6] Balshem H, Helfand M, Schünemann HJ, et al. GRADE guidelines: 3. Rating the quality of evidence[J]. J Clin Epidemiol, 2011, 64(4): 401-406. DOI: 10.1016/j.jclinepi.2010.07.015. [7] Andrews JC, Schünemann HJ, Oxman AD, et al. GRADE guidelines: 15. Going from evidence to recommendation-determinants of a recommendation's direction and strength[J]. J Clin Epidemiol, 2013,66(7):726-735. DOI: 10.1016/j.jclinepi.2013.02.003. [8] ASCO Guidelines Methodology Manual [EB/OL]. (2021-09-09) [2023-12-15]. https://www.asco.org/sites/new-www.asco.org/files/content-files/advocacy-and-policy/docum ents/Guidelines-Methodology-Manual_0.pdf. [9] Zhang BH, Yang BH, Tang ZY. Randomized controlled trial of screening for hepatocellular carcinoma[J]. J Cancer Res Clin Oncol, 2004,130(7):417-422. DOI: 10.1007/s00432-004-0552-0. [10] Zeng H, Cao M, Xia C, et al. Performance and effectiveness of hepatocellular carcinoma screening in individuals with HBsAg seropositivity in China: a multicenter prospective study[J]. Nat Cancer, 2023, 4(9): 1382-1394. DOI: 10.1038/s43018-023-00618-8. [11] Hou JL, Zhao W, Lee C, et al. Outcomes of Long-term Treatment of Chronic HBV Infection With Entecavir or Other Agents From a Randomized Trial in 24 Countries[J]. Clin Gastroenterol Hepatol, 2020,18(2):457-467.e21. DOI: 10.1016/j.cgh.2019.07.010. [12] Fan R, Papatheodoridis G, Sun J, et al. aMAP risk score predicts hepatocellular carcinoma development in patients with chronic hepatitis[J]. J Hepatol, 2020,73(6):1368-1378. DOI: 10.1016/j.jhep.2020.07.025. [13] Fan R, Chen L, Zhao S, et al. Novel, high accuracy models for hepatocellular carcinoma prediction based on longitudinal data and cell-free DNA signatures[J]. J Hepatol, 2023,79(4):933-944. DOI: 10.1016/j.jhep.2023.05.039. [14] 郝新, 樊蓉, 郭亚兵, 等. 创建医院社区一体化\"金字塔\"肝癌筛查模式，实现肝癌早筛早 诊 早 治 [J]. 中 华 肝 脏 病 杂 志 ,2021,29(4):289-292. DOI: 10.3760/cma.j.cn501113-20210408-00174-1. [15] Dong Y, Wang WP, Lee WJ, et al. Contrast-Enhanced Ultrasound Features of Histopathologically Proven Hepatocellular Carcinoma in the Non-cirrhotic Liver: A Multicenter Study[J]. Ultrasound Med Biol, 2022,48(9):1797-1805. DOI: 10.1016/j.ultrasmedbio.2022.05.005. [16] Wang WP, Dong Y, Cao J, et al. Detection and characterization of small superficially located focal liver lesions by contrast-enhanced ultrasound with high frequency transducers[J]. Med Ultrason, 2017,19(4):349-356. DOI: 10.11152/mu-1276. [17] Dong Y, Wang WP, Mao F, et al. Imaging Features of Fibrolamellar Hepatocellular Carcinoma with Contrast-Enhanced Ultrasound[J]. Ultraschall Med, 2021,42(3):306-313. DOI: 10.1055/a-1110-7124. [18] Fan PL, Xia HS, Ding H, et al. Characterization of Early Hepatocellular Carcinoma and High-Grade Dysplastic Nodules on Contrast-Enhanced Ultrasound: Correlation With 116 / 143 Histopathologic Findings[J]. J Ultrasound Med, 2020,39(9):1799-1808. DOI: 10.1002/jum.15288. [19] Shen YT, Yue WW, Xu HX. Non-invasive imaging in the diagnosis of combined hepatocellular carcinoma and cholangiocarcinoma[J]. Abdom Radiol (NY), 2023,48(6):2019-2037. DOI: 10.1007/s00261-023-03879-0. [20] Han H, Ji Z, Huang B, et al. The Preliminary Application of Simultaneous Display of Contrast-Enhanced Ultrasound and Micro-Flow Imaging Technology in the Diagnosis of Hepatic Tumors[J]. J Ultrasound Med, 2023,42(3):729-737. DOI: 10.1002/jum.16111. [21] Barr RG, Huang P, Luo Y, et al. Contrast-enhanced ultrasound imaging of the liver: a review of the clinical evidence for SonoVue and Sonazoid[J]. Abdom Radiol (NY), 2020,45(11):3779-3788. DOI: 10.1007/s00261-020-02573-9. [22] Dietrich CF, Nolsøe CP, Barr RG, et al. Guidelines and Good Clinical Practice Recommendations for Contrast-Enhanced Ultrasound (CEUS) in the Liver-Update 2020 WFUMB in Cooperation with EFSUMB, AFSUMB, AIUM, and FLAUS[J]. Ultrasound Med Biol, 2020,46(10):2579-2604. DOI: 10.1016/j.ultrasmedbio.2020.04.030. [23] Lee JY, Minami Y, Choi BI, et al. The AFSUMB Consensus Statements and Recommendations for the Clinical Practice of Contrast-Enhanced Ultrasound using Sonazoid[J]. J Med Ultrasound, 2020,28(2):59-82. DOI: 10.4103/JMU.JMU_124_19. [24] Zhao CK, Guan X, Pu YY, et al. Response Evaluation Using Contrast-Enhanced Ultrasound for Unresectable Advanced Hepatocellular Carcinoma Treated With Tyrosine Kinase Inhibitors Plus Anti-PD-1 Antibody Therapy[J]. Ultrasound Med Biol, 2024,50(1):142-149. DOI: 10.1016/j.ultrasmedbio.2023.09.016. [25] Zhou BY, Liu H, Pu YY, et al. Quantitative analysis of pre-treatment dynamic contrast-enhanced ultrasound for assessing the response of colorectal liver metastases to chemotherapy plus targeted therapy: a dual-institutional study[J]. Abdom Radiol (NY), 2023. DOI: 10.1007/s00261-023-04055-0. [26] 王文平, 季正标, 董怡, 等. 实时导航超声造影在小肝癌诊断中的应用研究[J].中华医学 超声杂志（电子版）,2016,13(1):56-60. DOI: 10.3877/cma.j.issn.1672-6448.2016.01.014. [27] Dong Y, Wang WP, Mao F, et al. Application of imaging fusion combining contrast-enhanced ultrasound and magnetic resonance imaging in detection of hepatic cellular carcinomas undetectable by conventional ultrasound[J]. J Gastroenterol Hepatol, 2016,31(4):822-828. DOI: 10.1111/jgh.13202. [28] Bo XW, Xu HX, Wang D, et al. Fusion imaging of contrast-enhanced ultrasound and contrast-enhanced CT or MRI before radiofrequency ablation for liver cancers[J]. Br J Radiol, 2016, 89(1067): 20160379. DOI: 10.1259/bjr.20160379. [29] Bo XW, Xu HX, Guo LH, et al. Ablative safety margin depicted by fusion imaging with post-treatment contrast-enhanced ultrasound and pre-treatment CECT/CEMRI after radiofrequency ablation for liver cancers[J]. Br J Radiol, 2017,90(1078):20170063. DOI: 10.1259/bjr.20170063. [30] Dong Y, Wang WP, Xu Y, et al. Point shear wave speed measurement in differentiating benign and malignant focal liver lesions[J]. Med Ultrason, 2017,19(3):259-264. DOI: 10.11152/mu-1142. [31] Zhuang Y, Ding H, Zhang Y, et al. Two-dimensional Shear-Wave Elastography Performance in the Noninvasive Evaluation of Liver Fibrosis in Patients with Chronic Hepatitis B: Comparison with Serum Fibrosis Indexes[J]. Radiology, 2017,283(3):873-882. DOI: 10.1148/radiol.2016160131. [32] Guan X, Chen YC, Xu HX. New horizon of ultrasound for screening and surveillance of non-alcoholic fatty liver disease ",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk868",
+        "chunk": "[J]. J Gastrointest Cancer, 2020,51(4):1133-1136. DOI: 10.1007/s12029-020-00487-9. [107] Kendall T, Verheij J, Gaudio E, et al. Anatomical, histomorphological and molecular classification of cholangiocarcinoma[J]. Liver Int, 2019,39 Suppl 1:7-18. DOI: 10.1111/liv.14093. [108] Zou Y, Zhu K, Pang Y, et al. Molecular Detection of FGFR2 Rearrangements in Resected Intrahepatic Cholangiocarcinomas: FISH Could Be An Ideal Method in Patients with Histological Small Duct Subtype [J]. J Clin Transl Hepatol, 2023, 11(6):1355-1367. DOI: 10.14218/JCTH.2022.00060S. [109] Dong L, Lu D, Chen R, et al. Proteogenomic characterization identifies clinically relevant subgroups of intrahepatic cholangiocarcinoma[J]. Cancer Cell, 2022,40(1):70-87. e15. DOI: 10.1016/j.ccell.2021.12.006. [110] Travis WD, Dacic S, Wistuba I, et al. IASLC Multidisciplinary Recommendations for Pathologic Assessment of Lung Cancer Resection Specimens After Neoadjuvant Therapy[J]. J Thorac Oncol, 2020,15(5):709-740. DOI: 10.1016/j.jtho.2020.01.005. [111] Allard MA, Sebagh M, Ruiz A, et al. Does pathological response after transarterial chemoembolization for hepatocellular carcinoma in cirrhotic patients with cirrhosis predict outcome after liver resection or transplantation",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk869",
+        "chunk": "[J]. J Hepatol, 2015, 63(1): 83-92. DOI: 10.1016/j.jhep.2015.01.023. [112] Stein JE, Lipson EJ, Cottrell TR, et al. Pan-Tumor Pathologic Scoring of Response to PD-(L)1 Blockade[J]. Clin Cancer Res, 2020, 26(3): 545-551. DOI: 10.1158/1078-0432.CCR-19-2379. [113] Imamura H, Seyama Y, Kokudo N, et al. One thousand fifty-six hepatectomies without mortality in 8 years[J]. Arch Surg, 2003,138(11):1198-1206; discussion 1206. DOI: 10.1001/archsurg.138.11.1198. [114] Kubota K, Makuuchi M, Kusaka K, et al. Measurement of liver volume and hepatic functional reserve as a guide to decision-making in resectional surgery for hepatic tumors[J]. Hepatology, 1997,26(5):1176-1181. DOI: 10.1053/jhep.1997.v26.pm0009362359. [115] Bruix J, Castells A, Bosch J, et al. Surgical resection of hepatocellular carcinoma in cirrhotic patients: prognostic value of preoperative portal pressure[J]. Gastroenterology, 1996,111(4):1018-1022. DOI: 10.1016/s0016-5085(96)70070-7. [116] Cescon M, Colecchia A, Cucchetti A, et al. Value of transient elastography measured with FibroScan in predicting the outcome of hepatic resection for hepatocellular carcinoma[J]. Ann Surg, 2012,256(5):706-712; discussion 712-713. DOI: 10.1097/SLA.0b013e3182724ce8. [117] Shen Y, Zhou C, Zhu G, et al. Liver Stiffness Assessed by Shear Wave Elastography Predicts Postoperative Liver Failure in Patients with Hepatocellular Carcinoma[J]. J Gastrointest Surg, 2017,21(9):1471-1479. DOI: 10.1007/s11605-017-3443-9. [118] Rajakannu M, Cherqui D, Ciacio O, et al. Liver stiffness measurement by transient elastography predicts late posthepatectomy outcomes in patients undergoing resection for hepatocellular carcinoma[J]. Surgery, 2017,162(4):766-774. DOI: 10.1016/j.surg.2017.06.006. [119] Zhong JH, Ke Y, Gong WF, et al. Hepatic resection associated with good survival for selected patients with intermediate and advanced-stage hepatocellular carcinoma[J]. Ann Surg, 2014,260(2):329-340. DOI: 10.1097/SLA.0000000000000236. [120] Xiao H, Zhang B, Mei B, et al. Hepatic resection for hepatocellular carcinoma in patients with portal hypertension: a long-term benefit compared with transarterial chemoembolization and thermal ablation[J]. Medicine (Baltimore), 2015,94(7): e495. DOI: 10.1097/MD.0000000000000495. [121] Bosch J, Abraldes JG, Berzigotti A, et al. The clinical use of HVPG measurements in chronic liver disease[J]. Nat Rev Gastroenterol Hepatol, 2009,6(10):573-582. DOI: 10.1038/nrgastro.2009.149. [122] Chen X, Zhai J, Cai X, et al. Severity of portal hypertension and prediction of postoperative liver failure after liver resection in patients with Child-Pugh grade A cirrhosis[J]. Br J Surg, 2012, 99(12): 1701-1710. DOI: 10.1002/bjs.8951. 122 / 143 [123] Chin KM, Prieto M, Cheong CK, et al. Outcomes after curative therapy for hepatocellular carcinoma in patients with non-alcoholic fatty liver disease: a meta-analysis and review of current literature[J]. HPB (Oxford), 2021,23(8):1164-1174. DOI: 10.1016/j.hpb.2021.01.009. [124] Mirdad RS, Madison Hyer J, Diaz A, et al. Postoperative imaging surveillance for hepatocellular carcinoma: How much is enough",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk870",
+        "chunk": "[J]. J Surg Oncol, 2021,123(7):1568-1577. DOI: 10.1002/jso.26433. [125] Chen MS, Li JQ, Zheng Y, et al. A prospective randomized trial comparing percutaneous local ablative therapy and partial hepatectomy for small hepatocellular carcinoma[J]. Ann Surg, 2006,243(3):321-328. DOI: 10.1097/01.sla.0000201480.65519.b8. [126] Kudo M, Hasegawa K, Kawaguchi Y, et al. A multicenter randomized controlled trial to evaluate the efficacy of surgery versus radiofrequency ablation for small hepatocellular carcinoma (SURF trial): Analysis of overall survival[J]. J Clin Oncol, 2021, 39(15_suppl): 4093. [127] Yamashita T, Kawaguchi Y, Kaneko S, et al. A multicenter, non-randomized, controlled trial to evaluate the efficacy of surgery versus radiofrequency ablation for small hepatocellular carcinoma (SURF trial): Analysis of overall survival[J]. J Clin Oncol, 2022, 40(16_suppl): 4095. [128] Mohkam K, Dumont PN, Manichon AF, et al. No-touch multibipolar radiofrequency ablation vs. surgical resection for solitary hepatocellular carcinoma ranging from 2 to 5cm[J]. J Hepatol, 2018, 68(6): 1172-1180. DOI: 10.1016/j.jhep.2018.01.014. [129] Xu XL, Liu XD, Liang M, et al. Radiofrequency Ablation versus Hepatic Resection for Small Hepatocellular Carcinoma: Systematic Review of Randomized Controlled Trials with Meta-Analysis and Trial Sequential Analysis[J]. Radiology, 2018,287(2):461-472. DOI: 10.1148/radiol.2017162756. [130] Liu PH, Hsu CY, Hsia CY, et al. Surgical resection versus radiofrequency ablation for single hepatocellular carcinoma ≤2 cm in a propensity score model[J]. Ann Surg, 2016, 263(3): 538-545. DOI:10.1097/SLA.0000000000001178. [131] Feng K, Yan J, Li X, et al. A randomized controlled trial of radiofrequency ablation and surgical resection in the treatment of small hepatocellular carcinoma[J]. J Hepatol, 2012,57(4):794-802. DOI: 10.1016/j.jhep.2012.05.007. [132] Xu Q, Kobayashi S, Ye X, et al. Comparison of hepatic resection and radiofrequency ablation for small hepatocellular carcinoma: a meta-analysis of 16,103 patients[J]. Sci Rep, 2014, 4: 7252. DOI: 10.1038/srep07252. [133] Xia Y, Li J, Liu G, et al. Long-term Effects of Repeat Hepatectomy vs Percutaneous Radiofrequency Ablation Among Patients With Recurrent Hepatocellular Carcinoma: A Randomized Clinical Trial[J]. JAMA Oncol, 2020,6(2):255-263. DOI: 10.1001/jamaoncol.2019.4477. [134] Yin L, Li H, Li AJ, et al. Partial hepatectomy vs. transcatheter arterial chemoembolization for resectable multiple hepatocellular carcinoma beyond Milan Criteria: a RCT[J]. J Hepatol, 2014,61(1):82-88. DOI: 10.1016/j.jhep.2014.03.012. [135] Torzilli G, Belghiti J, Kokudo N, et al. A snapshot of the effective indications and results of surgery for hepatocellular carcinoma in tertiary referral centers: is it adherent to the EASL/AASLD recommendations",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk871",
+        "chunk": ": an observational study of the HCC East-West study group[J]. Ann Surg, 2013, 257(5): 929-937. DOI: 10.1097/SLA.0b013e31828329b8. [136] Hyun MH, Lee YS, Kim JH, et al. Hepatic resection compared to chemoembolization in intermediate- to advanced-stage hepatocellular carcinoma: A meta-analysis of high-quality studies[J]. Hepatology, 2018,68(3):977-993. DOI: 10.1002/hep.29883. [137] Tsilimigras DI, Mehta R, Paredes AZ, et al. Overall Tumor Burden Dictates Outcomes for Patients Undergoing Resection of Multinodular Hepatocellular Carcinoma Beyond the Milan Criteria[J]. Ann Surg, 2020,272(4):574-581. DOI: 10.1097/SLA.0000000000004346. [138] Famularo S, Donadon M, Cipriani F, et al. Hepatectomy Versus Sorafenib in Advanced Nonmetastatic Hepatocellular Carcinoma: A Real-life Multicentric Weighted Comparison[J]. Ann Surg, 2022,275(4):743-752. DOI: 10.1097/SLA.0000000000005373. [139] Kokudo T, Hasegawa K, Matsuyama Y, et al. Survival benefit of liver resection for 123 / 143 hepatocellular carcinoma associated with portal vein invasion[J]. J Hepatol, 2016,65(5):938-943. DOI: 10.1016/j.jhep.2016.05.044. [140] Zhang XP, Gao YZ, Chen ZH, et al. An Eastern Hepatobiliary Surgery Hospital/Portal Vein Tumor Thrombus Scoring System as an Aid to Decision Making on Hepatectomy for Hepatocellular Carcinoma Patients With Portal Vein Tumor Thrombus: A Multicenter Study[J]. Hepatology, 2019,69(5):2076-2090. DOI: 10.1002/hep.30490. [141] Govalan R, Lauzon M, Luu M, et al. Comparison of Surgical Resection and Systemic Treatment for Hepatocellular Carcinoma with Vascular Invasion: National Cancer Database Analysis[J]. Liver Cancer, 2021,10(5):407-418. DOI: 10.1159/000515554. [142] Pawlik TM, Poon RT, Abdalla EK, et al. Hepatectomy for hepatocellular carcinoma with major portal or hepatic vein invasion: results of a multicenter study[J]. Surgery, 2005, 137(4): 403-410. DOI：10.1016/j.surg.2004.12.012. [143] Lu J, Zhang XP, Zhong BY, et al. Management of patients with hepatocellular carcinoma and portal vein tumour thrombosis: comparing east and west[J]. Lancet Gastroenterol Hepatol, 2019,4(9):721-730. DOI: 10.1016/S2468-1253(19)30178-5. [144] Fan J, Zhou J, Wu ZQ, et al. Efficacy of different treatment strategies for hepatocellular carcinoma with portal vein tumor thrombosis[J]. World J Gastroenterol, 2005,11(8):1215-1219. DOI: 10.3748/wjg.v11.i8.1215. [145] Wei X, Jiang Y, Zhang X, et al. Neoadjuvant Three-Dimensional Conformal Radiotherapy for Resectable Hepatocellular Carcinoma With Portal Vein Tumor Thrombus: A Randomized, Open-Label, Multicenter Controlled Study[J]. J Clin Oncol, 2019,37(24):2141-2151. DOI: 10.1200/JCO.18.02184. [146] Wang K, Guo WX, Chen MS, et al. Multimodality Treatment for Hepatocellular Carcinoma With Portal Vein Tumor Thrombus: A Large-Scale, Multicenter, Propensity Mathching Score Analysis[J]. Medicine (Baltimore), 2016,95(11): e3015. DOI: 10.1097/MD.0000000000003015. [147] Li XL, Zhu XD, Cai H, et al. Postoperative α-fetoprotein response predicts tumor recurrence and survival after hepatectomy for hepatocellular carcinoma: A propensity score matching analysis[J]. Surgery, 2019,165(6):1161-1167. DOI: 10.1016/j.surg.2019.01.009. [148] Yang J, Tao HS, Cai W, et al. Accuracy of actual resected liver volume in anatomical liver resections guided by 3-dimensional parenchymal staining using fusion indocyanine green fluorescence imaging[J]. J Surg Oncol, 2018,118(7):1081-1087. DOI: 10.1002/jso.25258. [149] Mise Y, Hasegawa K, Satou S, et al. How Has Virtual Hepatectomy Changed the Practice of Liver Surgery",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk872",
+        "chunk": ": Experience of 1194 Virtual Hepatectomy Before Liver Resection and Living Donor Liver Transplantation[J]. Ann Surg, 2018,268(1):127-133. DOI: 10.1097/SLA.0000000000002213. [150] 中华医学会数字医学分会, 中国研究型医院学会数字智能化外科专业委员会, 中国医师 协会肝癌专业委员会, 等. 计算机辅助联合吲哚菁绿分子荧光影像技术在肝脏肿瘤诊断 和手术导航中应用指南(2019 版)[J].中国实用外科杂志,2019,39(7):641-650,654. DOI: 10.19538/j.cjps.issn1005-2208.2019.07.01 [151] Jiang HT, Cao JY. Impact of Laparoscopic Versus Open Hepatectomy on Perioperative Clinical Outcomes of Patients with Primary Hepatic Carcinoma[J]. Chin Med Sci J, 2015,30(2):80-83. DOI: 10.1016/s1001-9294(15)30016-x. [152] 中国研究型医院学会肝胆胰外科专业委员会. 腹腔镜肝切除术治疗肝细胞癌中国专家共 识 (2020 版 )[J]. 中 华 消 化 外 科 杂 志 ,2020,19(11):1119-1134. DOI: 10.3760/cma.j.cn115610-20201029-00682. [153] Zhu P, Liao W, Zhang WG, et al. A Prospective Study Using Propensity Score Matching to Compare Long-term Survival Outcomes After Robotic-assisted, Laparoscopic, or Open Liver Resection for Patients With BCLC Stage 0-A Hepatocellular Carcinoma[J]. Ann Surg, 2023,277(1):e103-e111. DOI: 10.1097/SLA.0000000000005380. [154] Wang Q, Li HJ, Dai XM, et al. Laparoscopic versus open liver resection for hepatocellular carcinoma in elderly patients: Systematic review and meta-analysis of propensity-score matched studies[J]. Int J Surg, 2022,105:106821. DOI: 10.1016/j.ijsu.2022.106821 124 / 143 [155] Wang X, Teh CSC, Ishizawa T, et al. Consensus guidelines for the use of fluorescence imaging in hepatobiliary surgery[J]. Ann Surg, 2021, 274(1): 97-106. DOI: 10.1097/SLA.0000000000004718. [156] Di Benedetto F, Magistri P, Di Sandro S, et al. Safety and Efficacy of Robotic vs Open Liver Resection for Hepatocellular Carcinoma[J]. JAMA Surg, 2023,158(1):46-54. DOI: 10.1001/jamasurg.2022.5697. [157] 夏永祥, 张峰, 李相成, 等. 原发性肝癌10966 例外科治疗分析[J]. 中华外科杂志, 2021, 59(1): 6-17. DOI: 10.3760/cma.j.cn112139-20201110-00791. [158] Hidaka M, Eguchi S, Okuda K, et al. Impact of anatomical resection for hepatocellular carcinoma with microportal invasion (vp1): A multi-institutional study by the kyushu study group of liver surgery[J]. Ann Surg, 2020, 271(2): 339-346. DOI: 10.1097/SLA.0000000000002981. [159] Zhong FP, Zhang YJ, Liu Y, et al. Prognostic impact of surgical margin in patients with hepatocellular carcinoma: A meta-analysis[J]. Medicine (Baltimore), 2017,96(37): e8043. DOI: 10.1097/MD.0000000000008043. [160] Shi M, Guo RP, Lin XJ, et al. Partial hepatectomy with wide versus narrow resection margin for solitary hepatocellular carcinoma: a prospective randomized trial[J]. Ann Surg, 2007,245(1):36-43. DOI: 10.1097/01.sla.0000231758.07868.71. [161] Yang P, Si A, Yang J, et al. A wide-margin liver resection improves long-term outcomes for patients with HBV-related hepatocellular carcinoma with microvascular invasion[J]. Surgery, 2019,165(4):721-730. DOI: 10.1016/j.surg.2018.09.016. [162] Liao K, Yang K, Cao L, et al. Laparoscopic Anatomical Versus Non-anatomical hepatectomy in the Treatment of Hepatocellular Carcinoma: A randomised controlled trial[J]. Int J Surg, 2022,102:106652. DOI: 10.1016/j.ijsu.2022.106652. [163] Liu CL, Fan ST, Lo CM, et al. Anterior approach for major right hepatic resection for large hepatocellular carcinoma[J]. Ann Surg, 2000,232(1):25-31. DOI: 10.1097/00000658-200007000-00004. [164] Zhou C, Peng Y, Zhou K, et al. Surgical resection plus radiofrequency ablation for the treatment of multifocal hepatocellular carcinoma[J]. Hepatobiliary Surg Nutr, 2019,8(1):19-28. DOI: 10.21037/hbsn.2018.11.19. [165] Zhang ZM, Lai EC, Zhang C, et al. The strategies for treating primary hepatocellular carcinoma with portal vein tumor thrombus[J]. Int J Surg, 2015,20:8-16. DOI: 10.1016/j.ijsu.2015.05.009. [166] Fu SY, Lau WY, Li AJ, et al. Liver resection under total vascular exclusion with or without preceding Pringle manoeuvre[J]. Br J Surg, 2010,97(1):50-55. DOI: 10.1002/bjs.6841. [167] Satoh S, Ikai I, Honda G, et al. Clinicopathologic evaluation of hepatocellular carcinoma with bile duct thrombi[J]. Surgery, 2000,128(5):779-783. DOI: 10.1067/msy.2000.108659. [168] Kim DS, Kim BW, Hatano E, et al. Surgical Outcomes of Hepatocellular Carcinoma With Bile Duct Tumor Thrombus: A Korea-Japan Multicenter Study[J]. Ann Surg, 2020,271(5):913-921. DOI: 10.1097/SLA.0000000000003014. [169] Zhu XD, Huang C, Shen YH, et al. Downstaging and Resection of Initially Unresectable Hepatocellular Carcinoma with Tyrosine Kinase Inhibitor and Anti-PD-1 Antibody Combinations[J]. Liver Cancer, 2021,10(4):320-329. DOI: 10.1159/000514313. [170] 中国研究型医院学会肝胆胰外科专业委员会. 精准肝切除术专家共识[J].中华消化外科 杂志,2017,16(9):883-893. DOI: 10.3760/cma.j.issn.1673-9752.2017.09.001. [171] Aloia TA. Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy: Portal Vein Embolization Should Remain the Gold Standard[J]. JAMA Surg, 2015,150(10):927-928. DOI: 10.1001/jamasurg.2015.1646. [172] Piron L, Deshayes E, Escal L, et al. [Portal vein embolization: Present and future] [J]. Bull Cancer, 2017,104(5):407-416. DOI: 10.1016/j.bulcan.2017.03.009. [173] Ogata S, Belghiti J, Farges O, et al. Sequential arterial and portal vein embolizations before right hepatectomy in patients with cirrhosis and hepatocellular carcinoma[J]. Br J Surg, 2006,93(9):1091-1098. DOI: 10.1002/bjs.5341. [174] Hwang S, Ha TY, Ko GY, et al. Preoperative Sequential Portal and Hepatic Vein Embolization 125 / 143 in Patients with Hepatobiliary Malignancy[J]. World J Surg, 2015,39(12):2990-2998. DOI: 10.1007/s00268-015-3194-2. [175] Dupré A, Hitier M, Peyrat P, et al. Associating portal embolization and artery ligation to induce rapid liver regeneration in staged hepatectomy[J]. Br J Surg, 2015,102(12):1541-1550. DOI: 10.1002/bjs.9900. [176] Glantzounis GK, Tokidis E, Basourakos SP, et al. The role of portal vein embolization in the surgical management of primary hepatobiliary cancers. A systematic review[J]. Eur J Surg Oncol, 2017, 43(1): 32-41. DOI: 10.1016/j.ejso.2016.05.026. [177] Schnitzbauer AA, Lang SA, Goessmann H, et al. Right portal vein ligation combined with in situ splitting induces rapid left lateral liver lobe hypertrophy enabling 2-staged extended right hepatic resection in small-for-size settings[J]. Ann Surg, 2012,255(3):405-414. DOI: 10.1097/SLA.0b013e31824856f5. [178] Wang Z, Peng Y, Hu J, et al. Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy for Unresectable Hepatitis B Virus-related Hepatocellular Carcinoma: A Single Center Study of 45 Patients[J]. Ann Surg, 2020,271(3):534-541. DOI: 10.1097/SLA.0000000000002942. [179] Peng Y, Wang Z, Qu X, et al. Transcatheter arterial embolization-salvaged ALPPS, a novel ALPPS procedure especially for patients with hepatocellular carcinoma and severe fibrosis/cirrhosis[J]. Hepatobiliary Surg Nutr, 2022,11(4):504-514. DOI: 10.21037/hbsn-21-466. [180] Li PP, Huang G, Jia NY, et al. Associating liver partition and portal vein ligation for staged hepatectomy versus sequential transarterial chemoembolization and portal vein embolization in staged hepatectomy for HBV-related hepatocellular carcinoma: a randomized comparative study[J]. Hepatobiliary Surg Nutr, 2022,11(1):38-51. DOI: 10.21037/hbsn-20-264. [181] Zhang Y, Huang G, Wang Y, et al. Is Salvage Liver Resection Necessary for Initially Unresectable Hepatocellular Carcinoma Patients Downstaged by Transarterial Chemoembolization",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk873",
+        "chunk": "Ten Years of Experience[J]. Oncologist, 2016,21(12):1442-1449. DOI: 10.1634/theoncologist.2016-0094. [182] Lyu N, Kong Y, Mu L, et al. Hepatic arterial infusion of oxaliplatin plus fluorouracil/leucovorin vs. sorafenib for advanced hepatocellular carcinoma[J]. J Hepatol, 2018, 69(1): 60-69. DOI: 10.1016/j.jhep.2018.02.008. [183] He M, Li Q, Zou R, et al. Sorafenib Plus Hepatic Arterial Infusion of Oxaliplatin, Fluorouracil, and Leucovorin vs Sorafenib Alone for Hepatocellular Carcinoma With Portal Vein Invasion: A Randomized Clinical Trial[J]. JAMA Oncol, 2019,5(7):953-960. DOI: 10.1001/jamaoncol.2019.0250. [184] Peng Z, Fan W, Zhu B, et al. Lenvatinib Combined With Transarterial Chemoembolization as First-Line Treatment for Advanced Hepatocellular Carcinoma: A Phase III, Randomized Clinical Trial (LAUNCH)[J]. J Clin Oncol, 2023,41(1):117-127. DOI: 10.1200/JCO.22.00392. [185] Li B, Qiu J, Zheng Y, et al. Conversion to Resectability Using Transarterial Chemoembolization Combined With Hepatic Arterial Infusion Chemotherapy for Initially Unresectable Hepatocellular Carcinoma[J]. Ann Surg Open, 2021,2(2): e057. DOI: 10.1097/AS9.0000000000000057. [186] Byun HK, Kim HJ, Im YR, et al. Dose escalation by intensity modulated radiotherapy in liver-directed concurrent chemoradiotherapy for locally advanced BCLC stage C hepatocellular carcinoma[J]. Radiother Oncol, 2019,133:1-8. DOI: 10.1016/j.radonc.2018.12.025. [187] Pinna AD, Yang T, Mazzaferro V, et al. Liver Transplantation and Hepatic Resection can Achieve Cure for Hepatocellular Carcinoma[J]. Ann Surg, 2018,268(5):868-875. DOI: 10.1097/SLA.0000000000002889. [188] Tabrizian P, Jibara G, Shrager B, et al. Recurrence of hepatocellular cancer after resection: patterns, treatments, and prognosis[J]. Ann Surg, 2015,261(5):947-955. DOI: 10.1097/SLA.0000000000000710. [189] Chan A, Zhong J, Berhane S, et al. Development of pre and post-operative models to predict 126 / 143 early recurrence of hepatocellular carcinoma after surgical resection[J]. J Hepatol, 2018,69(6):1284-1293. DOI: 10.1016/j.jhep.2018.08.027. [190] Wu JC, Huang YH, Chau GY, et al. Risk factors for early and late recurrence in hepatitis B-related hepatocellular carcinoma[J]. J Hepatol, 2009,51(5):890-897. DOI: 10.1016/j.jhep.2009.07.009. [191] Imamura H, Matsuyama Y, Tanaka E, et al. Risk factors contributing to early and late phase intrahepatic recurrence of hepatocellular carcinoma after hepatectomy[J]. J Hepatol, 2003,38(2):200-207. DOI: 10.1016/s0168-8278(02)00360-4. [192] Wang Z, Ren Z, Chen Y, et al. Adjuvant Transarterial Chemoembolization for HBV-Related Hepatocellular Carcinoma After Resection: A Randomized Controlled Study[J]. Clin Cancer Res, 2018,24(9):2074-2081. DOI: 10.1158/1078-0432.CCR-17-2899. [193] Wei W, Jian PE, Li SH, et al. Adjuvant transcatheter arterial chemoembolization after curative resection for hepatocellular carcinoma patients with solitary tumor and microvascular invasion: a randomized clinical trial of efficacy and safety[J]. Cancer Commun (Lond), 2018,38(1):61. DOI: 10.1186/s40880-018-0331-y. [194] Li SH, Mei J, Cheng Y, et al. Postoperative Adjuvant Hepatic Arterial Infusion Chemotherapy With FOLFOX in Hepatocellular Carcinoma With Microvascular Invasion: A Multicenter, Phase III, Randomized Study[J]. J Clin Oncol, 2023,41(10):1898-1908. DOI: 10.1200/JCO.22.01142. [195] Lee JH, Lee JH, Lim YS, et al. Adjuvant immunotherapy with autologous cytokine-induced killer cells for hepatocellular carcinoma[J]. Gastroenterology, 2015,148(7):1383-1391.e6. DOI: 10.1053/j.gastro.2015.02.055. [196] He C, Peng W, Li C, et al. Thymalfasin, a promising adjuvant therapy in small hepatocellular carcinoma after liver resection[J]. Medicine (Baltimore), 2017,96(16): e6606. DOI: 10.1097/MD.0000000000006606. [197] Chen Q, Shu C, Laurence AD, et al. Effect of Huaier granule on recurrence after curative resection of HCC: a multicentre, randomised clinical trial[J]. Gut, 2018,67(11):2006-2016. DOI: 10.1136/gutjnl-2018-315983. [198] Huang G, Li PP, Lau WY, et al. Antiviral Therapy Reduces Hepatocellular Carcinoma Recurrence in Patients With Low HBV-DNA Levels: A Randomized Controlled Trial[J]. Ann Surg, 2018,268(6):943-954. DOI: 10.1097/SLA.0000000000002727. [199] Wu J, Yin Z, Cao L, et al. Adjuvant pegylated interferon therapy improves the survival outcomes in patients with hepatitis-related hepatocellular carcinoma after curative treatment: A meta-analysis[J]. Medicine (Baltimore), 2018,97(28): e11295. DOI: 10.1097/MD.0000000000011295. [200] Singal AG, Lim JK, Kanwal F. AGA Clinical Practice Update on Interaction Between Oral Direct-Acting Antivirals for Chronic Hepatitis C Infection and Hepatocellular Carcinoma: Expert Review[J]. Gastroenterology, 2019,156(8):2149-2157. DOI: 10.1053/j.gastro.2019.02.046. [201] Cabibbo G, Celsa C, Calvaruso V, et al. Direct-acting antivirals after successful treatment of early hepatocellular carcinoma improve survival in HCV-cirrhotic patients[J]. J Hepatol, 2019,71(2):265-273. DOI: 10.1016/j.jhep.2019.03.027. [202] Qin S, Chen M, Cheng AL, et al. Atezolizumab plus bevacizumab versus active surveillance in patients with resected or ablated high-risk hepatocellular carcinoma (IMbrave050): a randomised, open-label, multicentre, phase 3 trial[J]. Lancet, 2023,402(10415):1835-1847. DOI: 10.1016/S0140-6736(23)01796-8. [203] Sapisochin G, Bruix J. Liver transplantation for hepatocellular carcinoma: outcomes and novel surgical approaches[J]. Nat Rev Gastroenterol Hepatol, 2017,14(4):203-217. DOI: 10.1038/nrgastro.2016.193. [204] Fan J, Yang GS, Fu ZR, et al. Liver transplantation outcomes in 1,078 hepatocellular carcinoma patients: a multi-center experience in Shanghai, China[J]. J Cancer Res Clin Oncol, 2009, 135(10): 1403-1412. DOI: 10.1007/s00432-009-0584-6. [205] Zheng SS, Xu X, Wu J, et al. Liver transplantation for hepatocellular carcinoma: Hangzhou experiences[J]. Transplantation, 2008,85(12):1726-1732. DOI: 127 / 143 10.1097/TP.0b013e31816b67e4. [206] Li J, Yan LN, Yang J, et al. Indicators of prognosis after liver transplantation in Chinese hepatocellular carcinoma patients[J]. World J Gastroenterol, 2009,15(33):4170-4176. DOI: 10.3748/wjg.15.4170. [207] 邵卓, 杨广顺, 杨宁, 等. 三亚共识在原发性肝癌肝移植治疗中的运用[J].中国实用外科 杂志,2008,28(6):466-469. DOI: 10.3321/j.issn:1005-2208.2008.06.018. [208] Kulik L, Heimbach JK, Zaiem F, et al. Therapies for patients with hepatocellular carcinoma awaiting liver transplantation: A systematic review and meta-analysis[J]. Hepatology, 2018,67(1):381-400. DOI: 10.1002/hep.29485. [209] Lee S, Kim KW, Song GW, et al. The real impact of bridging or downstaging on survival outcomes after liver transplantation for hepatocellular carcinoma[J]. Liver Cancer, 2020, 9(6): 721-733. DOI: 10.1159/000507887. [210] Nordness MF, Hamel S, Godfrey CM, et al. Fatal hepatic necrosis after nivolumab as a bridge to liver transplant for HCC: Are checkpoint inhibitors safe for the pretransplant patient",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk874",
+        "chunk": "[J]. Am J Transplant, 2020,20(3):879-883. DOI: 10.1111/ajt.15617. [211] Mazzaferro V, Citterio D, Bhoori S, et al. Liver transplantation in hepatocellular carcinoma after tumour downstaging (XXL): a randomised, controlled, phase 2b/3 trial[J]. Lancet Oncol, 2020,21(7):947-956. DOI: 10.1016/S1470-2045(20)30224-2. [212] Mehta N, Guy J, Frenette CT, et al. Excellent Outcomes of Liver Transplantation Following Down-Staging of Hepatocellular Carcinoma to Within Milan Criteria: A Multicenter Study[J]. Clin Gastroenterol Hepatol, 2018,16(6):955-964. DOI: 10.1016/j.cgh.2017.11.037. [213] Tabrizian P, Holzner ML, Mehta N, et al. Ten-Year Outcomes of Liver Transplant and Downstaging for Hepatocellular Carcinoma[J]. JAMA Surg, 2022,157(9):779-788. DOI: 10.1001/jamasurg.2022.2800. [214] Llovet JM, Pavel M, Rimola J, et al. Pilot study of living donor liver transplantation for patients with hepatocellular carcinoma exceeding Milan Criteria (Barcelona Clinic Liver Cancer extended criteria) [J]. Liver Transpl, 2018,24(3):369-379. DOI: 10.1002/lt.24977. [215] Pinheiro RS, Waisberg DR, Nacif LS, et al. Living donor liver transplantation for hepatocellular cancer: an (almost) exclusive Eastern procedure",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk875",
+        "chunk": "[J]. Transl Gastroenterol Hepatol, 2017,2:68. DOI: 10.21037/tgh.2017.08.02. [216] Kulik LM, Fisher RA, Rodrigo DR, et al. Outcomes of living and deceased donor liver transplant recipients with hepatocellular carcinoma: results of the A2ALL cohort[J]. Am J Transplant, 2012,12(11):2997-3007. DOI: 10.1111/j.1600-6143.2012.04272.x. [217] Wong T, Ng K, Fung J, et al. Long-Term Survival Outcome Between Living Donor and Deceased Donor Liver Transplant for Hepatocellular Carcinoma: Intention-to-Treat and Propensity Score Matching Analyses[J]. Ann Surg Oncol, 2019,26(5):1454-1462. DOI: 10.1245/s10434-019-07206-0. [218] Goldaracena N, Gorgen A, Doyle A, et al. Live donor liver transplantation for patients with hepatocellular carcinoma offers increased survival vs. deceased donation[J]. J Hepatol, 2019, 70(4): 666-673. DOI: 10.1016/j.jhep.2018.12.029. [219] Sposito C, Cucchetti A, Mazzaferro V. Assessing Competing Risks for Death Following Liver Transplantation for Hepatocellular Carcinoma[J]. Dig Dis Sci, 2019,64(4):1001-1007. DOI: 10.1007/s10620-019-05538-1. [220] Segev DL, Sozio SM, Shin EJ, et al. Steroid avoidance in liver transplantation: meta-analysis and meta-regression of randomized trials[J]. Liver Transpl, 2008,14(4):512-525. DOI: 10.1002/lt.21396. [221] Rodríguez-Perálvarez M, Tsochatzis E, Naveas MC, et al. Reduced exposure to calcineurin inhibitors early after liver transplantation prevents recurrence of hepatocellular carcinoma[J]. J Hepatol, 2013,59(6):1193-1199. DOI: 10.1016/j.jhep.2013.07.012. [222] Liang W, Wang D, Ling X, et al. Sirolimus-based immunosuppression in liver transplantation for hepatocellular carcinoma: a meta-analysis[J]. Liver Transpl, 2012,18(1):62-69. DOI: 10.1002/lt.22441. [223] Zhou J, Wang Z, Wu ZQ, et al. Sirolimus-based immunosuppression therapy in liver transplantation for patients with hepatocellular carcinoma exceeding the Milan criteria[J]. 128 / 143 Transplant Proc, 2008,40(10):3548-3553. DOI: 10.1016/j.transproceed.2008.03.165. [224] Geissler EK, Schnitzbauer AA, Zülke C, et al. Sirolimus Use in Liver Transplant Recipients With Hepatocellular Carcinoma: A Randomized, Multicenter, Open-Label Phase 3 Trial[J]. Transplantation, 2016,100(1):116-125. DOI: 10.1097/TP.0000000000000965. [225] Thorat A, Jeng LB, Yang HR, et al. Assessing the role of everolimus in reducing hepatocellular carcinoma recurrence after living donor liver transplantation for patients within the UCSF criteria: re-inventing the role of mammalian target of rapamycin inhibitors[J]. Ann Hepatobiliary Pancreat Surg, 2017,21(4):205-211. DOI: 10.14701/ahbps.2017.21.4.205. [226] Schnitzbauer AA, Filmann N, Adam R, et al. mTOR Inhibition Is Most Beneficial After Liver Transplantation for Hepatocellular Carcinoma in Patients With Active Tumors[J]. Ann Surg, 2020,272(5):855-862. DOI: 10.1097/SLA.0000000000004280. [227] Filgueira NA. Hepatocellular carcinoma recurrence after liver transplantation: Risk factors, screening and clinical presentation[J]. World J Hepatol, 2019,11(3):261-272. DOI: 10.4254/wjh.v11.i3.261. [228] Bodzin AS, Lunsford KE, Markovic D, et al. Predicting Mortality in Patients Developing Recurrent Hepatocellular Carcinoma After Liver Transplantation: Impact of Treatment Modality and Recurrence Characteristics[J]. Ann Surg, 2017,266(1):118-125. DOI: 10.1097/SLA.0000000000001894. [229] Au KP, Chok K. Multidisciplinary approach for post-liver transplant recurrence of hepatocellular carcinoma: A proposed management algorithm[J]. World J Gastroenterol, 2018,24(45):5081-5094. DOI: 10.3748/wjg.v24.i45.5081. [230] Iavarone M, Invernizzi F, Czauderna C, et al. Preliminary experience on safety of regorafenib after sorafenib failure in recurrent hepatocellular carcinoma after liver transplantation[J]. Am J Transplant, 2019,19(11):3176-3184. DOI: 10.1111/ajt.15551. [231] Shi GM, Wang J, Huang XW, et al. Graft Programmed Death Ligand 1 Expression as a Marker for Transplant Rejection Following Anti-Programmed Death 1 Immunotherapy for Recurrent Liver Tumors[J]. Liver Transpl, 2021,27(3):444-449. DOI: 10.1002/lt.25887. [232] Sapisochin G, Lee WC, Joo DJ, et al. Long-Term Effects of Everolimus-Facilitated Tacrolimus Reduction in Living-Donor Liver Transplant Recipients with Hepatocellular Carcinoma[J]. Ann Transplant, 2022,27: e937988. DOI: 10.12659/AOT.937988. [233] Lee DD, Sapisochin G, Mehta N, et al. Surveillance for HCC After Liver Transplantation: Increased Monitoring May Yield Aggressive Treatment Options and Improved Postrecurrence Survival[J]. Transplantation, 2020,104(10):2105-2112. DOI: 10.1097/TP.0000000000003117. [234] Zhong JH, Xing BC, Zhang WG, et al. Repeat hepatic resection versus radiofrequency ablation for recurrent hepatocellular carcinoma: retrospective multicentre study[J]. Br J Surg, 2021,109(1):71-78. DOI: 10.1093/bjs/znab340. [235] Wang Z, Liu M, Zhang DZ, et al. Microwave ablation versus laparoscopic resection as first-line therapy for solitary 3-5-cm HCC[J]. Hepatology, 2022,76(1):66-77. DOI: 10.1002/hep.32323. [236] Li L, Zhang J, Liu X, et al. Clinical outcomes of radiofrequency ablation and surgical resection for small hepatocellular carcinoma: a meta-analysis[J]. J Gastroenterol Hepatol, 2012,27(1):51-58. DOI: 10.1111/j.1440-1746.2011.06947.x. [237] Huang J, Yan L, Cheng Z, et al. A randomized trial comparing radiofrequency ablation and surgical resection for HCC conforming to the Milan criteria[J]. Ann Surg, 2010,252(6):903-912. DOI: 10.1097/SLA.0b013e3181efc656. [238] Feng Q, Chi Y, Liu Y, et al. Efficacy and safety of percutaneous radiofrequency ablation versus surgical resection for small hepatocellular carcinoma: a meta-analysis of 23 studies[J]. J Cancer Res Clin Oncol, 2015,141(1):1-9. DOI: 10.1007/s00432-014-1708-1. [239] Chen QW, Ying HF, Gao S, et al. Radiofrequency ablation plus chemoembolization versus radiofrequency ablation alone for hepatocellular carcinoma: A systematic review and meta-analysis[J]. Clin Res Hepatol Gastroenterol, 2016,40(3):309-314. DOI: 10.1016/j.clinre.2015.07.008. [240] Zhang YJ, Chen MS, Chen Y, et al. Long-term Outcomes of Transcatheter Arterial Chemoembolization Combined With Radiofrequency Ablation as an Initial Treatment for 129 / 143 Early-Stage Hepatocellular Carcinoma[J]. JAMA Netw Open, 2021,4(9): e2126992. DOI: 10.1001/jamanetworkopen.2021.26992. [241] Peng ZW, Zhang YJ, Chen MS, et al. Radiofrequency ablation with or without transcatheter arterial chemoembolization in the treatment of hepatocellular carcinoma: a prospective randomized trial[J]. J Clin Oncol, 2013, 31(4): 426-432. DOI: 10.1200/JCO.2012.42.9936. [242] Wang L, Ke Q, Lin N, et al. The efficacy of transarterial chemoembolization combined with microwave ablation for unresectable hepatocellular carcinoma: a systematic review and meta-analysis[J]. Int J Hyperthermia, 2019,36(1):1288-1296. DOI: 10.1080/02656736.2019.1692148. [243] Zhou C, Zhang X, Peng Y, et al. Surgical Resection plus Radiofrequency Ablation versus Radical Surgery for Hepatocellular Carcinoma: A Propensity Score Matching Analysis[J]. J Cancer, 2019,10(17):3933-3940. DOI: 10.7150/jca.29501. [244] Zhuang BW, Li W, Wang W, et al. Treatment effect of radiofrequency ablation versus liver transplantation and surgical resection for hepatocellular carcinoma within Milan criteria: a population-based study[J]. Eur Radiol, 2021,31(7):5379-5389. DOI: 10.1007/s00330-020-07551-9. [245] Livraghi T, Meloni F, Di Stasi M, et al. Sustained complete response and complications rates after radiofrequency ablation of very early hepatocellular carcinoma in cirrhosis: Is resection still the treatment of choice",
+        "method": "semantic_chunk"
+    },
+    {
+        "id": "chunk876",
+        "chunk": "[J]. Hepatology, 2008,47(1):82-89. DOI: 10.1002/hep.21933. [246] Peng ZW, Lin XJ, Zhang YJ, et al. Radiofrequency ablation versus hepatic resection for the treatment of hepatocellular carcinomas 2 cm or smaller: a retrospective comparative study[J]. Radiology, 2012,262(3):1022-1033. DOI: 10.1148/radiol.11110817. [247] Vietti Violi N, Duran R, Guiu B, et al. Efficacy of microwave ablation versus radiofrequency ablation for the treatment of hepatocellular carcinoma in patients with chronic liver disease: a randomised controlled phase 2 trial[J]. Lancet Gastroenterol Hepatol, 2018,3(5):317-325. DOI: 10.1016/S2468-1253(18)30029-3. [248] An C, Li WZ, Huang ZM, et al. Small single perivascular hepatocellular carcinoma: comparisons of radiofrequency ablation and microwave ablation by using propensity score analysis[J]. Eur Radiol, 2021,31(7):4764-4773. DOI: 10.1007/s00330-020-07571-5. [249] Yu J, Yu XL, Han ZY, et al. Percutaneous cooled-probe microwave versus radiofrequency ablation in early-stage hepatocellular carcinoma: a phase III randomised controlled trial[J]. Gut, 2017,66(6):1172-1173. DOI: 10.1136/gutjnl-2016-312629. [250] Tan W, Deng Q, Lin S, et al. Comparison of microwave ablation and radiofrequency ablation for hepatocellular carcinoma: a systematic review and meta-analysis[J]. Int J Hyperthermia, 2019,36(1):264-272. DOI: 10.1080/02656736.2018.1562571. [251] Yu J, Cheng ZG, Han ZY, et al. Period-Dependent Survival Benefit of Percutaneous Microwave Ablation for Hepatocellular Carcinoma: A 12-Year Real-World, Multicentric Experience[J]. Liver Cancer, 2022,11(4):341-353. DOI: 10.1159/000522134. [252] Lin SM, Lin CJ, Lin CC, et al. Randomised controlled trial comparing percutaneous radiofrequency thermal ablation, percutaneous ethanol injection, and percutaneous acetic acid injection to treat hepatocellular carcinoma of 3 cm or less[J]. Gut, 2005,54(8):1151-1156. DOI: 10.1136/gut.2004.045203. [253] 柳明, 刘超, 李成利, 等. 影像引导肝癌的冷冻消融治疗专家共识(2020 版)[J].中国医 刊,2020,55(5):489-492. DOI: 10.3969/j.issn.1008-1070.2020.05.008. [254] Hasegawa K, Aoki T, Ishizawa T, et al. Comparison of the therapeutic outcomes between surgical resection and percutaneous ablation for small hepatocellular carcinoma[J]. Ann Surg Oncol, 2014,21 Suppl 3: S348-355. DOI: 10.1245/s10434-014-3585-x. [255] Ahmed M, Solbiati L, Brace CL, et al. Image-guided tumor ablation: standardization of terminology and reporting criteria--a 10-year update[J]. J Vasc Interv Radiol, 2014,25(11):1691-1705.e4. DOI: 10.1016/j.jvir.2014.08.027. [256] Li L, Wang W, Pan H, et al. Microwave ablation combined with OK-432 induces Th1-type response and specific antitumor immunity in a murine model of breast cancer[J]. J Transl Med, 2017, 15(1): 23. DOI: 10.1186/s12967-017-1124-9. [257] Mizukoshi E, Yamashita T, Arai K, et al. Enhancement of tumor-associated antigen-specific T 130 / 143 cell responses by radiofrequency ablation of hepatocellular carcinoma[J]. Hepatology, 2013,57(4):1448-1457. DOI: 10.1002/hep.26153. [258] Slovak R, Ludwig JM, Gettinger SN, et al. Immuno-thermal ablations - boosting the anticancer immune response[J]. J Immunother Cancer, 2017,5(1):78. DOI: 10.1186/s40425-017-0284-8. [259] Duan X, Wang M, Han X, et al. Combined use of microwave ablation and cell immunotherapy induces nonspecific immunity of hepatocellular carcinoma model mice[J]. Cell Cycle, 2020,19(24):3595-3607. DOI: 10.1080/15384101.2020.1853942. [260] Rozeman EA, Prevoo W, Meier M, et al. Phase Ib/II trial testing combined radiofrequency ablation and ipilimumab in uveal melanoma (SECIRA-UM) [J]. Melanoma Res, 2020,30(3):252-260. DOI: 10.1097/CMR.0000000000000653. [261] 中国抗癌协会肿瘤介入专家委员会. 经导管动脉灌注化疗药物应用原则——中国肿瘤介 入 专 家 共 识 [J]. 介 入 放 射 学 杂 志 ,2017,26(11):963-970. DOI: 10.3969/j.issn.1008-794X.2017.11.001. [262] Lencioni R, de Baere T, Soulen MC, et al. Lipiodol transarterial chemoembolization for hepatocellular carcinoma: A systematic review of efficacy and safety data[J]. Hepatology, 2016,64(1):106-116. DOI: 10.1002/hep.28453. [263] Pelletier G, Ducreux M, Gay F, et al. Treatment of unresectable hepatocellular carcinoma with lipiodol chemoembolization: a multicenter randomized trial. Groupe CHC[J]. J Hepatol, 1998,29(1):129-134. DOI: 10.1016/s0168-8278(98)80187-6. [264] Lo CM, Ngan H, Tso WK, et al. Randomized controlled trial of transarterial lipiodol chemoembolization for unresectable hepatocellular carcinoma[J]. Hepatology, 2002,35(5):1164-1171. DOI: 10.1053/jhep.2002.33156. [265] Llovet JM, Real MI, Montaña X, et al. Arterial embolisation or chemoembolisation versus symptomatic treatment in patients with unresectable hepatocellular carcinoma: a randomised controlled trial[J]. Lancet, 2002,359(9319):1734-1739. DOI: 10.1016/S0140-6736(02)08649-X. [266] Cammà C, Schepis F, Orlando A, et al. Transarterial chemoembolization for unresectable hepatocellular carcinoma: meta-analysis of randomized controlled trials[J]. Radiology, 2002,224(1):47-54. DOI: 10.1148/radiol.2241011262. [267] Llovet JM, Bruix J. Systematic review of randomized trials for unresectable hepatocellular carcinoma: Chemoembolization improves survival[J]. Hepatology, 2003,37(2):429-442. DOI: 10.1053/jhep.2003.50047. [268] 中华医学会放射学分会介入学组协作组. 原发性肝细胞癌经导管肝动脉化疗性栓塞治疗 技术操作规范专家共识[J]. 中华放射学杂志,2011,45(10):908-912. DOI: 10.3760/cma.j.issn.1005-1201.2011.10.003. [269] 中国医师协会介入医师分会临床诊疗指南专委会. 中国肝细胞癌经动脉化疗栓塞（TACE） 治疗临床实践指南（2021 年版）[J]. 中华内科杂志,2021,60(7):599-614. DOI: 10.3760/cma.j.cn112137-20210425-00991. [270] 郭志, 滕皋军, 邹英华, 等. 载药微球治疗原发性和转移性肝癌的技术操作推荐[J].中华 放射学杂志,2019,53(5):336-340. DOI: 10.3760/cma.j.issn.1005-1201.2019.05.002. [271] Shao G, Zou Y, Lucatelli P, et al. Chinese expert consensus on technical recommendations for the standard operation of drug-eluting beads for transvascular embolization[J]. Ann Transl Med, 2021,9(8):714. DOI: 10.21037/atm-21-1678. [272] Liang B, Makamure J, Shu S, et al. Treatment Response, Survival, and Safety of Transarterial Chemoembolization With CalliSpheres(®) Microspheres Versus Conventional Transarterial Chemoembolization in Hepatocellular Carcinoma: A Meta-Analysis[J]. Front Oncol, 2021,11:576232. DOI: 10.3389/fonc.2021.576232. [273] Miyayama S, Matsui O. Superselective Conventional Transarterial Chemoembolization for Hepatocellular Carcinoma: Rationale, Technique, and Outcome[J]. J Vasc Interv Radiol, 2016,27(9):1269-1278. DOI: 10.1016/j.jvir.2016.04.014. [274] Iwazawa J, Ohue S, Hashimoto N, et al. Survival after C-arm CT-assisted chemoembolization of unresectable hepatocellular carcinoma[J]. Eur J Radiol, 2012,81(12):3985-3992. DOI: 131 / 143 10.1016/j.ejrad.2012.08.012. [275] Takayasu K, Arii S, Ikai I, et al. Overall survival after transarterial lipiodol infusion chemotherapy with or without embolization for unresectable hepatocellular carcinoma: propensity score analysis[J]. AJR Am J Roentgenol, 2010, 194(3): 830-837. DOI: 10.2214/AJR.09.3308. [276] Miyayama S, Matsui O, Yamashiro M, et al. Ultraselective transcatheter arterial chemoem-bolization with a 2-f tip microcatheter for small hepatocellular carcinomas: relationship be-tween local tumor recurrence and visualization of the portal vein with iodized oil[J]. J Vasc Interv Radiol, 2007, 18(3): 365-376. DOI: 10.1016/j.jvir.2006.12.004. [277] de Baere T, Ronot M, Chung JW, et al. Initiative on Superselective Conventional Transarterial Chemoembolization Results (INSPIRE)[J]. Cardiovasc Intervent Radiol, 2022,45(10):1430-1440. DOI: 10.1007/s00270-022-03233-9. [278] Prajapati HJ, Spivey JR, Hanish SI, et al. mRECIST and EASL responses at early time point by contrast-enhanced dynamic MRI predict survival in patients with unresectable hepatocellular carcinoma (HCC) treated by doxorubicin drug-eluting beads transarterial chemoembolization (DEB TACE) [J]. Ann Oncol, 2013,24(4):965-973. DOI: 10.1093/annonc/mds605. [279] Xia D, Wang Q, Bai W, et al. Optimal time point of response assessment for predicting survival is associated with tumor burden in hepatocellular carcinoma receiving repeated transar",
+        "method": "semantic_chunk"
+    }
+]
